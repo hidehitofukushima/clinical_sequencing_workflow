@@ -1,0 +1,135 @@
+修正・追記	Gene	別名	該当する造血器疾患	臨床的有用性	遺伝子変異の機能的意義とその種類	関連する染色体構造変化	Fast-track 対象遺伝子異常	エビデンスレベル＿診断	根拠となる論文、学会指針、臨床試験	エビデンスレベル＿治療法選択	根拠となる論文、学会指針、臨床試験	エビデンスレベル＿予後予測	根拠となる論文、学会指針、臨床試験	遺伝子異常と関連して、当該疾患に対して薬事　承認された薬剤	遺伝子異常と関連して、当該疾患に対してFDA　承認された薬剤	遺伝子異常と関連して、他の腫瘍に対して薬事　承認された薬剤	遺伝子異常と関連して、他の腫瘍に対してFDA　承認された薬剤	その他コメント
+	ATG5		ENKTL	1	機能喪失	del(6q21)		A	WHO2017, PMID: 19194464									コピー数異常をきたす領域に存在するが、当該遺伝子の欠失と病的意義との直接的な関連は明らかでない。
+	ATM		CLL/SLL	1	機能喪失	del(11q23)		A	WHO2017			A	WHO2017					
+	ATM		MCL	1	機能喪失	del(11q23)		A	WHO2017									
+	ATM		MM	2	機能喪失	del(11q23)		C	PMID:29884741					-				
+	ATM		T-PLL	1	機能喪失	del(11q23)		A	WHO2017, NCCN TCL v2 2017									
+	BCL11A		PMBL	1	機能獲得（増幅）			A	WHO2017									
+	BCL2		DLBCL	1	機能獲得（増幅、再構成：IGH/BCL2）	amp(18q21), t(14;18)(q32;q21)		A	WHO2017, NCCN2019	A	NCCN2019	A	WHO2017					
+	BCL2		Duodenal-type FL (DFL)	1	機能獲得（増幅）	amp(18q21)		A	WHO2017									
+	BCL2		FL	1	機能獲得（増幅、再構成：IGH/BCL2）、機能不明（変異）	amp(18q21), t(14;18)(q32;q21)		A	WHO2017									
+	BCL2		HGBL 	1	機能獲得（増幅、再構成：IGH/BCL2）	amp(18q21), t(14;18)(q32;q21)		A	WHO2017									
+	BCL2		MCL	1	機能獲得（増幅）	amp(18q21)		A	WHO2017									
+	BCL2		PCNSL	1	機能獲得（増幅）、機能不明（変異）	amp(18q21)		A	WHO2017									
+	BCL6		Duodenal-type FL (DFL)	1	機能獲得（増幅）			A	WHO2017									
+	BCL6		FL	1	機能獲得（増幅、再構成：IGH/BCL6）、機能不明（変異）	3q27 rearrangement		A	WHO2017									
+	BIRC2		MM	1	機能喪失	del(11q)		A	PMID: 27002115, 20616218									
+	BIRC3	cIAP2	CLL/SLL	1	機能喪失	del(11q22)		A	WHO2017			A	WHO2017, NCCN2019					
+	BIRC3	cIAP2	MM	1	機能喪失	del(11q)		A	PMID: 27002115, 20616218									
+	BMI1		MCL	1	機能獲得（増幅）			A	WHO2017									
+	BTG1		B-ALL/LBLL	2	機能喪失（欠失）							C	PMID：19039135, 24957142					
+	CCND1		MM	1	機能獲得（再構成：IGH/CCND1、増幅、変異）	t(11;14)(q13;q32)		A	WHO2017, NCCN2017, PMID: 27002115, 28584253, 21430775, 26282654, 24429703	B	PMID: 29018077, NCI-MATCH: NCT02465060	A	WHO2017, NCCN2017, PMID: 27002115, 28584253, 26282654 					t(11;14)(q13q;32) を有する症例に対してBCL2阻害剤 (Venetoclax) の有用性が示唆されている。
+	CD274	PD-L1	CHL	1	機能獲得（増幅）	amp(9p24)		A	WHO2017						Nivolumab, Pembrolizumab（変異規定なし）	Nivolumab, Pembrolizumab	Nivolumab, Pembrolizumab	
+	CD274	PD-L1	DLBCL	1	機能獲得（増幅、再構成）	amp(9p24)		A	WHO2017	D	PMID: 27281199					Nivolumab, Pembrolizumab	Nivolumab, Pembrolizumab	
+	CD274	PD-L1	PMBL	1	機能獲得（増幅、再構成）	amp(9p24)		A	WHO2017							Nivolumab, Pembrolizumab	Nivolumab, Pembrolizumab	
+	CD40		CHL	1	機能獲得（増幅）			A	WHO2017, PMID: 20339089									
+	CDK4		MCL	1	機能獲得（増幅）			A	WHO2017									
+	CDK4		MM	2	機能獲得（増幅）			C	PMID: 24429703, 18829482	C	NCI-MATCH: NCT02465060, TAPUR: NCT02693535						Ribociclib, Palbociclib（変異規定なし）	
+	CDKN2A	INK4A, ARF	ATLL	1	機能喪失	del(9p21)		A	WHO2017			C	PMID: 9164185					
+	CDKN2A	INK4A, ARF	B-ALL/LBLL	2	機能喪失（欠失）							C	PMID: 24957142					
+	CDKN2A		BPDCN	1	機能喪失（欠失）			A	WHO2017									
+	CDKN2A	INK4A, ARF	CLL/SLL	1	機能喪失	del(9p21)						A	WHO2017					
+	CDKN2A	INK4A, ARF	DLBCL	1	機能喪失	del(9p21)		A	WHO2017			A	WHO2017					
+	CDKN2A	INK4A, ARF	EATL	1	機能喪失	del(9p21)		A	WHO2017									
+	CDKN2A	INK4A, ARF	ENKTL	1	機能喪失	del(9p21)		A	WHO2017									
+	CDKN2A	INK4A, ARF	FL	1	機能喪失	del(9p21)						A	WHO2017					
+	CDKN2A	INK4A, ARF	MCL	1	機能喪失	del(9p21)		A	WHO2017			A	WHO2017					
+	CDKN2A	INK4A, ARF	Mycosis fungoides	1	機能喪失	del(9p21)		A	WHO2017									
+	CDKN2A	INK4A, ARF	SS	1	機能喪失	del(9p21)		A	WHO2017									
+	CDKN2A	INK4A, ARF	T-ALL	1	機能喪失 (欠失）			A	WHO2017									
+	CDKN2B	INK4B	B-ALL/LBLL	2	機能喪失（欠失）							C	PMID：24957142					
+	CDKN2B	INK4B	EATL	1	機能喪失	del(9p21)		A	WHO2017									
+	CDKN2B	INK4B	ENKTL	1	機能喪失	del(9p21)		A	WHO2017									
+	CDKN2C	INK4C	MM	1	機能喪失	del(1p32)		A	WHO2017, PMID: 27002115, 28584253			C	PMID: 20616218, 18829482					
+	CKS1B		MM	1	機能獲得（増幅）	amp(1q)		A	WHO2017, PMID: 27002115, 28584253			A	NCCN2017, PMID: 27002115, 28584253, 21836613, 22547600					
+	CRBN		MM	2	機能獲得（変異、増幅）、機能喪失（変異、欠失）	amp(3p)		C	PMID: 29884741, 21860026, 23480694, 25108355, 33443552	C	PMID: 21860026, 23480694, 25108355, 27458004, 33443552							CRBNの変異および欠失は、免疫調節薬（IMiDs: Lenalidomide, Pomalidomide）に対する感受性・耐性および生命予後に関与する可能性がある。
+	CRYBG1	AIM1	ENKTL	1	機能喪失	del(6q21)		A	WHO2017, PMID: 19194464									コピー数異常をきたす領域に存在するが、当該遺伝子の欠失と病的意義との直接的な関連は明らかでない。
+	CYLD		MM	2	機能喪失	del(16q)		C	PMID: 24434212, 26282654, 24429703, 27458004, 22573403, 17692805									
+	DIS3		MM	1	機能喪失	del(13)		A	WHO2017, PMID: 21430775, 24434212, 26282654, 20616218									
+	EBF1		B-ALL/LBLL	2	機能喪失（欠失）							C	PMID: 24957142					
+	EIF4A2		Duodenal-type FL (DFL)	1	機能獲得（増幅）			A	WHO2017									コピー数異常をきたす領域に存在するが、当該遺伝子の増幅と病的意義との直接的な関連は明らかでない。
+	ERG		B-ALL/LBLL	1	機能喪失（欠失）			B	PMID: 27776115			C	PMID: 24064621					
+	ETV6	TEL	B-ALL/LBLL	1	機能喪失（欠失）			A	WHO2017, PMID: 25581430, 25807284, 26102509, 26522332 			C	PMID: 24957142					当該疾患の発症と関連した生殖細胞系列の病的バリアントである可能性がある。
+	ETV6	TEL	ETP-ALL	1	機能喪失（欠失）			A	NCCN2019, PMID: 22237106									当該疾患の発症と関連した生殖細胞系列の病的バリアントである可能性がある。
+	ETV6	TEL	MPAL, B/myeloid, NOS	1	機能喪失（欠失）			A	WHO2017, PMID: 25581430, 25807284, 26102509, 26522332, 30209392 									当該疾患の発症と関連した生殖細胞系列の病的バリアントである可能性がある。
+	ETV6	TEL	MPAL, T/myeloid, NOS	1	機能喪失（欠失）			D	PMID: 30209392 									当該疾患の発症と関連した生殖細胞系列の病的バリアントである可能性がある。
+	FAF1		MM	1	機能喪失	del(1p)		A	WHO2017, PMID: 27002115, 28584253			C	PMID: 20616218, 18829482					
+	FAM46C		MM	1	機能喪失	del(1p12)		A	WHO2017, PMID: 27002115, 28584253			C	PMID: 20616218, 18829482					
+	FGFR1		Duodenal-type FL (DFL)	1	機能獲得（増幅）			A	WHO2017									コピー数異常をきたす領域に存在するが、当該遺伝子の増幅と病的意義との直接的な関連は明らかでない。
+	FIP1L1		MLN-e with PDGFRA rearrangement	1	機能獲得（融合：FIP1LI/PDGFRA）	del(4)(q12q12)		A	WHO2017, PMID: 12660384	A	NCCN, JSH-GL, ELN			Imatinib	Imatinib	Sunitinib（変異規定なし）	Sunitinib（変異規定なし）	
+	IKBKB		CHL	1	機能獲得（増幅）			A	WHO2017, PMID: 20339089									
+	IKZF1	IKAROS	B-ALL/LBLL	1	機能喪失､機能獲得（欠失、融合、変異：N159Yなど）			D	PMID: 29681510			A	NCCN2019, NCCN2020 (Pediatric ALL), PMID: 18408710, 19589926, 19129520, 24740809, 22699455, 29498923, 31821407					当該疾患の発症と関連した生殖細胞系列の病的バリアントである可能性がある。
+	IKZF2		ATLL	1	機能獲得（再構成：遺伝子内欠失）			D	PMID: 26437031									
+	JAK2		CHL	1	機能獲得（増幅）	amp(9p24)		A	WHO2017							Ruxolitinib（変異規定なし）, Fedratinib（変異規定なし）	Ruxolitinib（変異規定なし）	
+	JAK2		PMBL	1	機能獲得（増幅）	amp(9p24)		A	WHO2017, NCCN2019	C	NCT01965119					Ruxolitinib（変異規定なし）, Fedratinib（変異規定なし）	Ruxolitinib（変異規定なし）	
+	MAF	C-MAF	MM	1	機能獲得（再構成：IGH/MAF、増幅）	t(14;16)(q32;q23), amp(16q23)		A	WHO2017, NCCN2017,  PMID: 29884471, 27002115, 28584253			A	WHO2017, NCCN2017,  PMID: 27002115, 28584253					
+	MALT1		PCNSL	1	機能獲得（増幅）	amp(18q21)		A	WHO2017									
+	MAP3K14	NIK	CHL	1	機能獲得（増幅）			A	WHO2017, PMID: 20339089									
+	MAP3K14	NIK	MM	1	機能獲得（再構成：IGH/MAP3K14、増幅） 	t(14;17)(q32;q21)		A	WHO2017, PMID: 17692805, 17692804									
+	MDM2		DLBCL	2	機能獲得（増幅）			D	PMID: 23982177 									
+	miR-15a		CLL/SLL	1	機能喪失	del(13q14)		A	WHO2017			A	WHO2017					
+	miR16-1		CLL/SLL	1	機能喪失	del(13q14)		A	WHO2017			A	WHO2017					
+	MYB		T-ALL	2	機能獲得（増幅、再構成、変異）			D	PMID: 17452517, 28671688									
+	MYC		CLL/SLL	1	機能獲得（増幅、再構成：IGH/MYCなど）	amp(8q24), t(8;14)(q24;q32)など		A	WHO2017			A	WHO2017					
+	MYC		DLBCL	1	機能獲得（増幅、再構成：IGH/MYCなど）	amp(8q24), t(8;14)(q24;q32)など		A	WHO2017, NCCN2019			A	WHO2017					
+	MYC		FL	1	機能獲得（増幅、再構成：IGH/MYCなど）	amp(8q24), t(8;14)(q24;q32)など		A	WHO2017			A	WHO2017					
+	MYC		HGBL 	1	機能獲得（増幅、再構成：IGH/MYCなど）	amp(8q24), t(8;14)(q24;q32)など		A	WHO2017									
+	MYC		MCL	1	機能獲得（増幅、再構成：IGH/MYCなど）	amp(8q24), t(8;14)(q24;q32)など		A	WHO2017			A	WHO2017					
+	MYC		MEITL	1	機能獲得（増幅）	amp(8q24)		A	WHO2017									
+	MYC		MM	1	機能獲得（再構成：IGH/MYC, 増幅）	t(8;14)(q24;q32)など, amp(8q24)		A	WHO2017, PMID: 29884741, 28584253			C	PMID: 26282654, 24632883					
+	MYC		T-PLL	1	機能獲得（増幅）	amp(8q24)		A	WHO2017									
+	NR3C1		BPDCN	2	機能喪失（欠失、融合）			D	PMID:27060168	D	PMID: 27060168	C	PMID: 27060168					
+	PAX5		B-ALL/LBLL	1	機能喪失（欠失、変異：P80Rなど）			A	WHO2017, PMID: 24013638, 24287434			C	PMID: 24957142, 30643249, 30510083					当該疾患の発症と関連した生殖細胞系列の病的バリアントである可能性がある。
+	PDCD1LG2	PD-L2	CHL	1	機能獲得（増幅）	amp(9p24)		A	WHO2017, PMID: 27069084, 29222272			D	PMID: 27069084					
+	PDCD1LG2	PD-L2	DLBCL	1	機能獲得（増幅、再構成）	amp(9p24)		A	WHO2017, PMID: 27268263									
+	PDCD1LG2	PD-L2	PMBL	1	機能獲得（増幅、再構成）	amp(9p24)		A	WHO2017, PMID: 24497532, 31292115 									
+	PDGFRA		MLN-e with PDGFRA rearrangement	1	機能獲得（融合：FIP1LI/PDGFRA）	del(4)(q12q12)		A	WHO2017, PMID: 12660384	A	NCCN, JSH-GL, ELN			Imatinib	Imatinib	Sunitinib（変異規定なし）	Sunitinib（変異規定なし）	
+	PDGFRB		B-ALL/LBLL BCR-ABL1-like	1	機能獲得（融合：EBF1/PDGFRB, ETV6/PDGFRB, ATF7IP/PDGFRB, NUMA1/PDGFRB, など）	del(5)(q32q33) t(5;12)(q33;p13) t(5;12)(q33;p13),   t(5;11) (q33;q13)		A	WHO2017, PMID: 25207766, 30181314, 31935290	C	NCT01406756, NCT02883049, NCT03117751, PMID: 23835704, 31434701	A	WHO2017, NCCN2020 (Pediatric ALL)			Imatinib, Sunitinib（変異規定なし）	Regorafenib, Sunitinib（変異規定なし）	
+	PRDM1	BLIMP1	ALCL (ALK-)	1	機能喪失	del(6q21)		A	WHO2017			A	WHO2017					
+	PRDM1	BLIMP1	DLBCL	1	機能喪失	del(6q21)		A	WHO2017									
+	PRDM1	BLIMP1	ENKTL	1	機能喪失	del(6q21)		A	WHO2017									
+	PRDM1	BLIMP1	PCNSL	1	機能喪失	del(6q21)		A	WHO2017									
+	PTEN		Duodenal-type FL (DFL)	1	機能喪失	del(10q23)		A	WHO2017									コピー数異常をきたす領域に存在するが、当該遺伝子の欠失と病的意義との直接的な関連は明らかでない。
+	PTEN		FL	1	機能喪失	del(10q23)		A	WHO2017									当該疾患以外の疾患の発症と関連した生殖細胞系列の病的バリアントである可能性がある。
+	PTEN		Mycosis fungoides	1	機能喪失	del(10q23)		A	WHO2017									当該疾患以外の疾患の発症と関連した生殖細胞系列の病的バリアントである可能性がある。
+	RB1		B-ALL/LBLL	2	機能喪失（欠失）							C	PMID: 24957142					当該疾患以外の疾患の発症と関連した生殖細胞系列の病的バリアントである可能性がある。
+	RB1		MM	1	機能喪失	del(13q)		A	WHO2017, PMID: 21430775, 24434212, 26282654, 20616218									当該疾患以外の疾患の発症と関連した生殖細胞系列の病的バリアントである可能性がある。
+	REL		CHL	1	機能獲得（増幅）	amp(2p16)		A	WHO2017									
+	REL		DLBCL	1	機能獲得（増幅）	amp(2p16)		A	WHO2017									
+	REL		PMBL	1	機能獲得（増幅）	amp(2p16)		A	WHO2017, NCCN2019									
+	ROBO1		MDS	2	機能喪失（欠失）			D	PMID: 26608094 									
+	ROBO2		MDS	2	機能喪失（欠失）			D	PMID: 26608094 									
+	RUNX1	AML1	B-ALL/LBLL with iAMP21	1	機能獲得（増幅）	iAMP21		A	WHO2017			A	NCCN2019					
+	RUNX1	AML1	ETP-ALL	1	機能喪失（欠失）			A	NCCN2019, PMID: 22237106									当該疾患の発症と関連した生殖細胞系列の病的バリアントである可能性がある。
+	STAT5B		SS	1	機能獲得（増幅、変異：N642Hなど）			A	WHO2017									
+	TET2		MPAL	1	機能喪失（欠失）			A	WHO2017									
+	TFRC		Duodenal-type FL (DFL)	1	機能獲得（増幅）			A	WHO2017									コピー数異常をきたす領域に存在するが、当該遺伝子の増幅と病的意義との直接的な関連は明らかでない。
+	TNFAIP3	A20	CHL	2	機能喪失	del(6q23)		D	PMID: 28297626									
+	TNFAIP3	A20	DLBCL	1	機能喪失	del(6q23)		A	WHO2017, PMID: 19412163	D	PMID: 26193343							TNFAIP3の変異により、BTK阻害剤 (Ibrutinib) に対する耐性を獲得する可能性がある。
+	TNFAIP3	A20	FL	1	機能喪失	del(6q23)		A	WHO2017, PMID: 19412163									
+	TNFAIP3	A20	MALT	1	機能喪失	del(6q23)		A	WHO2017, PMID: 19412163									
+	TNFAIP3	A20	MCL	1	機能喪失	del(6q23)		A	WHO2017									
+	TNFAIP3	A20	PMBL	1	機能喪失	del(6q23)		A	WHO2017									
+	TNFRSF14	HVEM	DLBCL	1	機能喪失	del(1p36)		A	WHO2017									
+	TNFRSF14	HVEM	FL	1	機能喪失	del(1p36)		A	WHO2017									
+	TNFRSF14	HVEM	PTFL	1	機能喪失	del(1p36)		A	WHO2017, NCCN2019									
+	TP53		ALCL (ALK-)	1	機能喪失、機能獲得（変異）	del(17p13)		A	WHO2017			A	WHO2017					
+	TP53		BL	1	機能喪失、機能獲得（変異）	del(17p13)		A	WHO2017									
+	TP53		CLL/SLL	1	機能喪失、機能獲得（変異）	del(17p13)		A	WHO2017	A	NCCN2022, NCT03836261	A	WHO2017, NCCN2019					
+	TP53		DLBCL	1	機能喪失、機能獲得（変異）	del(17p13)		A	WHO2017			A	WHO2017					
+	TP53		EATL	1	機能喪失、機能獲得（変異）	del(17p13)		A	WHO2017									
+	TP53		ENKTL	1	機能喪失、機能獲得（変異）	del(17p13)		A	WHO2017									
+	TP53		FL	1	機能喪失、機能獲得（変異）	del(17p13)		A	WHO2017			A	WHO2017					
+	TP53		HCL-v	1	機能喪失、機能獲得（変異）	del(17p13)		A	WHO2017			A	WHO2017					
+	TP53		HGBL 	1	機能喪失、機能獲得（変異）	del(17p13)		A	WHO2017									
+	TP53		LBCL with IRF4-r	1	機能喪失、機能獲得（変異）	del(17p13)		A	WHO2017									
+	TP53		MCL	1	機能喪失、機能獲得（変異）	del(17p13)		A	WHO2017			A 	PMID: 25210087 (ESMO), WHO 2017, NCCN2019					
+	TP53		MM	1	機能喪失、機能獲得（変異）	del(17p13)		A	WHO2017, PMID: 27002115, 24434212, 21430775, 20616218, 26282654, 24429703			C	PMID: 20616218, 26282654					
+	TP53		SMZL	1	機能喪失、機能獲得（変異）	del(17p13)						A	WHO2017					
+	TP53		SS	1	機能喪失、機能獲得（変異）	del(17p13)		A	WHO2017									
+	TP53		T-PLL	1	機能喪失、機能獲得（変異）	del(17p13)		A	WHO2017									
+	TP53		WM/LPL	1	機能喪失、機能獲得（変異）	del(17p13)		A	WHO2017									
+	TP73		ATLL	1	機能獲得（再構成：遺伝子内欠失）			A	WHO2017, PMID: 26437031									
+	TRAF3		MM	2	機能喪失	del(14q)		C	PMID: 24434212, 17692805, 17692804, 26282654									
+	WWOX		MM	1	機能喪失	del(16q)		A	PMID: 27002115, 20616218, 17609426			D	PMID: 17609426					WWOXはMAFの上流（1Mb セントロメア側）に位置し、IgH/MAF転座時のブレークポイントになりうる。その際は、MAF の発現上昇とともに WWOX の失活がもたらされる。
+	FLT3	AML	D835､N676K	機能獲得（変異：ITD,TKD）	NCCN2020,ELN2017	Gilteritinib,Quizartinib(ITDのみ）	Midostaurin,Gilteritinib		Midostaurin,Sorafenib,Gilteritinib	

@@ -1,0 +1,6 @@
+export R_LIBS="/Library/Frameworks/R.framework/Versions/4.4-arm64/Resources/library/clinical_sequencing_workflow" && export LD_LIBRARY_PATH=/opt/X11/lib && python3 master.py
+
+
+# igvをスポットで使用するとき。
+export JAVA_HOME="/Library/Java/JavaVirtualMachines/jdk-11.jdk/Contents/Home"
+/Users/fukushimahideto/tools/IGV_2.17.2/igv.sh

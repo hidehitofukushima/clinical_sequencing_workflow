@@ -1,0 +1,1050 @@
+Gene	該当する造血器疾患	Fast-track対象遺伝子異常	遺伝子変異の機能的意義とその種類	根拠となる論文、学会指針、臨床試験	遺伝子異常と関連して、当該疾患に対して薬事　承認された薬剤	遺伝子異常と関連して、当該疾患に対してFDA　承認された薬剤	遺伝子異常と関連して、他の腫瘍に対して薬事　承認された薬剤	遺伝子異常と関連して、他の腫瘍に対してFDA　承認された薬剤	
+ABL1	CML,BCR-ABL1+	T315I/A,G250E,Y253H,E255K/V,V299L,F317L/V/I/C,F359V/C/I	機能獲得（変異：T315Iなど）						
+ABL1	MPALwitht(9;22)(q34.1;q11.2);BCR-ABL1	T315I/A,G250E,Y253H,E255K/V,V299L,F317L/V/I/C,F359V/C/I	機能獲得（変異：T315Iなど）		Ponatinib	Ponatinib			
+ABL1	AMLwithBCR-ABL1		機能獲得（融合：BCR/ABL1）	WHO2017			Imatinib,Dasatinib,Nilotinib,Bosutinib,Ponatinib		
+ABL1	B-ALL/LBLLBCR-ABL1-like		機能獲得（融合：NUP214/ABL1,RANBP2/ABL1,ETV6/ABL1,ZMIZ1/ABL1,RCSD1/ABL1,LSM14A-ABL1など）	NCCN2020(PediatricALL)			Dasatinib		
+ABL1	B-ALL/LBLLwitht(9;22)(q34.1;q11.2);BCR-ABL1		機能獲得（融合：BCR/ABL1）	NCCN2019,NCCN2020(PediatricALL)					
+ABL1	CML,BCR-ABL1+		機能獲得（融合、再構成：BCR/ABL1以外）						
+ABL1	CML,BCR-ABL1+		機能獲得（融合：BCR/ABL1）	NCCN2020,JSH-GL,ELN2017(forMRDevaluation)	Imatinib,Dasatinib,Nilotinib,Bosutinib,Ponatinib	Imatinib,Dasatinib,Nilotinib,Bosutinib,Ponatinib			
+ABL1	MPALwitht(9;22)(q34.1;q11.2);BCR-ABL1		機能獲得（融合：BCR/ABL1）		Imatinib,Dasatinib,Ponatinib	Imatinib,Dasatinib,Ponatinib	Imatinib,Dasatinib,Nilotinib,Bosutinib,Ponatinib	Imatinib,Dasatinib,Nilotinib,Bosutinib,Ponatinib	
+ABL2	B-ALL/LBLLBCR-ABL1-like		機能獲得（融合：RCSD1/ABL2,ZC3HAV1/ABL2,PAG1/ABL2など）	NCCN2020(PediatricALL)					
+ACD	IBMFS:Telomerebiologydisorders		機能喪失						
+ACTG1	MM		機能獲得（変異）						
+AFF1	B-ALL/LBLLwitht(v;11q23.3);KMT2Arearranged		機能獲得（融合：KMT2A/AFF1）	NCCN2019					
+AKT1	T-ALL		機能獲得（変異：E17Kなど）						
+ALK	ALCL(ALK+)		機能獲得（融合：NPM1/ALK,TPM3/ALKなど）				Crizotinib,Ceritinib,Alectinib	Crizotinib,Ceritinib,Alectinib,Brigatinib	
+ALK	AML		機能獲得				Crizotinib,Ceritinib,Alectinib	Crizotinib,Ceritinib,Alectinib,Brigatinib	
+ALK	C-ALCL		機能獲得（融合：NPM1/ALK）				Crizotinib,Ceritinib,Alectinib	Crizotinib,Ceritinib,Alectinib,Brigatinib	
+ALK	HCDN		機能獲得（融合：KIF5B-ALK,CLTC-ALK,TPM3-ALKなど）				Crizotinib,Ceritinib,Alectinib	Crizotinib,Ceritinib,Alectinib	
+ALK	JMML		機能獲得（融合：DCTN1/ALK,RANBP2-ALK）				Crizotinib,Ceritinib,Alectinib	Crizotinib,Ceritinib,Alectinib	
+ALK	LBCL(ALK+)		機能獲得（融合：CLTC/ALK,NPM1/ALK,SQSTM1/ALK,SEC31A/ALK）				Crizotinib,Ceritinib,Alectinib	Crizotinib,Ceritinib,Alectinib,Brigatinib	
+ANKRD26	MyeloidneoplasmswithgermlineANKRD26mutation		機能獲得						
+APC	BPDCN		機能喪失						
+ARAF	Langerhanscellhistiocytosis		機能獲得						
+ARID1A	BL		機能喪失						
+ARID1A	ENKTL		機能喪失						
+ARID1A	FL		機能喪失	PMID:27664263(ESMO)					
+ARID1A	MM		機能喪失						
+ARID1A	SS		機能喪失						
+ARID1A	WM/LPL		機能喪失						
+ARID1B	HSTL		機能喪失						
+ARID2	ATLL		機能喪失						
+ARID2	MM		機能喪失						
+ARID5B	B-ALL/LBL		機能喪失						
+ASXL1	AML		機能獲得（変異：exon11-12truncation）	ELN2017,NCCN2020					
+ASXL1	BPDCN		機能喪失						
+ASXL1	CHIP		機能獲得（変異：exon11-12truncation）						
+ASXL1	CML,BCR-ABL1+		機能獲得（変異：exon11-12truncation）	PMID:29967129					
+ASXL1	CMML		機能獲得（変異：exon11-12truncation）	PMID:23690417					
+ASXL1	MDS		機能獲得（変異：exon11-12truncation）	NCCN2019					
+ASXL1	MPAL		機能喪失						
+ASXL1	PMF		機能獲得（変異：exon11-12truncation）	NCCN2019,PMID:31076447					
+ASXL1	PV		機能獲得（変異：exon11-12truncation）	NCCN2019					
+ASXL2	AMLwitht(8;21)(q22;q22.1);RUNX1-RUNX1T1		機能喪失						
+ASXL2	CHIP		機能喪失						
+ASXL3	ENKTL		機能喪失						
+ATG2B	FamilialMPN		機能獲得（重複）						
+ATG5	ENKTL		機能喪失						
+ATM	BPDCN		機能喪失						
+ATM	CHIP		機能喪失						
+ATM	CLL/SLL		機能喪失	WHO2017					
+ATM	MCL		機能喪失						
+ATM	MM		機能喪失		-				
+ATM	PTCL-NOS		機能喪失						
+ATM	T-PLL		機能喪失						
+ATP6AP1	FL		機能喪失						
+ATP6V1B2	FL		機能喪失						
+ATRX	AA		機能喪失						
+ATRX	MDS		機能喪失						
+ATRX	MM		機能喪失						
+ATXN1	ATLL		機能喪失						
+B2M	CHL		機能喪失						
+B2M	DLBCL		機能喪失						
+BCL10	MALT		機能獲得（再構成：IGH/BCL10）						
+BCL11A	PMBL		機能獲得（増幅）						
+BCL11B	T-ALL		機能喪失（変異：R447Cなど、再構成：BCL11B/TLX3など）						
+BCL2	CLL/SLL		機能獲得（再構成：IGH/BCL2）						
+BCL2	CLL/SLL		機能獲得（変異：G101V,D103Y）						
+BCL2	DLBCL		機能獲得（増幅、再構成：IGH/BCL2）	WHO2017					
+BCL2	Duodenal-typeFL(DFL)		機能獲得（増幅）						
+BCL2	FL		機能獲得（増幅、再構成：IGH/BCL2）、機能不明（変異）						
+BCL2	HGBL		機能獲得（増幅、再構成：IGH/BCL2）						
+BCL2	MCL		機能獲得（増幅）						
+BCL2	PCNSL		機能獲得（増幅）、機能不明（変異）						
+BCL2L11	CML,BCR-ABL1+		機能喪失						
+BCL3	CLL/SLL		機能獲得（再構成：IGH/BCL3）						
+BCL6	DLBCL		機能獲得（再構成：IGH/BCL6など）	WHO2017					
+BCL6	Duodenal-typeFL(DFL)		機能獲得（増幅）						
+BCL6	FL		機能獲得（増幅、再構成：IGH/BCL6）、機能不明（変異）						
+BCL6	HGBL		機能獲得（再構成：IGH/BCL6など）						
+BCL6	LBCLwithIRF4-r		機能獲得（再構成：IGH/BCL6など）						
+BCL6	M-PTLD		機能不明（変異）	NCCN2019,PMID:9746767					
+BCL6	MCL		機能獲得（再構成：IGH/BCL6など）						
+BCL6	NLPHL		機能獲得（再構成：IGH/BCL6など）						
+BCL6	P-PTLD		機能不明（変異）						
+BCL6	PCNSL		機能獲得（再構成：IGH/BCL6など）						
+BCL6	PMBL		機能不明（変異）						
+BCOR	AA		機能喪失	PMID:24047651,26132940					
+BCOR	AML		機能喪失	PMID:22012066					
+BCOR	MDS		機能喪失	NCCN2019					
+BCOR	T-PLL		機能喪失						
+BCORL1	AA		機能喪失	PMID:24047651,26132940					
+BCORL1	MDS		機能喪失	PMID:26132940					
+BCR	AMLwithBCR-ABL1		機能獲得（融合：BCR/ABL1）	WHO2017			Imatinib,Dasatinib,Nilotinib,Bosutinib,Ponatinib		
+BCR	B-ALL/LBLLBCR-ABL1-like		機能獲得（融合：BCR/JAK2）	NCCN2020(PediatricALL)					
+BCR	B-ALL/LBLLwitht(9;22)(q34.1;q11.2);BCR-ABL1		機能獲得（融合：BCR/ABL1）	NCCN2019,NCCN2020(PediatricALL)					
+BCR	CML,BCR-ABL1+		機能獲得（融合、再構成：BCR/ABL1以外）						
+BCR	CML,BCR-ABL1+		機能獲得（融合：BCR/ABL1）	NCCN2020,JSH-GL,ELN2017(forMRDevaluation)	Imatinib,Dasatinib,Nilotinib,Bosutinib,Ponatinib	Imatinib,Dasatinib,Nilotinib,Bosutinib,Ponatinib			
+BCR	MPALwitht(9;22)(q34.1;q11.2);BCR-ABL1		機能獲得（融合：BCR/ABL1）				Imatinib,Dasatinib,Nilotinib,Bosutinib,Ponatinib		
+BIRC2	MM		機能喪失						
+BIRC3	CLL/SLL		機能喪失	WHO2017,NCCN2019					
+BIRC3	MALT		機能獲得（融合：BIRC3/MALT1）						
+BIRC3	MM		機能喪失						
+BLM	Germlinepredispositionformyeloidneoplasms:Bloomsyndrome		機能喪失						
+BLNK	PCNSL		機能喪失						
+BMI1	MCL		機能獲得（増幅）						
+BRAF	AML	V600E	機能獲得（変異：V600E,D594Nなど）	PMID:27276561			Dabrafenib,Vemurafenib	Dabrafenib,Vemurafenib	
+BRAF	BPDCN	V600E	機能獲得						
+BRAF	Erdheim-Chesterdisease	V600E	機能獲得（変異：V600Eなど）			Vemurafenib		Dabrafenib,Vemurafenib	
+BRAF	Folliculardendriticcellsarcoma	V600E	機能獲得（変異：V600Eなど）					Dabrafenib,Vemurafenib	
+BRAF	HCL	V600E	機能獲得（変異：V600E/R/K/Dなど）				Dabrafenib,Vemurafenib	Dabrafenib,Vemurafenib	
+BRAF	Histiocyticsarcoma	V600E	機能獲得（変異：V600Eなど）					Dabrafenib,Vemurafenib	
+BRAF	Indeterminatedendriticcellsarcoma	V600E	機能獲得（変異：V600Eなど）					Dabrafenib,Vemurafenib	
+BRAF	Langerhanscellhistiocytosis	V600E	機能獲得（変異：V600E,K57Nなど）					Dabrafenib,Vemurafenib	
+BRAF	Langerhanssarcoma	V600E	機能獲得（変異：V600Eなど）					Dabrafenib,Vemurafenib	
+BRAF	MM	V600E	機能獲得（変異：V600Eなど）				Dabrafenib,Vemurafenib	Dabrafenib,Vemurafenib	
+BRCA1	Germlinepredispositionformyeloidneoplasms		機能喪失				Olaparib	Talazoparib,Olaparib,Rucaparib	
+BRCA1	IBMFS:Fanconianemia		機能喪失				Olaparib	Talazoparib,Olaparib,Rucaparib	
+BRCA2	Germlinepredispositionformyeloidneoplasms		機能喪失				Olaparib	Talazoparib,Olaparib,Rucaparib	
+BRCA2	IBMFS:Fanconianemia		機能喪失				Olaparib	Talazoparib,Olaparib,Rucaparib	
+BRCC3	CHIP		機能喪失						
+BRCC3	MDS		機能喪失						
+BRIP1	Germlinepredispositionformyeloidneoplasms		機能喪失						
+BRIP1	IBMFS:Fanconianemia		機能喪失						
+BTG1	B-ALL/LBLL		機能喪失（欠失）	PMID：19039135,24957142					
+BTG1	DLBCL		機能不明（変異）						
+BTG2	DLBCL		機能不明（変異）						
+加）			2						
+BTK	CLL/SLL		機能獲得（変異）		Ibrutinib（変異規定なし）	Ibrutinib（変異規定なし）	Ibrutinib（変異規定なし）,Acalabrutinib	Ibrutinib（変異規定なし）,Acalabrutinib（変異規定なし）	
+CALR	ET	E364fs､K385fs	機能獲得（変異：L367fsなど）	NCCN2019					
+CALR	MDS/MPN-RS-T	E364fs､K385fs	機能獲得（変異：L367fsなど）						
+CALR	PMF	E364fs､K385fs	機能獲得（変異：L367fsなど）	NCCN2019					
+CARD11	ATLL		機能獲得（変異：E626Kなど）						
+CARD11	DLBCL		機能獲得（変異）						
+CARD11	FL		機能獲得（変異）	PMID:27664263(ESMO)					
+CARD11	PCNSL		機能獲得（変異）						
+CBFA2T3	AML		機能獲得（融合：CBFA2T3/GLIS2）	WHO2017					
+CBFB	AMLwitht(16;16)(p13.1;q22);CBFB-MYH11		機能獲得（融合：CBFB/MYH11）	NCCN2020,ELN2017					
+CBL	AML		機能獲得（変異）	PMID:27983727					
+CBL	CHIP		機能獲得（変異）						
+CBL	CMML		機能獲得（変異）	PMID:23690417					
+CBL	CNL		機能獲得（変異）	PMID:28762112					
+CBL	JMML		機能獲得（変異）						
+CBL	JMMLassociatedwithNoonansyndrome		機能獲得（変異）						
+CBL	MDS		機能獲得（変異）						
+CBL	PCNSL		機能喪失						
+CBL	PMF		機能獲得（変異）	PMID:28028029					
+CCND1	MCL		機能獲得（再構成：IGH/CCND1、変異：Y44Dなど）						
+CCND1	MM		機能獲得（再構成：IGH/CCND1、増幅、変異）	WHO2017,NCCN2017,PMID:27002115,28584253,26282654					
+CCND2	AML		機能獲得（変異：P281L/A/Rなど）						
+CCND2	MCL		機能獲得（再構成：IGK/CCND2,IGL/CCND2）						
+CCND2	MM		機能獲得（再構成：IGH/CCND2）						
+CCND3	BL		機能獲得（変異：P284Sなど）						
+CCND3	HCL-v		機能獲得（変異）						
+CCND3	MM		機能獲得（再構成：IGH/CCND3）	PMID:27002115					
+CCND3	T-ALL		機能獲得						
+CCR4	ATLL		機能獲得（変異：Y331*など）		Mogamulizumab				
+CCR7	ATLL		機能獲得（変異：W355*など）						
+CD274	ATLL		機能獲得（再構成）				Nivolumab,Pembrolizumab	Nivolumab,Pembrolizumab	
+CD274	CHL		機能獲得（増幅）			Nivolumab,Pembrolizumab（変異規定なし）	Nivolumab,Pembrolizumab	Nivolumab,Pembrolizumab	
+CD274	DLBCL		機能獲得（増幅、再構成）				Nivolumab,Pembrolizumab	Nivolumab,Pembrolizumab	
+CD274	PMBL		機能獲得（増幅、再構成）				Nivolumab,Pembrolizumab	Nivolumab,Pembrolizumab	
+CD28	AITL		機能獲得（融合：CTLA4/CD28、変異：F51Vなど）						
+CD28	SS		機能獲得（変異：F51Vなど）						
+CD40	CHL		機能獲得（増幅）						
+CD58	DLBCL		機能喪失						
+CD70	DLBCL		機能喪失						
+CD79A	DLBCL		機能獲得（変異）						
+CD79B	DLBCL	Y196	機能獲得（変異：Y196Hなど）						
+CD79B	PCNSL	Y196	機能獲得（変異：Y196Hなど）						
+CD79B	WM/LPL	Y196	機能獲得（変異：Y196Hなど）					Ibrutinib（変異規定なし）	
+CDK4	MCL		機能獲得（増幅）						
+CDK4	MM		機能獲得（増幅）					Ribociclib,Palbociclib（変異規定なし）	
+									
+CDK6	SMZL		機能獲得（再構成：IGK/CDK6）						
+CDKN1B	HCL		機能喪失						
+CDKN1B	MM		機能喪失						
+CDKN2A	ATLL		機能喪失	PMID:9164185					
+CDKN2A	B-ALL/LBLL		機能喪失（欠失）	PMID:24957142					
+CDKN2A	BPDCN		機能喪失（欠失）						
+CDKN2A	CLL/SLL		機能喪失	WHO2017					
+CDKN2A	CML,BCR-ABL1+		機能喪失						
+CDKN2A	DLBCL		機能喪失	WHO2017					
+CDKN2A	EATL		機能喪失						
+CDKN2A	ENKTL		機能喪失						
+CDKN2A	FL		機能喪失	WHO2017					
+CDKN2A	MCL		機能喪失	WHO2017					
+CDKN2A	Mycosisfungoides		機能喪失						
+CDKN2A	SS		機能喪失						
+CDKN2A	T-ALL		機能喪失(欠失）						
+CDKN2B	B-ALL/LBLL		機能喪失（欠失）	PMID：24957142					
+CDKN2B	EATL		機能喪失						
+CDKN2B	ENKTL		機能喪失						
+CDKN2C	MCL		機能喪失						
+CDKN2C	MM		機能喪失	PMID:20616218,18829482					
+CEBPA	AML		機能喪失	NCCN2020,ELN2017					
+CEBPA	AMLwithbiallelicmutationsofCEBPA		機能喪失	NCCN2020,ELN2017					
+CEBPA	AMLwithgermlineCEBPAmutation		機能喪失						
+CHEK2	AML		機能喪失（変異：I200Tなど）						
+CHEK2	t-MNs		機能喪失						
+CIC	T-ALL		機能喪失						
+CIITA	DLBCL		機能獲得（再構成）						
+CIITA	PCNSL		機能獲得（再構成）						
+CIITA	PMBL		機能獲得（再構成）						
+CKS1B	MM		機能獲得（増幅）	NCCN2017,PMID:27002115,28584253,21836613,22547600					
+CLPB	IBMFS:Congenitalneutropenia		機能喪失						
+CLTC	LBCL(ALK+)		機能獲得（融合：CLTC/ALK）						
+CRBN	MM		機能獲得（変異、増幅）、機能喪失（変異、欠失）						
+CREBBP	AMLwithMRC		機能獲得（融合：KMT2A/CREBBP）						
+CREBBP	AMLwithMRC		機能獲得（融合：KAT6A/CREBBP）						
+CREBBP	B-ALL/LBLL		機能喪失	PMID:21390130,25917266					
+CREBBP	DLBCL		機能喪失						
+CREBBP	FL		機能喪失	PMID:27664263(ESMO)					
+CREBBP	MM		機能喪失						
+CRLF2	B-ALL/LBLLBCR-ABL1-like		機能獲得（再構成：IGH/CRLF2、融合：P2RY8/CRLF2）	WHO2017,PMID:20378752,20139093,NCCN2020(PediatricALL)					
+CRYBG1	ENKTL		機能喪失						
+CSF1R	B-ALL/LBLLBCR-ABL1-like		機能獲得（融合：SSBP2/CSF1R）						
+CSF1R	Erdheim-Chesterdisease		機能獲得（変異：Y546_K551delなど）					Dabrafenib,Vemurafenib	
+CSF2RB	MyeloidleukaemiaassociatedwithDownsyndrome(AMKL)		機能獲得（変異：A455D/T）						
+CSF3R	aCML	T618I	機能獲得（変異：T618I,T615A,D771fsなど）	PMID:23896413					
+CSF3R	CNL	T618I	機能獲得（変異：T618I,T615A,D771fsなど）	PMID:23656643					
+CSF3R	IBMFS:Congenitalneutropenia		機能喪失（変異：R308C,G316fs,G415fsなど）						
+CSNK1A1	MDS		機能獲得（変異）	PMID:26688096					
+CTC1	IBMFS:Telomerebiologydisorders		機能喪失						
+CTCF	MDS		機能喪失						
+CTCF	MyeloidleukaemiaassociatedwithDownsyndrome(AMKL)		機能喪失						
+CTLA4	AITL		機能獲得（融合：CTLA4/CD28）						
+CTNNB1	ENKTL		機能獲得（変異）						
+CUX1	CHIP		機能喪失						
+CUX1	MDS		機能喪失						
+CUX1	MPN		機能喪失	PMID:21531982					
+CXCR4	WM/LPL		機能獲得（変異：S338*など）	WHO2017					
+CYLD	MM		機能喪失						
+DCAF7	MyeloidleukaemiaassociatedwithDownsyndrome(AMKL)		機能不明(変異）						
+DCTN1	JMML		機能獲得（融合：DCTN1/ALK）				Crizotinib	Crizotinib	
+DDB1	MM		機能不明(変異）						
+DDX3X	ENKTL		機能喪失	PMID:26192917					
+DDX41	MDS		機能不明(変異）						
+DDX41	MyeloidneoplasmswithgermlineDDX41mutation		機能喪失（変異：D140Gfs,M1I,A500Cfs,対側アリルにおけるR525Hなど）						
+DEK	AMLwitht(6;9)(p23;q34.1);DEK-NUP214		機能獲得（融合：DEK/NUP214）	ELN2017					
+DHX15	AMLwitht(8;21)(q22;q22.1);RUNX1-RUNX1T1		機能喪失（変異：R222G）						
+DIS3	MM		機能喪失						
+DKC1	IBMFS:Telomerebiologydisorders		機能喪失						
+DNAJC21	Germlinepredispositionformyeloidneoplasms		機能喪失						
+DNAJC21	IBMFS:Shwachmann-Diamondsyndrome		機能喪失						
+DNMT3A	AITL		機能喪失						
+DNMT3A	AML		機能喪失、機能獲得（変異：R882C/Hなど）	PMID:21067377,21670448,22291079,22289988,27983727,NCCN2020					
+DNMT3A	CHIP		機能喪失、機能獲得（変異：R882C/Hなど）						
+DNMT3A	CML,BCR-ABL1+		機能喪失、機能獲得（変異：R882C/Hなど）						
+DNMT3A	ET		機能喪失、機能獲得（変異：R882C/Hなど）						
+DNMT3A	ETP-ALL		機能喪失						
+DNMT3A	FTCL		機能喪失						
+DNMT3A	MDS		機能喪失、機能獲得（変異：R882C/Hなど）	NCCN2019					
+DNMT3A	MM		機能喪失、機能獲得（変異）						
+DNMT3A	MPAL		機能喪失						
+DNMT3A	NodalPTCLwithTFHphenotype		機能喪失						
+DNMT3A	PMF		機能喪失、機能獲得（変異：R882C/Hなど）						
+DNMT3A	PV		機能喪失、機能獲得（変異：R882C/Hなど）						
+DNMT3A	SS		機能喪失						
+DNMT3A	T-ALL		機能喪失	PMID:23341344					
+DTX1	DLBCL		機能喪失						
+DUSP2	MM		機能不明(変異）						
+DUSP2	NLPHL		機能不明（変異）						
+DUSP2	THRLBCL		機能不明（変異）						
+DUSP22	ALCL(ALK-)		機能獲得（再構成：DUSP22/FRA7Hなど）	WHO2017,PMID:24894770					
+DUSP22	C-ALCL		機能獲得（再構成：DUSP22/FRA7Hなど）						
+DUX4	B-ALL/LBLL		機能獲得（再構成：IGH/DUX4）	PMID:27019113,30643249					
+EBF1	B-ALL/LBLL		機能喪失（欠失）	PMID:24957142					
+EBF1	B-ALL/LBLLBCR-ABL1-like		機能獲得（融合：EBF1/PDGFRB）	NCCN2020(PediatricALL)					
+EBF1	FL		機能喪失						
+EED	AA		機能喪失						
+EED	MDS		機能喪失						
+EFL1	IBMFS:Shwachmann-Diamondsyndrome		機能喪失						
+EGFR	PV		機能獲得（変異：C329R）				Gefitinib,Erlotinib,Afatinib,Osimertinib,Cetuximab,Panitumumab,Vandetanib	Gefitinib,Erlotinib,Afatinib,Osimertinib,Cetuximab,Panitumumab,Vandetanib,Necitumumab	
+EGR1	MM		機能獲得（変異）						
+EIF4A2	Duodenal-typeFL(DFL)		機能獲得（増幅）						
+EIF6	IBMFS:Shwachmann-Diamondsyndrome		機能喪失（変異：N106S、R96Wなど）						
+ELANE	IBMFS:Congenitalneutropenia		機能喪失						
+EP300	B-ALL/LBLL		機能獲得（融合：EP300/ZNF384）	PMID:27634205					
+EP300	DLBCL		機能喪失						
+EP300	ENKTL		機能喪失						
+EP300	ETP-ALL		機能喪失						
+EP300	FL		機能喪失	PMID:27664263(ESMO)					
+EP300	MM		機能喪失						
+EPCAM	Germlinepredispositionformyeloidneoplasms:mismatchrepairdeficiency		機能喪失						
+EPHA7	FL		機能喪失						
+EPOR	B-ALL/LBLLBCR-ABL1-like		機能獲得（再構成：IGH/EPOR）	NCCN2020(PediatricALL)					
+EPS15	AML		機能獲得（融合：KMT2A/EPS15）	NCCN2020,ELN2017					
+ERCC4	IBMFS:Fanconianemia		機能喪失						
+ERCC6L2	IBMFS		機能喪失						
+ERG	AML		機能獲得（融合：FUS/ERG）						
+ERG	B-ALL/LBLL		機能喪失（欠失）	PMID:24064621					
+ETNK1	aCML		機能獲得（変異：N244Sなど）						
+ETNK1	CHIP		機能獲得（変異：N244Sなど）						
+ETV6	AML		機能獲得（融合：MNX1/ETV6,ETV6/NTRK3）	WHO2017					
+ETV6	B-ALL/LBLL		機能喪失（欠失）	PMID:24957142					
+ETV6	B-ALL/LBLLBCR-ABL1-like		機能獲得（融合：ETV6/PDGFRB,ETV6/ABL1,ETV6/NTRK3）	NCCN2020(PediatricALL)					
+ETV6	B-ALL/LBLLwitht(12;21)(p13.2;q22.1);ETV6-RUNX1		機能獲得（融合：ETV6/RUNX1）	NCCN2019,NCCN2020(PediatricALL)					
+ETV6	ETP-ALL		機能喪失（欠失）						
+ETV6	MDS		機能喪失	NCCN2019					
+ETV6	MPAL,B/myeloid,NOS		機能喪失（欠失）						
+ETV6	MPAL,T/myeloid,NOS		機能喪失（欠失）						
+ETV6	MPN		機能喪失	PMID:21531982					
+ETV6	MyeloidneoplasmswithgermlineETV6mutation		機能喪失						
+EZH2	AML	Y641	機能喪失	PMID:27983727					
+EZH2	CHIP	Y641	機能喪失						
+EZH2	DLBCL	Y641	機能獲得（変異：Y641Fなど）				Tazemetostat	Tazemetostat	
+EZH2	ET	Y641	機能喪失	NCCN2019					
+EZH2	FL	Y641	機能獲得（変異：Y641Fなど）	PMID:27664263(ESMO)					
+EZH2	MDS	Y641	機能喪失	NCCN2019					
+EZH2	MyeloidleukaemiaassociatedwithDownsyndrome(AMKL)	Y641	機能喪失						
+EZH2	PMF	Y641	機能喪失	NCCN2019					
+EZH2	PV	Y641	機能喪失	NCCN2019					
+EZH2	T-PLL	Y641	機能喪失						
+FAF1	MM		機能喪失	PMID:20616218,18829482					
+FAM46C	MM		機能喪失	PMID:20616218,18829482					
+FANCA	IBMFS:Fanconianemia		機能喪失						
+FANCB	IBMFS:Fanconianemia		機能喪失						
+FANCC	Germlinepredispositionformyeloidneoplasms		機能喪失						
+FANCC	IBMFS:Fanconianemia		機能喪失						
+FANCD2	IBMFS:Fanconianemia		機能喪失						
+FANCE	IBMFS:Fanconianemia		機能喪失						
+FANCF	IBMFS:Fanconianemia		機能喪失						
+FANCG	Germlinepredispositionformyeloidneoplasms		機能喪失						
+FANCG	IBMFS:Fanconianemia		機能喪失						
+FANCI	Germlinepredispositionformyeloidneoplasms		機能喪失						
+FANCI	IBMFS:Fanconianemia		機能喪失						
+FANCL	IBMFS:Fanconianemia		機能喪失						
+FANCM	IBMFS:Fanconianemia		機能喪失						
+FANCM	Germlinepredispositionformyeloidneoplasms		機能喪失						
+FAS	ALPS		機能喪失						
+FAS	ATLL		機能喪失						
+FAS	Duodenal-typeFL(DFL)		機能喪失						
+FAS	ENKTL		機能喪失						
+FAS	FL		機能喪失						
+FBXW7	T-ALL		機能喪失	PMID:16614245,19109228,24166518					
+FGFR1	Duodenal-typeFL(DFL)		機能獲得（増幅）						
+FGFR1	MLN-ewithFGFR1rearrangement		機能獲得（融合：ZMYM2/FGFR1,CNTRLFGFR1,FGFR1OP1/FGFR1など）					Pemigatinib	
+FGFR3	MM		機能獲得（再構成：IGH/FGFR3、変異）	WHO2017,NCCN2017,PMID:27002115,28584253				Erdafitinib	
+は同等の機能獲得の再構成と考えられる。									
+FIP1L1	MLN-ewithPDGFRArearrangement		機能獲得（融合：FIP1LI/PDGFRA）		Imatinib	Imatinib	Sunitinib（変異規定なし）	Sunitinib（変異規定なし）	
+FLT3	MPAL,T/myeloid,NOS	D835､N676K	機能獲得（変異）						
+FLT3	AML	D835､N676K	機能獲得（変異：ITD,TKD）	NCCN2020,ELN2017	Gilteritinib,Quizartinib(ITDのみ）	Midostaurin,Gilteritinib		Midostaurin,Sorafenib,Gilteritinib	
+FLT3	AUL	D835､N676K	機能獲得（変異：ITD,TKD）				Gilteritinib,Quizartinib(ITDのみ）	Midostaurin,Sorafenib,Gilteritinib	
+FLT3	B-ALL/LBLL	D835､N676K	機能獲得（変異）				Gilteritinib,Quizartinib(ITDのみ）	Midostaurin,Sorafenib,Gilteritinib	
+FLT3	B-ALL/LBLL	D835､N676K	機能獲得（変異）				Gilteritinib,Quizartinib(ITDのみ）	Midostaurin,Sorafenib,Gilteritinib	
+FLT3	B-ALL/LBLLBCR-ABL1-like	D835､N676K	機能獲得（変異：ITD,TKD）	NCCN2020(PediatricALL)			Gilteritinib,Quizartinib(ITDのみ）	Midostaurin,Sorafenib,Gilteritinib	
+FLT3	ETP-ALL	D835､N676K	機能獲得（変異）				Gilteritinib,Quizartinib(ITDのみ）	Midostaurin,Sorafenib,Gilteritinib	
+FLT3	JMML	D835､N676K	機能獲得（変異）				Gilteritinib,Quizartinib(ITDのみ）	Midostaurin,Sorafenib,Gilteritinib	
+FLT3	MDS	D835､N676K	機能獲得（変異：ITD）	NCCN2019,PMID:27992414			Gilteritinib,Quizartinib(ITDのみ）	Midostaurin,Sorafenib,Gilteritinib	
+FLT3	MPAL,T/myeloid,NOS	D835､N676K	機能獲得（変異）				Gilteritinib,Quizartinib(ITDのみ）	Midostaurin,Sorafenib,Gilteritinib	
+FLT3	PMF	D835､N676K	機能獲得（変異：ITD）	PMID:28028029			Gilteritinib,Quizartinib(ITDのみ）	Midostaurin,Sorafenib,Gilteritinib	
+FLT3	AML		機能獲得（変異：F691Lなど）						
+FOXO1	DLBCL		機能喪失	WHO2017					
+FOXO1	FL		機能喪失	PMID:27664263(ESMO)					
+FOXO3	ENKTL		機能喪失						
+FOXO4	AML		機能獲得（融合：KMT2A/FOXO4）	NCCN2020,ELN2017					
+FOXP1	MALT		機能獲得（再構成：IGH/FOXP1）						
+FUBP1	MM		機能喪失						
+FUS	AML		機能獲得（融合：FUS/ERG）						
+FYN	AITL		機能獲得（変異：R176Cなど）						
+FYN	ATLL		機能獲得（変異：R176Cなど）						
+G6PC3	IBMFS:Congenitalneutropenia		機能喪失						
+GATA1	IBMFS:Diamond-Blackfananemia		機能喪失						
+GATA1	TAM,MyeloidleukaemiaassociatedwithDownsyndrome(AMKL)		機能喪失						
+GATA2	AMLwithinv(3)(q21.3q26.2)ort(3;3)(q21.3;q26.2);GATA2,MECOM		機能喪失（変異、再構成）	WHO2017,ELN2017					
+GATA2	MDS		機能喪失（変異、再構成）	NCCN2019,PMID:27992414					
+GATA2	MyeloidneoplasmswithgermlineGATA2mutation		機能喪失						
+GATA3	ATLL		機能喪失						
+GATA3	ETP-ALL		機能喪失						
+GFI1	IBMFS:Congenitalneutropenia		機能獲得（変異：N382S,K403Rなど）						
+GLIS2	AML		機能獲得（融合：CBFA2T3/GLIS2）	WHO2017					
+GNA13	BL		機能喪失						
+GNA13	CHL		機能喪失						
+GNA13	DLBCL		機能喪失						
+GNA13	PMBL		機能喪失						
+GNAI2	MEITL		機能獲得（変異：R179Hなど）						
+GNAS	CHIP		機能獲得（変異：R201C/Hなど）						
+GNAS	MDS		機能獲得（変異：R201C/Hなど）						
+GNB1	CHIP		機能獲得（変異）						
+GNB1	MDS		機能獲得（変異）						
+GPR183	ATLL		機能喪失						
+GRB2	PCNSL		機能不明（変異）						
+GSKIP	FamilialMPN		機能獲得（重複）						
+HACE1	ENKTL		機能喪失						
+HAVCR2	SPTCL		機能喪失（変異：Y82Cなど）						
+HAX1	IBMFS:Congenitalneutropenia		機能喪失（変異：W44Xなど）						
+HIST1H1E	DLBCL		機能不明（変異）						
+HIST1H1E	MM		機能獲得（変異）						
+HLA-A	DLBCL		機能喪失						
+HLA-B	DLBCL		機能喪失						
+HLA-C	DLBCL		機能喪失						
+HLA-DQA1	DLBCL		機能喪失						
+HLA-DQA1	PCNSL		機能喪失						
+HLA-DQA2	DLBCL		機能喪失						
+HLA-DQA2	PCNSL		機能喪失						
+HLA-DQB1	DLBCL		機能喪失						
+HLA-DQB1	PCNSL		機能喪失						
+HLA-DQB2	DLBCL		機能喪失						
+HLA-DQB2	PCNSL		機能喪失						
+HLA-DRB1	DLBCL		機能喪失						
+HLA-DRB1	PCNSL		機能喪失						
+HLA-DRB5	DLBCL		機能喪失						
+HLA-DRB5	PCNSL		機能喪失						
+HLF	B-ALL/LBLL		機能獲得（融合：TCF3/HLF）	WHO2017,NCCN2020(PediatricALL),PMID:8608207					
+HNRNPA2B1	ATLL		機能喪失						
+HNRNPA2B1	MM		機能獲得（融合：HNRNPA2B1/NTRK3）					Entrectinib,Larotrectinib(融合遺伝子)	
+HUWE1	MM		機能喪失						
+ID3	BL		機能喪失						
+ID3	HGBL		機能喪失						
+IDH1	AML	R132C/L/H	機能獲得（変異：R132C/G/H/L/Q/Sなど）	PMID:20538800,27276561,20368543		Ivosidenib			
+IDH1	ET	R132C/L/H	機能獲得（変異：R132C/G/H/L/Q/Sなど）	NCCN2019				Ivosidenib	
+IDH1	ETP-ALL	R132C/L/H	機能獲得（変異：R132Hなど）					Ivosidenib	
+IDH1	MDS	R132C/L/H	機能獲得（変異：R132C/G/H/L/Q/Sなど）	PMID:27992414				Ivosidenib	
+IDH1	MM	R132C/L/H	機能獲得（変異）						
+IDH1	MPAL,B/myeloid,NOS	R132C/L/H	機能獲得（変異：R132Hなど）					Ivosidenib	
+IDH1	PMF	R132C/L/H	機能獲得（変異：R132C/G/H/L/Q/Sなど）	NCCN2019				Ivosidenib	
+IDH1	PV	R132C/L/H	機能獲得（変異：R132C/G/H/L/Q/Sなど）	NCCN2019				Ivosidenib	
+IDH1	AML		機能獲得（変異：R132C存在下で、同側アリルにおけるS280Fの獲得）						
+IDH2	AITL	R140Q,R172K	機能獲得（変異：R172Kなど）					Enasidenib	
+IDH2	AML	R140Q,R172K	機能獲得（変異：R140Q/W,R172Kなど）	PMID:20538800,27276561,20368543		Enasidenib			
+IDH2	BPDCN	R140Q,R172K	機能獲得（変異：R140Q/W,R172Kなど）						
+IDH2	CMML	R140Q,R172K	機能獲得（変異：R140Q/W,R172Kなど）	PMID:23690417				Enasidenib	
+IDH2	ET	R140Q,R172K	機能獲得（変異：R140Q/W,R172Kなど）	NCCN2019				Enasidenib	
+IDH2	MDS	R140Q,R172K	機能獲得（変異：R140Q/W,R172Kなど）	NCCN2019				Enasidenib	
+IDH2	MM	R140Q,R172K	機能獲得（変異）						
+IDH2	MPAL,B/myeloid,NOS	R140Q,R172K	機能獲得（変異：R140Q/W,R172Kなど）						
+IDH2	MPAL,T/myeloid,NOS	R140Q,R172K	機能獲得（変異：R140Q/W,R172Kなど）						
+IDH2	PMF	R140Q,R172K	機能獲得（変異：R140Q/W,R172Kなど）	NCCN2019				Enasidenib	
+IDH2	PV	R140Q,R172K	機能獲得（変異：R140Q/W,R172Kなど）	NCCN2019				Enasidenib	
+IDH2	AML		機能獲得（変異：R140Q存在下で、対側アリルにおけるQ316E/I319M変異の獲得）						
+IDH2	CHIP		機能獲得（変異：R140Wなど）					Enasidenib	
+IGH	B-ALL/LBLL		機能獲得（再構成）						
+IGH	B-NHL		機能獲得（再構成）、機能不明（変異）						
+IGH	CLL/SLL		機能獲得（再構成）、機能不明（変異）	WHO2017					
+IGH	T-ALL		機能獲得（再構成）						
+IGK	B-NHL		機能獲得（再構成）						
+IGL	B-NHL		機能獲得（再構成）						
+IKBKB	CHL		機能獲得（増幅）						
+IKZF1	B-ALL/LBLL		機能喪失､機能獲得（欠失、融合、変異：N159Yなど）	NCCN2019,NCCN2020(PediatricALL),PMID:18408710,19589926,19129520,24740809,22699455,29498923,31821407					
+IKZF1	CML,BCR-ABL1+		機能獲得（変異）	PMID:29967129					
+IKZF1	ETP-ALL		機能喪失						
+IKZF1	MPN		機能獲得（変異）	PMID:21531982					
+IKZF2	ATLL		機能獲得（再構成：遺伝子内欠失）						
+IKZF3	BPDCN		機能喪失						
+IL3	B-ALL/LBLLwitht(5;14)(q31.1;q32.3)IL3-IGH		機能獲得（再構成：IGH/IL3）						
+IL7R	B-ALL/LBLLBCR-ABL1-like		機能獲得（変異）	NCCN2020(PediatricALL)					
+IL7R	ETP-ALL		機能獲得（変異）						
+IL7R	T-ALL		機能獲得（変異）				Ruxolitinib（変異規定なし）		
+INO80	HSTL		機能不明（変異）						
+INPP5D	PCNSL		機能喪失						
+IRF2BP2	ATLL		機能喪失						
+IRF4	ATLL		機能獲得（変異：K59R,L70Vなど）						
+IRF4	C-ALCL		機能獲得（再構成）						
+IRF4	LBCLwithIRF4-r		機能獲得（再構成：IGH/IRF4）						
+IRF4	MM		機能獲得（再構成：IGH/IRF4、変異：K123Rなど）	PMID:26282654					
+IRF8	DLBCL		機能不明（変異）						
+ITK	AITL		機能獲得（融合：ITK/SYK）						
+ITK	FTCL		機能獲得（融合：ITK/SYK）						
+ITPKB	CHL		機能喪失（変異）						
+ITPKB	PMBL		機能不明（変異）						
+JAK1	ALCL(ALK-)		機能獲得（変異：G1097Dなど）						
+JAK1	B-ALL/LBLL		機能獲得（変異）						
+JAK1	B-ALL/LBLLBCR-ABL1-like		機能獲得（変異）	NCCN2020(PediatricALL)					
+JAK1	EATL		機能獲得（変異：G1097Dなど）						
+JAK1	ETP-ALL		機能獲得（変異）						
+JAK1	T-ALL		機能獲得（変異）						
+JAK1	T-PLL		機能獲得（変異）						
+JAK2	aCML	V617F	機能獲得（変異：V617Fなど）	PMID:23896413			Ruxolitinib（変異規定なし）,Fedratinib（変異規定なし）	Ruxolitinib（変異規定なし）	
+JAK2	AML	V617F	機能獲得（変異：V617Fなど）				Ruxolitinib（変異規定なし）,Fedratinib（変異規定なし）	Ruxolitinib（変異規定なし）	
+JAK2	CNL	V617F	機能獲得（変異：V617Fなど）	PMID:23896413			Ruxolitinib（変異規定なし）,Fedratinib（変異規定なし）	Ruxolitinib（変異規定なし）	
+JAK2	ET	V617F	機能獲得（変異：V617Fなど）				Ruxolitinib（変異規定なし）,Fedratinib（変異規定なし）	Ruxolitinib（変異規定なし）	
+JAK2	MDS	V617F	機能獲得（変異：V617Fなど）	PMID:28177873			Ruxolitinib（変異規定なし）,Fedratinib（変異規定なし）	Ruxolitinib（変異規定なし）	
+JAK2	MDS/MPN-RS-T	V617F	機能獲得（変異：V617Fなど）				Ruxolitinib（変異規定なし）,Fedratinib（変異規定なし）	Ruxolitinib（変異規定なし）	
+JAK2	PMF	V617F	機能獲得（変異：V617F,exon12変異など）	NCCN2019	Ruxolitinib（変異規定なし）	Ruxolitinib（変異規定なし）,Fedratinib（変異規定なし）	Ruxolitinib（変異規定なし）,Fedratinib（変異規定なし）		
+JAK2	PV	V617F	機能獲得（変異：V617F,exon12変異など）		Ruxolitinib（変異規定なし）	Ruxolitinib（変異規定なし）	Ruxolitinib（変異規定なし）,Fedratinib（変異規定なし）	Ruxolitinib（変異規定なし）	
+JAK2	B-ALL/LBLL		機能獲得（変異；R683など）	NCCN2020(PediatricALL)			Ruxolitinib（変異規定なし）,Fedratinib（変異規定なし）	Ruxolitinib（変異規定なし）	
+JAK2	B-ALL/LBLLBCR-ABL1-like		機能獲得（融合：ETV6/JAK2,PAX5/JAK2,BCR/JAK2,SSBP2/JAK2など、変異；R683など）	NCCN2020(PediatricALL)			Ruxolitinib（変異規定なし）,Fedratinib（変異規定なし）	Ruxolitinib（変異規定なし）	
+JAK2	CHIP		機能獲得（変異：V617Fなど）				Ruxolitinib（変異規定なし）,Fedratinib（変異規定なし）	Ruxolitinib（変異規定なし）	
+JAK2	CHL		機能獲得（増幅）				Ruxolitinib（変異規定なし）,Fedratinib（変異規定なし）	Ruxolitinib（変異規定なし）	
+JAK2	Germlinepredispositionformyeloidneoplasms		機能獲得（変異：R564Q）				Ruxolitinib（変異規定なし）,Fedratinib（変異規定なし）	Ruxolitinib（変異規定なし）	
+JAK2	MLN-ewithPCM1-JAK2		機能獲得（融合：PCM1/JAK2）				Ruxolitinib（変異規定なし）,Fedratinib（変異規定なし）	Ruxolitinib（変異規定なし）	
+JAK2	PCAETCL		機能獲得（融合：PICALM/JAK2,CAPRIN1/JAK2,PCM1/JAK2など）						
+JAK2	PMBL		機能獲得（増幅）				Ruxolitinib（変異規定なし）,Fedratinib（変異規定なし）	Ruxolitinib（変異規定なし）	
+JAK3	AA		機能不明(変異）						
+JAK3	ATLL		機能獲得（変異：M511Iなど）						
+JAK3	B-ALL/LBLLBCR-ABL1-like		機能獲得（変異）	NCCN2020(PediatricALL)					
+JAK3	EATL		機能獲得（変異：M511Iなど）						
+JAK3	ENKTL		機能獲得（変異：A572V,A573など）						
+JAK3	ETP-ALL		機能獲得（変異：M511Iなど）						
+JAK3	MDS		機能不明(変異）						
+JAK3	MEITL		機能獲得（変異：M511Iなど）						
+JAK3	SS		機能獲得（変異：M511Iなど）						
+JAK3	T-ALL		機能獲得（変異：M511Iなど）						
+JAK3	T-PLL		機能獲得（変異：M511Iなど）						
+JUNB	NLPHL		機能不明（変異）						
+JUNB	THRLBCL		機能不明（変異）						
+KANSL1	MyeloidleukaemiaassociatedwithDownsyndrome(AMKL)		機能喪失						
+KAT6A	AMLwithMRC		機能獲得（融合：KAT6A/CREBBP）						
+KDM5C	MM		機能喪失						
+KDM6A	B-ALL/LBLL		機能喪失						
+KDM6A	CMML		機能喪失						
+KDM6A	MM		機能喪失						
+KIT	AML	D816V	機能獲得（変異：D816Vなど）	WHO2017,ELN2017,PMID:16384925			Imatinib		
+KIT	BPDCN	D816V	機能獲得						
+KIT	ENKTL	D816V	機能獲得（変異）			Midostaurin	Imatinib		
+KIT	Mastocytosis	D816V	機能獲得（変異：D816V）			Midostaurin,Avapritinib	Imatinib		
+KLF2	SMZL		機能喪失	WHO2017					
+KLHL14	PCNSL		機能不明（変異）						
+KLHL6	MM		機能不明(変異）						
+KMT2A	AML		機能獲得（変異：PTD）	PMID:19880497,22417203					
+KMT2A	AMLwithMRC		機能獲得（融合：KMT2A/CREBBPなど）						
+KMT2A	AMLwitht(9;11)(p21.3;q23.3);MLLT3-KMT2A		機能獲得（融合：KMT2A/MLLT3,KMT2A/MLLT4,KMT2A/AFF1,など）	NCCN2020,ELN2017					
+KMT2A	B-ALL/LBLLwitht(v;11q23.3);KMT2Arearranged		機能獲得（融合：KMT2A/AFF1など）	NCCN2019,NCCN2020(PediatricALL)					
+KMT2A	MPALwitht(v;11q23.3);KMT2Arearranged		機能獲得（融合）						
+KMT2A	T-ALL		機能獲得（融合：KMT2A/MLLT1など）						
+KMT2B	MM		機能喪失						
+KMT2C	DLBCL		機能喪失						
+KMT2C	FL		機能喪失						
+KMT2C	MM		機能喪失						
+KMT2D	DLBCL		機能喪失						
+KMT2D	ENKTL		機能喪失						
+KMT2D	FL		機能喪失						
+KMT2D	MCL		機能喪失						
+KMT2D	WM/LPL		機能喪失						
+KRAS	AML	G12,G13,Q61	機能獲得（変異：G12D/S/A/V,Q61Pなど）					Sotorasib(G12C)	
+KRAS	B-ALL/LBLL	G12,G13,Q61	機能獲得（変異：G12D/G13Dなど）					Sotorasib(G12C)	
+KRAS	BPDCN	G12,G13,Q61	機能獲得					Sotorasib(G12C)	
+KRAS	CHIP	G12,G13,Q61	機能獲得（変異）					Sotorasib(G12C)	
+KRAS	ETP-ALL	G12,G13,Q61	機能獲得（変異：G12D/G13Dなど）					Sotorasib(G12C)	
+KRAS	JMML	G12,G13,Q61	機能獲得（変異：G12D/S/A/V,Q61Pなど）					Sotorasib(G12C)	
+KRAS	JMMLassociatedwithNoonansyndrome	G12,G13,Q61	機能獲得（変異：G12D/S/A/V,Q61Pなど）					Sotorasib(G12C)	
+KRAS	MDS	G12,G13,Q61	機能獲得（変異：G12D/S/A/V,Q61Pなど）	NCCN2022(MDS),PMID:24220272,27992414,28177873				Sotorasib(G12C)	
+KRAS	MM	G12,G13,Q61	機能獲得（変異）					Sotorasib(G12C)	
+KRAS	T-ALL	G12,G13,Q61	機能獲得（変異：G12D/G13Dなど）					Sotorasib(G12C)	
+LAMB4	AA		機能不明(変異）						
+LAMB4	MDS		機能不明(変異）						
+LCK	T-ALL		機能獲得（再構成：TRB/LCKなど）						
+LMO1	T-ALL		機能獲得（再構成：TRD/LMO1など）						
+LMO2	T-ALL		機能獲得（再構成：TRD/LMO2など）						
+LSM14A	B-ALL/LBLLBCR-ABL1-like		機能獲得（融合：LSM14A-ABL1）	NCCN2020(PediatricALL)			Dasatinib		
+LTB	MM		機能喪失						
+LUC7L2	MDS		機能喪失						
+LYL1	T-ALL		機能獲得（再構成：TRB/LYL1など）						
+MAD2L2	IBMFS:Fanconianemia		機能喪失						
+MAF	MM		機能獲得（再構成：IGH/MAF、増幅）	WHO2017,NCCN2017,PMID:27002115,28584253					
+MAFA	MM		機能獲得（再構成：IGH/MAFA）						
+MAFB	MM		機能獲得（再構成：IGH/MAFB）	WHO2017,PMID:27002115					
+MALT1	MALT		機能獲得（融合：BIRC3/MALT1、再構成：IGH/MALT1）						
+MALT1	PCNSL		機能獲得（増幅）						
+MAML2	MM		機能不明(変異）						
+MAN2C1	MM		機能不明(変異）						
+MAP2K1	HCL-v		機能獲得（変異：K57Nなど）						
+MAP2K1	Langerhanscellhistiocytosis		機能獲得（変異：Q58_E62delなど）						
+MAP2K1	PTFL		機能獲得（変異：K57Nなど）						
+MAP3K14	CHL		機能獲得（増幅）						
+MAP3K14	MM		機能獲得（再構成：IGH/MAP3K14、増幅）						
+MAX	MM		機能喪失						
+MBD4	AML		機能喪失						
+MDM2	DLBCL		機能獲得（増幅）						
+MECOM	AMLwithinv(3)(q21.3q26.2)ort(3;3)(q21.3;q26.2);GATA2,MECOM		機能獲得（再構成）	WHO2017,ELN2017					
+MECOM	AMLwithMRC		機能獲得（融合：RUNX1/MECOM）	NCCN2020					
+MECOM	CML,BCR-ABL1+		機能獲得（融合：RUNX1/MECOM）	PMID:20682391					
+MEF2B	DLBCL		機能喪失						
+MEF2B	FL		機能喪失	PMID:27664263(ESMO)					
+MEF2D	B-ALL/LBLL		機能獲得（融合）	PMID:27507882,27824051					
+MET	BPDCN		機能獲得						
+MFHAS1	PMBL		機能不明（変異）						
+MGA	AML		機能喪失						
+MGA	ENKTL		機能喪失						
+miR-15a	CLL/SLL		機能喪失	WHO2017					
+miR16-1	CLL/SLL		機能喪失	WHO2017					
+MKL1	AML(megakaryoblastic)witht(1;22)(p13.3;q13.3);RBM15-MKL1		機能獲得（融合：RBM15/MKL1）						
+MLF1	AMLwithMRC		機能獲得（融合：NPM1/MLF1）						
+MLH1	BPDCN		機能喪失						
+MLH1	Germlinepredispositionformyeloidneoplasms:mismatchrepairdeficiency		機能喪失						
+MLLT1	B-ALL/LBLLwitht(v;11q23.3);KMT2Arearranged		機能獲得（融合：KMT2A/MLLT1）	NCCN2019					
+MLLT1	T-ALL		機能獲得（融合：KMT2A/MLLT1）						
+MLLT10	AML		機能獲得（融合：PICALM/MLLT10,KMT2A/MLLT10）	WHO2017					
+MLLT10	T-ALL		機能獲得（融合：PICALM/MLLT10）						
+MLLT11	AML		機能獲得（融合：KMT2A/MLLT11）	WHO2017					
+MLLT3	AMLwitht(9;11)(p21.3;q23.3);MLLT3-KMT2A		機能獲得（融合：MLLT3/KMT2A）						
+MLLT3	B-ALL/LBLLwitht(v;11q23.3);KMT2Arearranged		機能獲得（融合：MLLT3/KMT2A）	NCCN2019					
+MLLT4	AML		機能獲得（融合：KMT2A/MLLT4）	WHO2017					
+MNX1	AML		機能獲得（融合：MNX1/ETV6）	WHO2017					
+MPL	ET	W515	機能獲得（変異：W515L/K）						
+MPL	MDS	W515	機能獲得（変異：W515L/Kなど）						
+MPL	MDS/MPN-RS-T	W515	機能獲得（変異：W515L/Kなど）						
+MPL	PMF	W515	機能獲得（変異：W515L/Kなど）	NCCN2019					
+MPL	PV	W515	機能獲得（変異：W515L/Kなど）						
+MPL	IBMFS:congenitalamegakaryocyticthrombocytopenia(CAMT)		機能喪失						
+MSC	ALCL(ALK-)		機能獲得（変異：E116K）						
+MSC	C-ALCL		機能獲得（変異：E116K）						
+MSH2	Germlinepredispositionformyeloidneoplasms:mismatchrepairdeficiency		機能喪失						
+MSH6	Germlinepredispositionformyeloidneoplasms:mismatchrepairdeficiency		機能喪失						
+MSN	ENKTL		機能喪失						
+MTCP1	T-PLL		機能獲得（融合：TRA/MTCP1）						
+MYB	B-ALL/LBLLBCR-ABL1-like		機能獲得（融合：MYB/TYK2）	NCCN2020(PediatricALL)					
+MYB	T-ALL		機能獲得（増幅、再構成、変異）						
+MYBBP1A	WM/LPL		機能喪失						
+MYC	ALCL(ALK+)		機能獲得（再構成：IGH/MYCなど）	WHO2017					
+MYC	BL		機能獲得（再構成：IGH/MYCなど）						
+MYC	CLL/SLL		機能獲得（増幅、再構成：IGH/MYCなど）	WHO2017					
+MYC	DLBCL		機能獲得（増幅、再構成：IGH/MYCなど）	WHO2017					
+MYC	FL		機能獲得（増幅、再構成：IGH/MYCなど）	WHO2017					
+MYC	HGBL		機能獲得（増幅、再構成：IGH/MYCなど）						
+MYC	M-PTLD		機能獲得（再構成：IGH/MYC）						
+MYC	MCL		機能獲得（増幅、再構成：IGH/MYCなど）	WHO2017					
+MYC	MEITL		機能獲得（増幅）						
+MYC	MM		機能獲得（再構成：IGH/MYC,増幅）	PMID:26282654,24632883					
+MYC	NLPHL		機能不明（変異）						
+MYC	PBL		機能獲得（再構成：IGH/MYCなど）						
+MYC	PCNSL		機能獲得（再構成：IGH/MYCなど）、機能不明（変異）						
+MYC	T-ALL		機能獲得（再構成：TRA/MYCなど）						
+MYC	T-PLL		機能獲得（増幅）						
+MYD88	CLL/SLL	L265P	機能獲得（変異：L265Pなど）						
+MYD88	DLBCL	L265P	機能獲得（変異：L265Pなど）						
+MYD88	HGBL	L265P	機能獲得（変異：L265Pなど）						
+MYD88	MALT	L265P	機能獲得（変異：L265Pなど）						
+MYD88	PCNSL	L265P	機能獲得（変異：L265Pなど）						
+MYD88	PrimarycutaneousDLBCL,legtype	L265P	機能獲得（変異：L265Pなど）	NCCN2019					
+MYD88	WM/LPL	L265P	機能獲得（変異：L265Pなど）						
+MYH11	AMLwitht(16;16)(p13.1;q22);CBFB-MYH11		機能獲得（融合：CBFB/MYH11）	NCCN2020,ELN2017					
+NAF1	IBMFS:Telomerebiologydisorders		機能喪失						
+NBN	Germlinepredispositionformyeloidneoplasms		機能喪失						
+NCOR1	MM		機能喪失						
+NDE1	AMLwithMRC		機能獲得（融合：NDE1/PDGFRB）						
+NF1	AML		機能喪失						
+NF1	JMML		機能喪失						
+NF1	Germlinepredispositionformyeloidneoplasms		機能喪失						
+NF1	JMMLassociatedwithNuerofibromatosis		機能喪失						
+NF1	MDS		機能喪失	PMID:24220272					
+NF1	MM		機能喪失						
+NF1	PMF		機能喪失	PMID:28028029					
+NFKB2	MM		機能獲得（再構成）　						
+NFKBIA	MM		機能喪失						
+NFKBIE	PMBL		機能喪失	PMID:27670424					
+NHP2	IBMFS:Telomerebiologydisorders		機能喪失						
+NIPBL	MyeloidleukaemiaassociatedwithDownsyndrome(AMKL)		機能喪失						
+NOP10	IBMFS:Telomerebiologydisorders		機能喪失						
+NOTCH1	CLL/SLL		機能獲得（変異：P2514fsなど）	WHO2017,PMID:23295735,NCCN2019					
+NOTCH1	MCL		機能獲得（変異：P2514fsなど）	WHO2017					
+NOTCH1	MPAL,T/myeloid,NOS		機能獲得（変異：L1678P,L1600P,R1598Pなど）						
+NOTCH1	PTCL-NOS		機能獲得（変異）						
+NOTCH1	T-ALL		機能獲得（変異：L1678P,L1600P,R1598Pなど）	WHO2017					
+NOTCH2	MCL		機能獲得（変異：R2400*など）	WHO2017					
+NOTCH2	SMZL		機能獲得（変異：R2400*など）	WHO2017					
+NOTCH2	T-ALL		機能獲得（変異）						
+NPM1	AMLwithmutatedNPM1	L287fs、W288fs	機能獲得、機能喪失（変異：exon12mutation）	NCCN2020,ELN2017					
+NPM1	BPDCN	L287fs、W288fs	機能獲得						
+NPM1	MDS	L287fs、W288fs	機能獲得、機能喪失（変異：exon12mutation）	NCCN2019,PMID:30902805					
+NPM1	ALCL(ALK+)		機能獲得（融合：NPM1/ALK）						
+NPM1	AMLwithMRC		機能獲得（融合：NPM1/MLF1）						
+NPM1	APL		機能獲得（融合：NPM1/RARA）						
+NPM1	C-ALCL		機能獲得（融合：NPM1/TYK2）						
+NPM1	LBCL(ALK+)		機能獲得（融合：NPM1/ALK）						
+NR3C1	BPDCN		機能喪失（欠失、融合）	PMID:27060168					
+NRAS	AML	G12,G13,Q61	機能獲得（変異：G12D/S/A/V,Q61R/Kなど）	PMID:19880497					
+NRAS	B-ALL/LBLL	G12,G13,Q61	機能獲得（変異：G12Dなど）						
+NRAS	BPDCN	G12,G13,Q61	機能獲得						
+NRAS	CNL	G12,G13,Q61	機能獲得（変異：G12D/S/A/V,Q61R/Kなど）	NCCN2021,PMID:28762112					
+NRAS	ENKTL	G12,G13,Q61	機能獲得（変異：G12Dなど）						
+NRAS	Erdheim-Chesterdisease	G12,G13,Q61	機能獲得（変異：G61Rなど）						
+NRAS	ETP-ALL	G12,G13,Q61	機能獲得（変異：G12Dなど）						
+NRAS	JMML	G12,G13,Q61	機能獲得（変異：G12D/S/A/V,Q61R/Kなど）						
+NRAS	M-PTLD	G12,G13,Q61	機能獲得（変異：Q61Kなど）						
+NRAS	MDS	G12,G13,Q61	機能獲得（変異：G12D/S/A/V,Q61R/Kなど）	NCCN2019,PMID:28177873					
+NRAS	MM	G12,G13,Q61	機能獲得（変異）						
+NRAS	PMF	G12,G13,Q61	機能獲得（変異：G12D/S/A/V,Q61R/Kなど）	NCCN2021,PMID:28028029					
+NRAS	T-ALL	G12,G13,Q61	機能獲得（変異：G12Dなど）						
+NSD1	AML		機能獲得（融合：NUP98/NSD1）	PMID:21813447,29227476					
+NSD2	B-ALL/LBLL		機能獲得（変異）						
+NSD2	MCL		機能獲得（変異）						
+NSD2	MM		機能獲得（再構成：IGH/NSD2）　	WHO2017,NCCN2017,PMID:27002115,28584253					
+は同等の機能獲得の再構成と考えられる。									
+NT5C2	B-ALL/LBLL		機能獲得（変異）	PMID:23377281					
+NTRK2	AML		機能獲得（融合：ETV6/NTRK2）					Entrectinib,Larotrectinib(融合遺伝子)	
+NTRK3	AML		機能獲得（融合：ETV6/NTRK3）					Entrectinib,Larotrectinib(融合遺伝子)	
+NTRK3	B-ALL/LBLLBCR-ABL1-like		機能獲得（融合：ETV6/NTRK3）	NCCN2020(PediatricALL)				Entrectinib,Larotrectinib(融合遺伝子)	
+NTRK3	MM		機能獲得（融合：UBE2R2/NTRK3,HNRNPA2B1/NTRK3）					Entrectinib,Larotrectinib(融合遺伝子)	
+NUMA1	B-ALL/LBLLBCR-ABL1-like		機能獲得（融合：NUMA1/PDGFRB）	WHO2017,NCCN2020(PediatricALL)			Imatinib,Sunitinib（変異規定なし）	Regorafenib,Sunitinib（変異規定なし）	
+NUP214	AMLwitht(6;9)(p23;q34.1);DEK-NUP214		機能獲得（融合：DEK/NUP214）	WHO2017,ELN2017					
+NUP214	B-ALL/LBLLBCR-ABL1-like		機能獲得（融合：NUP214/ABL1）	NCCN2020(PediatricALL)					
+NUP98	AML		機能獲得（融合：NUP98/NSD1,NUP98/KDM5Aなど）	PMID:21813447,29227476					
+OSBPL10	PCNSL		機能不明（変異）						
+P2RY8	B-ALL/LBLLBCR-ABL1-like		機能獲得（融合：P2RY8/CRLF2）	WHO2017,PMID:20378752,20139093					
+PAG1	B-ALL/LBLLBCR-ABL1-like		機能獲得（融合：PAG1/ABL2）	NCCN2020(PediatricALL)					
+PALB2	IBMFS:Fanconianemia		機能喪失						
+PARN	IBMFS:Telomerebiologydisorders		機能喪失						
+PAX5	B-ALL/LBLL		機能喪失（欠失、変異：P80Rなど）	PMID:24957142,30643249,30510083					
+PAX5	B-ALL/LBLLBCR-ABL1-like		機能獲得（融合：PAX5/JAK2）	NCCN2020(PediatricALL)					
+PAX5	NLPHL		機能不明（変異）						
+PAX5	PCNSL		機能不明（変異）						
+PAX5	WM/LPL		機能獲得（再構成：IGH/PAX5）						
+PBX1	B-ALL/LBLLwitht(1;19)(q23;p13.3);TCF3-PBX1		機能獲得（融合：TCF3/PBX1）						
+PCM1	MLN-ewithPCM1-JAK2		機能獲得（融合：PCM1/JAK2）						
+PDCD1	ATLL		機能喪失						
+PDCD1LG2	CHL		機能獲得（増幅）	PMID:27069084					
+PDCD1LG2	DLBCL		機能獲得（増幅、再構成）						
+PDCD1LG2	PMBL		機能獲得（増幅、再構成）						
+PDGFRA	MLN-ewithPDGFRArearrangement		機能獲得（融合：FIP1LI/PDGFRA）		Imatinib	Imatinib	Sunitinib（変異規定なし）	Sunitinib（変異規定なし）	
+PDGFRB	AMLwithMRC		機能獲得（融合：NDE1/PDGFRB）			Imatinib	Sunitinib（変異規定なし）	Regorafenib,Sunitinib（変異規定なし）	
+PDGFRB	B-ALL/LBLLBCR-ABL1-like		機能獲得（融合：EBF1/PDGFRB,ETV6/PDGFRB,ATF7IP/PDGFRB,NUMA1/PDGFRB,など）	WHO2017,NCCN2020(PediatricALL)			Imatinib,Sunitinib（変異規定なし）	Regorafenib,Sunitinib（変異規定なし）	
+PDGFRB	MLN-ewithPDGFRBrearrangement		機能獲得（融合：ETV6/PDGFRB）			Imatinib	Sunitinib（変異規定なし）	Regorafenib,Sunitinib（変異規定なし）	
+PDS5B	CHIP		機能喪失						
+PDS5B	Germlinepredispositionformyeloidneoplasms		機能喪失						
+PEG3	AA		機能不明(変異）						
+PEG3	MDS		機能不明(変異）						
+PHF6	AML		機能喪失	PMID:22417203					
+PHF6	MDS		機能喪失						
+PHF6	T-ALL		機能喪失						
+PICALM	AML		機能獲得（融合：PICALM/MLLT10）						
+PICALM	T-ALL		機能獲得（融合：PICALM/MLLT10）						
+PIGA	AA		機能喪失（変異）	PMID:26132940					
+PIGA	MDS		機能喪失	PMID:26132940					
+PIGA	PNH		機能喪失（変異）			Eculizumab（変異規定なし）			
+PIK3CA	MM		機能獲得（変異）					Copanlisib,Alpelisib	
+PIK3CD	HSTL		機能獲得（変異）					Copanlisib	
+PIK3R1	BL		機能喪失						
+PIM1	DLBCL		機能不明（変異）						
+PIM1	NLPHL		機能不明（変異）						
+PIM1	PCNSL		機能不明（変異）						
+PLCG1	AITL		機能獲得（変異：R48W/S345Fなど）						
+PLCG1	ATLL		機能獲得（変異：R48W/S345Fなど）						
+PLCG1	SS		機能獲得（変異：R48W/S345Fなど）						
+PLCG2	CLL/SLL		機能獲得（変異）						
+PML	APLwithPML-RARA		機能獲得（融合：PML/RARA）	NCCN2020,PMID:27276561	ATRA,Trisenoox(ATO)				
+PML	APLwithPML-RARA		機能獲得（変異：A216V/T,L218Pなど）						
+PMS2	Germlinepredispositionformyeloidneoplasms:mismatchrepairdeficiency		機能喪失						
+POT1	CLL/SLL		機能喪失						
+POT1	IBMFS:Telomerebiologydisorders		機能喪失						
+PPM1D	AML		機能獲得（変異：exon6のnonsenseもしくはframeshift変異）						
+PPM1D	CHIP		機能獲得（変異：exon6のnonsenseもしくはframeshift変異）						
+PPM1D	MDS		機能獲得（変異：exon6のnonsenseもしくはframeshift変異）						
+PRDM1	ALCL(ALK-)		機能喪失	WHO2017					
+PRDM1	DLBCL		機能喪失						
+PRDM1	ENKTL		機能喪失						
+PRDM1	MM		機能喪失						
+PRDM1	PCNSL		機能喪失						
+PRDM16	AMLwithMRC		機能獲得（再構成：RPN1/PRDM16）						
+PRKCB	ATLL		機能獲得（変異：D427Nなど）						
+PRKD2	MM		機能獲得（変異）						
+PRPF8	CHIP		機能喪失						
+PRPF8	MDS		機能喪失	PMID:24220272					
+PRPS1	B-ALL/LBLL		機能獲得（変異）						
+PSMB5	MM		機能獲得（変異）						
+PTEN	Duodenal-typeFL(DFL)		機能喪失						
+PTEN	FL		機能喪失						
+PTEN	Mycosisfungoides		機能喪失						
+PTPN1	CHL		機能喪失						
+PTPN1	PMBL		機能喪失						
+PTPN11	AML		機能喪失（変異）	PMID:34459887					
+PTPN11	B-ALL/LBLL		機能喪失（変異）						
+PTPN11	JMML		機能獲得（変異）						
+PTPN11	Germlinepredispositionformyeloidneoplasms		機能喪失						
+PTPN11	JMMLassociatedwithNoonansyndrome		機能獲得（変異）						
+PTPN11	MDS		機能獲得（変異）	PMID:27992414					
+PTPN11	MM		機能獲得（変異）						
+PTPRK	ENKTL		機能喪失						
+PVT1	MM		機能獲得（再構成：IGH/PVT1,WWOX/PVT1,NBEA/PVT1など）						
+RAD21	AML		機能喪失						
+RAD21	CHIP		機能喪失						
+RAD21	MDS		機能喪失						
+RAD51	IBMFS:Fanconianemia		機能喪失						
+RAD51C	IBMFS:Fanconianemia		機能喪失						
+RANBP2	B-ALL/LBLLBCR-ABL1-like		機能獲得（融合：RANBP2/ABL1）	NCCN2020(PediatricALL)			Dasatinib		
+RANBP2	JMML		機能獲得（融合：RANBP2/ALK）				Crizotinib	Crizotinib	
+RARA	APLwithPML-RARA		機能獲得（融合：PML/RARA）	NCCN2020,PMID:27276561	ATRA,Trisenoox(ATO)				
+RARB	APL		機能獲得（融合：PML/RARB）	PMID:29921692					
+RASA2	MM		機能喪失						
+RB1	B-ALL/LBLL		機能喪失（欠失）	PMID:24957142					
+RB1	BPDCN		機能喪失						
+RB1	MCL		機能喪失						
+RB1	MM		機能喪失						
+RBM15	AML(megakaryoblastic)witht(1;22)(p13.3;q13.3);RBM15-MKL1		機能獲得（融合：RBM15/MKL1）						
+RCSD1	B-ALL/LBLLBCR-ABL1-like		機能獲得（融合：RCSD1/ABL1,RCSD1/ABL2）	NCCN2020(PediatricALL)					
+REL	CHL		機能獲得（増幅）						
+REL	DLBCL		機能獲得（増幅）						
+REL	PMBL		機能獲得（増幅）						
+RET	BPDCN		機能喪失						
+RFTN1	MM		機能不明(変異）						
+RFWD3	IBMFS:Fanconianemia		機能喪失						
+RHOA	AITL	G17V	機能獲得（変異：G17V）						
+RHOA	FTCL	G17V	機能獲得（変異：G17V）						
+RHOA	NodalPTCLwithTFHphenotype	G17V	機能獲得（変異：G17V）						
+RHOA	BL		機能獲得（変異：R5Wなど）						
+RHOA	SS		機能獲得（変異）						
+RHOH	NLPHL		機能不明（変異）						
+RHOH	PCNSL		機能不明（変異）						
+RIT1	AA		機能獲得						
+RIT1	MDS		機能獲得						
+ROBO1	MDS		機能喪失（欠失）						
+ROBO2	MDS		機能喪失（欠失）						
+ROS1	JMML		機能獲得（融合：TBL1XR1/ROS1）				Crizotini	Crizotinib	
+RPA1	IBMFS:Diamond-Blackfananemia		機能獲得（変異：E240Kなど）						
+RPL10	IBMFS:Diamond-Blackfananemia		機能喪失						
+RPL10	T-ALL		機能喪失						
+RPL11	IBMFS:Diamond-Blackfananemia		機能喪失						
+RPL15	IBMFS:Diamond-Blackfananemia		機能喪失						
+RPL18	IBMFS:Diamond-Blackfananemia		機能喪失						
+RPL23	IBMFS:Diamond-Blackfananemia		機能喪失						
+RPL26	IBMFS:Diamond-Blackfananemia		機能喪失						
+RPL27	IBMFS:Diamond-Blackfananemia		機能喪失						
+RPL31	IBMFS:Diamond-Blackfananemia		機能喪失						
+RPL35	IBMFS:Diamond-Blackfananemia		機能喪失						
+RPL35A	IBMFS:Diamond-Blackfananemia		機能喪失						
+RPL5	IBMFS:Diamond-Blackfananemia		機能喪失						
+RPL5	T-ALL		機能喪失						
+RPN1	AMLwithMRC		機能獲得（再構成：RPN1/PRDM16）						
+RPS10	IBMFS:Diamond-Blackfananemia		機能喪失						
+RPS15A	IBMFS:Diamond-Blackfananemia		機能喪失						
+RPS17	IBMFS:Diamond-Blackfananemia		機能喪失						
+RPS19	IBMFS:Diamond-Blackfananemia		機能喪失						
+RPS24	IBMFS:Diamond-Blackfananemia		機能喪失						
+RPS26	IBMFS:Diamond-Blackfananemia		機能喪失						
+RPS27	IBMFS:Diamond-Blackfananemia		機能喪失						
+RPS28	IBMFS:Diamond-Blackfananemia		機能喪失						
+RPS29	IBMFS:Diamond-Blackfananemia		機能喪失						
+RPS7	IBMFS:Diamond-Blackfananemia		機能喪失						
+RRAGC	FL		機能獲得（変異）						
+RRAS	JMML		機能獲得（変異）						
+RTEL1	IBMFS:Telomerebiologydisorders		機能喪失						
+RUNX1	AML		機能喪失	NCCN2020					
+RUNX1	AMLwithMRC		機能獲得（融合：RUNX1/MECOMなど）	NCCN2020,ELN2017					
+RUNX1	AMLwithmutatedRUNX1		機能喪失	NCCN2020,WHO2017,ELN2017					
+RUNX1	AMLwitht(8;21)(q22;q22.1);RUNX1-RUNX1T1		機能獲得（融合：RUNX1/RUNX1T1）	NCCN2020,ELN2017					
+RUNX1	B-ALL/LBLLwithiAMP21		機能獲得（増幅）	NCCN2019					
+RUNX1	B-ALL/LBLLwitht(12;21)(p13.2;q22.1);ETV6-RUNX1		機能獲得（融合：ETV6/RUNX1）	NCCN2019					
+RUNX1	CML,BCR-ABL1+		機能喪失	PMID:29967129					
+RUNX1	ETP-ALL		機能喪失（欠失）						
+RUNX1	MDS		機能喪失	NCCN2019					
+RUNX1	MPAL,B/myeloid,NOS		機能喪失						
+RUNX1	MPAL,T/myeloid,NOS		機能喪失						
+RUNX1	MPN		機能喪失	PMID:21531982					
+RUNX1	MyeloidneoplasmswithgermlineRUNX1mutation		機能喪失						
+RUNX1	T-ALL		機能喪失	PMID:23341344					
+RUNX1T1	AMLwitht(8;21)(q22;q22.1);RUNX1-RUNX1T1		機能獲得（融合：RUNX1/RUNX1T1）	NCCN2020,ELN2017					
+SAMD9	Germlinepredispositionformyeloidneoplasms		機能喪失						
+SAMD9	MyeloidneoplasmsassociatedwithBMfailuresyndromes:MIRAGEsyndrome		生殖細胞系列：機能獲得（変異）；体細胞系列：機能喪失(monosomy7/del(7q)など						
+SAMD9L	Germlinepredispositionformyeloidneoplasms		機能喪失						
+SAMD9L	MyeloidneoplasmsassociatedwithBMfailuresyndromes:Ataxia-pancytopeniasyndrome		生殖細胞系列：機能獲得（変異）；体細胞系列：機能喪失(monosomy7/del(7q)など						
+SAMHD1	MM		機能不明(変異）						
+SBDS	IBMFS:Shwachmann-Diamondsyndrome		機能喪失	PMID:28177873					
+SBDS	MDS		機能喪失	PMID:28177873					
+SEC31A	LBCL(ALK+)		機能獲得（融合：SEC31A/ALK）						
+SETBP1	aCML		機能獲得（変異：D868N,G870Sなど）	PMID:23896413					
+SETBP1	CNL		機能獲得（変異：D868N,G870Sなど）	PMID:23896413					
+SETBP1	MDS		機能獲得（変異：D868N,G870Sなど）	NCCN2019					
+SETD1B	CML,BCR-ABL1+		機能喪失	PMID:29967129					
+SETD1B	DLBCL		機能喪失						
+SETD2	B-ALL/LBLL		機能喪失						
+SETD2	CHIP		機能喪失						
+SETD2	HSTL		機能喪失						
+SETD2	MEITL		機能喪失						
+SETD2	MM		機能喪失						
+SF1	AML		機能喪失	PMID:29563537					
+SF3B1	AML	K700E,R625,N626,K666	機能獲得（変異：K700Eなど）						
+SF3B1	CHIP	K700E,R625,N626,K666	機能獲得（変異：K700Eなど）						
+SF3B1	CLL/SLL	K700E,R625,N626,K666	機能獲得（変異：K700Eなど）	WHO2017,NCCN2019					
+SF3B1	ET	K700E,R625,N626,K666	機能獲得（変異：K700Eなど）	NCCN2019					
+SF3B1	MDS	K700E,R625,N626,K666	機能獲得（変異：K700Eなど）	NCCN2019					
+SF3B1	MDS/MPN-RS-T	K700E,R625,N626,K666	機能獲得（変異：K700Eなど）	PMID:23594705,22532522					
+SF3B1	MM	K700E,R625,N626,K666	機能獲得（変異）						
+SGK1	DLBCL		機能不明（変異）						
+SGK1	NLPHL		機能不明（変異）						
+SH2B3	B-ALL/LBLLBCR-ABL1-like		機能喪失	NCCN2020(PediatricALL)					
+SH2B3	ET		機能喪失（変異・E208Q）	NCCN2019					
+SH2B3	ETP-ALL		機能喪失						
+SH2B3	FamilialMPN		機能喪失（変異・E208Q）						
+SH2B3	MyeloidleukaemiaassociatedwithDownsyndrome(AMKL)		機能喪失						
+SH2B3	PMF		機能喪失	PMID:28028029					
+SH2B3	T-ALL		機能喪失						
+SH2D1A	XLP		機能喪失						
+SLX4	IBMFS:Fanconianemia		機能喪失						
+SMARCA4	BL		機能喪失						
+SMARCA4	MCL		機能喪失						
+SMC1A	AML		機能喪失						
+SMC1A	MDS		機能喪失						
+SMC3	AML		機能喪失						
+SMC3	MDS		機能喪失						
+SOCS1	CHL		機能喪失						
+SOCS1	DLBCL		機能喪失						
+SOCS1	PMBL		機能喪失						
+SP140	MM		機能喪失						
+SPEN	DLBCL		機能喪失						
+SPI1	T-ALL		機能獲得（融合：TCF7/SPI1,STMN1/SPI1など）	PMID:28671687,28671688					
+SQSTM1	LBCL(ALK+)		機能獲得（融合：SQSTM1/ALK）						
+SRP72	Germlinepredispositionformyeloidneoplasms		機能喪失						
+SRSF2	AML		機能獲得（変異：P95L/H/Rなど）	PMID:27276561					
+SRSF2	CHIP		機能獲得（変異：P95L/H/Rなど）						
+SRSF2	CMML		機能獲得（変異：P95L/H/Rなど）	PMID:23690417					
+SRSF2	CNL		機能獲得（変異：P95L/H/Rなど）	PMID:28762112					
+SRSF2	MDS		機能獲得（変異：P95L/H/Rなど）	NCCN2019					
+SRSF2	PMF		機能獲得（変異：P95L/H/Rなど）	NCCN2019					
+SRSF2	PV		機能獲得（変異：P95L/H/Rなど）	NCCN2019					
+SSBP2	B-ALL/LBLLBCR-ABL1-like		機能獲得（融合：SSBP2/CSF1R）						
+STAG2	AML		機能喪失						
+STAG2	MDS		機能喪失	NCCN2019					
+STAT3	ALCL(ALK-)	Y640F,D661Y	機能獲得（変異：Y640F/D661Yなど）						
+STAT3	ATLL	Y640F,D661Y	機能獲得（変異：Y640F/D661Yなど）						
+STAT3	CLPD-NK	Y640F,D661Y	機能獲得（変異：Y640F/D661Yなど）						
+STAT3	EATL	Y640F,D661Y	機能獲得（変異：Y640F/D661Yなど）						
+STAT3	ENKTL	Y640F,D661Y	機能獲得（変異：Y640F/D661Yなど）						
+STAT3	HSTL	Y640F,D661Y	機能獲得（変異：Y640F/D661Yなど）						
+STAT3	MDS	Y640F,D661Y	機能獲得（変異：Y640F/D661Yなど）						
+STAT3	Mycosisfungoides	Y640F,D661Y	機能獲得（変異：Y640F/D661Yなど）						
+STAT3	T-LGL	Y640F,D661Y	機能獲得（変異：Y640F/D661Yなど）						
+STAT5B	EATL		機能獲得（変異：N642Hなど）						
+STAT5B	ENKTL		機能獲得（変異：N642Hなど）						
+STAT5B	HSTL		機能獲得（変異：N642Hなど）						
+STAT5B	MEITL		機能獲得（変異：N642Hなど）						
+STAT5B	SS		機能獲得（増幅、変異：N642Hなど）						
+STAT5B	T-LGL		機能獲得（変異：N642Hなど）	WHO2017					
+STAT5B	T-PLL		機能獲得（変異：N642Hなど）	WHO2017					
+STAT6	DLBCL		機能獲得（変異：D419Aなど）						
+STAT6	PMBL		機能獲得（変異：D419Aなど）						
+STIL	T-ALL		機能獲得（再構成：TAL1/STILなど）						
+STMN1	T-ALL		機能獲得（融合：STMN1/SPI1）	PMID:28671687,28671688					
+SUSD2	PCNSL		機能不明（変異）						
+SUZ12	MDS		機能喪失						
+SUZ12	MyeloidleukaemiaassociatedwithDownsyndrome(AMKL)		機能喪失						
+SYK	AITL		機能獲得（融合：ITK/SYK）						
+SYK	FTCL		機能獲得（融合：ITK/SYK）						
+TAL1	T-ALL		機能獲得（再構成：TAL1/STILなど）						
+TBL1XR1	ALCL(ALK-)		機能獲得（融合：TBL1XR1/TP63)						
+TBL1XR1	ATLL		機能喪失						
+TBL1XR1	DLBCL		機能獲得（融合：TBL1XR1/TP63)						
+TCF3	B-ALL/LBLL		機能獲得（融合：TCF3/HLF）	NCCN2019,NCCN2020(PediatricALL),WHO2017,PMID:8608207					
+TCF3	B-ALL/LBLLwitht(1;19)(q23;p13.3);TCF3-PBX1		機能獲得（融合：TCF3/PBX1）						
+TCF3	BL		機能獲得（変異：N551Kなど）						
+TCF7	T-ALL		機能獲得（融合：TCF7/SPI1）	PMID:28671687					
+TCL1A	T-PLL		機能獲得（融合：TRA/TCL1A）						
+TCL1B	T-PLL		機能獲得（融合：TRA/TCL1B）						
+TERC	IBMFS:Telomerebiologydisorders		機能喪失						
+TERT	IBMFS:Telomerebiologydisorders		機能喪失						
+TET2	AITL		機能喪失						
+TET2	AML		機能喪失	PMID:21343549,22430270					
+TET2	BPDCN		機能喪失						
+TET2	CHIP		機能喪失						
+TET2	CMML		機能喪失						
+TET2	ET		機能喪失	NCCN2019,PMID:28028029					
+TET2	FTCL		機能喪失						
+TET2	MDS		機能喪失	PMID:27992414					
+TET2	MM		機能喪失						
+TET2	MPAL		機能喪失（欠失）						
+TET2	NodalPTCLwithTFHphenotype		機能喪失						
+TET2	PMF		機能喪失	NCCN2019,PMID:28028029					
+TET2	PV		機能喪失	NCCN2019,PMID:28028029					
+TFRC	Duodenal-typeFL(DFL)		機能獲得（増幅）						
+TGDS	MM		機能喪失、機能獲得（変異）						
+TINF2	IBMFS:Telomerebiologydisorders		機能喪失						
+TLR8	IBMFS		機能獲得（変異：P432Lなど）						
+TLX1	T-ALL		機能獲得（再構成：TLX1/TRDなど）	WHO2017					
+TLX3	T-ALL		機能獲得（再構成：BCL11B/TLX3など）						
+TNFAIP3	CHL		機能喪失						
+TNFAIP3	DLBCL		機能喪失						
+TNFAIP3	FL		機能喪失						
+TNFAIP3	MALT		機能喪失						
+TNFAIP3	MCL		機能喪失						
+TNFAIP3	PMBL		機能喪失						
+TNFRSF14	DLBCL		機能喪失						
+TNFRSF14	Duodenal-typeFL(DFL)		機能喪失						
+TNFRSF14	FL		機能喪失						
+TNFRSF14	PTFL		機能喪失						
+TNFRSF1B	SS		機能獲得（変異）						
+TOX	B-ALL/LBLL		機能喪失						
+TP53	ALCL(ALK-)		機能喪失、機能獲得（変異）	WHO2017					
+TP53	AML		機能喪失、機能獲得（変異：R175H,G245S,R248Q,R248W,R273Hなど）	NCCN2020,ELN2017					
+TP53	B-ALL/LBLL		機能喪失、機能獲得（変異）	PMID:21747090,33095873					
+TP53	B-ALL/LBLL		機能喪失、機能獲得（変異）						
+TP53	B-ALL/LBLLwithhypodiploidy		機能喪失、機能獲得（変異）						
+TP53	BL		機能喪失、機能獲得（変異）						
+TP53	CHIP		機能喪失、機能獲得（変異）						
+TP53	CLL/SLL		機能喪失、機能獲得（変異）	WHO2017,NCCN2019					
+TP53	CML,BCR-ABL1+		機能喪失						
+TP53	DLBCL		機能喪失、機能獲得（変異）	WHO2017					
+TP53	EATL		機能喪失、機能獲得（変異）						
+TP53	ENKTL		機能喪失、機能獲得（変異）						
+TP53	ET		機能喪失、機能獲得（変異：R175H,G245S,R248Q,R248W,R273Hなど）	NCCN2019					
+TP53	ET		機能喪失、機能獲得（変異：R175H,G245S,R248Q,R248W,R273Hなど）	NCCN2019					
+TP53	FL		機能喪失、機能獲得（変異）	WHO2017					
+TP53	Germlinepredispositionformyeloidneoplasms:Li-Fraumenisyndrome		機能喪失、機能獲得（変異：R175H,G245S,R248Q,R248W,R273Hなど）						
+TP53	HCL-v		機能喪失、機能獲得（変異）	WHO2017					
+TP53	HGBL		機能喪失、機能獲得（変異）						
+TP53	LBCLwithIRF4-r		機能喪失、機能獲得（変異）						
+TP53	M-PTLD		機能喪失、機能獲得（変異）						
+TP53	MCL		機能喪失、機能獲得（変異）	PMID:25210087(ESMO),WHO2017,NCCN2019					
+TP53	MDS		機能喪失、機能獲得（変異：R175H,G245S,R248Q,R248W,R273Hなど）	NCCN2019,PMID:28177873					
+TP53	MM		機能喪失、機能獲得（変異）	PMID:20616218,26282654					
+TP53	PMF		機能喪失、機能獲得（変異：R175H,G245S,R248Q,R248W,R273Hなど）	NCCN2019					
+TP53	SMZL		機能喪失、機能獲得（変異）	WHO2017					
+TP53	SS		機能喪失、機能獲得（変異）						
+TP53	t-MNs		機能喪失	WHO2017					
+TP53	T-PLL		機能喪失、機能獲得（変異）						
+TP53	WM/LPL		機能喪失、機能獲得（変異）						
+TP63	ALCL(ALK-)		機能獲得（再構成：TBL1XR1/TP63など）	WHO2017,PMID:24894770					
+TP63	C-ALCL		機能獲得（再構成）						
+TP73	ATLL		機能獲得（再構成：遺伝子内欠失）						
+TP73	Duodenal-typeFL(DFL)		機能喪失						
+TRA	T-ALL		機能獲得（再構成：TRA/MYCなど）						
+TRA	T-PLL		機能獲得（融合：TRA/TCL1A,TRA/TCL1B,TRA/MTCP1など）						
+TRAF2	MCL		機能喪失（変異）						
+TRAF2	MM		機能喪失						
+TRAF3	MM		機能喪失						
+TRAF5	DLBCL		機能獲得（変異）						
+TRB	T-ALL		機能獲得（再構成：TRB/LCK,TRB/LYL1など）						
+TRB	T-NHL		機能獲得（再構成）						
+TRD	T-ALL		機能獲得（再構成：TRD/LMO1,TRD/LMO2,TLX1/TRDなど）						
+TRD	T-NHL		機能獲得（再構成）						
+TRG	T-NHL		機能獲得（再構成）						
+TYK2	B-ALL/LBLLBCR-ABL1-like		機能獲得（融合：MYB/TYK2）	NCCN2020(PediatricALL)					
+TYK2	C-ALCL		機能獲得（融合：NPM1/TYK2、再構成）						
+U2AF1	AML		機能獲得（変異：S34F/Y,Q157R/Pなど）						
+U2AF1	CHIP		機能獲得（変異：S34F/Y,Q157R/Pなど）						
+U2AF1	ET		機能獲得（変異：S34F/Y,Q157R/Pなど）	NCCN2019					
+U2AF1	MDS		機能獲得（変異：S34F/Y,Q157R/Pなど）	NCCN2019					
+U2AF2	MDS		機能獲得（変異）						
+UBA1	VEXASsyndrome		機能喪失(変異：M41V/Tなど）						
+UBE2R2	MM		機能獲得（融合：UBE2R2/NTRK3）					Entrectinib,Larotrectinib	
+UBE2T	IBMFS:Fanconianemia		機能喪失						
+UBR5	MCL		機能喪失						
+UBR5	MM		機能喪失						
+UBTF	AML		機能獲得（変異：ITD）	ASH2021LBA-4					
+USB1	Germlinepredispositionformyeloidneoplasms		機能喪失						
+USB1	IBMFS:Telomerebiologydisorders		機能喪失						
+USH2A	B-ALL/LBLL		機能不明（変異）						
+VAV1	ATLL		機能獲得（変異）						
+VAV1	PTCL-NOS		機能獲得（融合、変異）						
+VHL	BPDCN		機能喪失						
+VPREB1	B-ALL/LBLL		機能喪失						
+WRAP53	IBMFS:Telomerebiologydisorders		機能喪失						
+WT1	AML		機能喪失	WHO2017,PMID:18559874,20368469					
+WT1	MDS		機能喪失	NCCN2019,PMID:27992414					
+WT1	MPAL,T/myeloid,NOS		機能喪失（両アレル変異）						
+WWOX	MM		機能喪失	PMID:17609426					
+XBP1	MM		機能不明（変異）						
+XPO1	CHL		機能獲得（変異：E571など）						
+XPO1	PMBL		機能獲得（変異：E571など）						
+XRCC2	IBMFS:Fanconianemia		機能喪失						
+ZBTB16	APL		機能獲得（融合：ZBTB16/RARA）						
+ZBTB33	CHIP		機能喪失						
+ZBTB7A	AML		機能喪失						
+ZEB2	BPDCN		機能不明（変異）						
+ZFP36L1	MM		機能不明（変異）						
+ZFP36L2	B-ALL/LBLL		機能喪失						
+ZMIZ1	B-ALL/LBLLBCR-ABL1-like		機能獲得（融合：ABL1/ZMIZ1）	NCCN2020(PediatricALL)					
+ZNF292	MM		機能喪失						
+ZNF384	B-ALL/LBLL		機能獲得（融合：EP300/ZNF384など）						
+ZNF384	MPAL,B/myeloid,NOS		機能獲得（融合：TCF3/ZNF384,EP300/ZNF384など）						
+ZRSR2	AML		機能喪失						
+ZRSR2	MDS		機能喪失	NCCN2019					

@@ -1,0 +1,262 @@
+修正・追記	Gene	別名	該当する造血器疾患	臨床的有用性	遺伝子変異の機能的意義とその種類	関連する染色体構造変化	Fast-track 対象遺伝子異常	エビデンスレベル＿診断	根拠となる論文、学会指針、臨床試験	エビデンスレベル＿治療法選択	根拠となる論文、学会指針、臨床試験	エビデンスレベル＿予後予測	根拠となる論文、学会指針、臨床試験	遺伝子異常と関連して、当該疾患に対して薬事　承認された薬剤	遺伝子異常と関連して、当該疾患に対してFDA　承認された薬剤	遺伝子異常と関連して、他の腫瘍に対して薬事　承認された薬剤	遺伝子異常と関連して、他の腫瘍に対してFDA　承認された薬剤	その他コメント
+	ABL1		AML with BCR-ABL1	1	機能獲得（融合：BCR/ABL1）	t(9;22)(q34;q11)		A	WHO2017, ELN2017	C	PMID: 12476305	A	WHO2017			Imatinib, Dasatinib, Nilotinib, Bosutinib, Ponatinib		
+	ABL1		B-ALL/LBLL BCR-ABL1-like	1	機能獲得（融合：NUP214/ABL1, RANBP2/ABL1, ETV6/ABL1, ZMIZ1/ABL1, RCSD1/ABL1, LSM14A-ABL1など）	t(9;9)(q34;q34), t(2;9)(q12;q34), t(9;10)(q34;q22), t(1;9)(q24;q34)		A	WHO2017, PMID: 25207766, 30181314, 31935290	C	NCT01406756, NCT02883049, NCT03117751, PMID: 31434701	A	NCCN2020 (Pediatric ALL)			Dasatinib		
+	ABL1		B-ALL/LBLL with t(9;22)(q34.1;q11.2); BCR-ABL1	1	機能獲得（融合：BCR/ABL1）	t(9;22)(q34;q11)		A	WHO2017	A	NCCN2020, JSH-GL, ELN2017	A	NCCN2019, NCCN2020 (Pediatric ALL)					
+	ABL1		CML, BCR-ABL1+	1	機能獲得（融合：BCR/ABL1）	t(9;22)(q34;q11)		A	NCCN2020, JSH-GL, ELN2017	A	NCCN2020, JSH-GL, ELN2017	A	NCCN2020, JSH-GL, ELN2017 (for MRD evaluation)	Imatinib, Dasatinib, Nilotinib, Bosutinib, Ponatinib	Imatinib, Dasatinib, Nilotinib, Bosutinib, Ponatinib			
+	ABL1		MPAL with t(9;22)(q34.1;q11.2); BCR-ABL1	1	機能獲得（融合：BCR/ABL1）	t(9;22)(q34;q11)		A	WHO2017	A	NCCN2019			Imatinib, Dasatinib, Ponatinib	Imatinib, Dasatinib, Ponatinib	Imatinib, Dasatinib, Nilotinib, Bosutinib, Ponatinib	Imatinib, Dasatinib, Nilotinib, Bosutinib, Ponatinib	
+	ABL2		B-ALL/LBLL BCR-ABL1-like	1	機能獲得（融合：RCSD1/ABL2, ZC3HAV1/ABL2, PAG1/ABL2など）	t(1;1)(q24;q25), t(1;7)(q25;q34)		A	WHO2017, PMID: 25207766, 30181314, 31935290	C	NCT01406756, NCT02883049, NCT03117751, PMID: 31434701	A	NCCN2020 (Pediatric ALL)					
+	AFF1	AF4	B-ALL/LBLL with t(v;11q23.3); KMT2A rearranged	1	機能獲得（融合：KMT2A/AFF1）	t(4;11)(q21;q23)		A	WHO2017			A	NCCN2019					 
+	ALK		ALCL (ALK+)	1	機能獲得（融合：NPM1/ALK, TPM3/ALKなど）	t(2;5)(p23;q35), t(1;2)(q25;p23)など		A	WHO2017, NCCN2019							Crizotinib, Ceritinib, Alectinib	Crizotinib, Ceritinib, Alectinib, Brigatinib	ALKの変異により、一部のALK阻害剤に対する耐性を獲得する可能性がある。
+	ALK		C-ALCL	1	機能獲得（融合：NPM1/ALK）	t(2;5)(p23;q35)		A	WHO2017, NCCN2019							Crizotinib, Ceritinib, Alectinib	Crizotinib, Ceritinib, Alectinib, Brigatinib	
+	ALK		LBCL (ALK+)	1	機能獲得（融合：CLTC/ALK, NPM1/ALK, SQSTM1/ALK, SEC31A/ALK）	t(2;17)(p23;q23), t(2;5)(p23;q35)		A	WHO2017							Crizotinib, Ceritinib, Alectinib	Crizotinib, Ceritinib, Alectinib, Brigatinib	
+	ATG5		ENKTL	1	機能喪失	del(6q21)		A	WHO2017, PMID: 19194464									コピー数異常をきたす領域に存在するが、当該遺伝子の欠失と病的意義との直接的な関連は明らかでない。
+	ATM		CLL/SLL	1	機能喪失	del(11q23)		A	WHO2017			A	WHO2017					
+	ATM		MCL	1	機能喪失	del(11q23)		A	WHO2017									
+	ATM		MM	2	機能喪失	del(11q23)		C	PMID:29884741					-				
+	ATM		T-PLL	1	機能喪失	del(11q23)		A	WHO2017, NCCN TCL v2 2017									
+	BCL10		MALT	1	機能獲得（再構成：IGH/BCL10）	t(1;14)(p22;q32)		A	WHO2017									
+	BCL11B		T-ALL	1	機能喪失（変異：R447C など、再構成：BCL11B/TLX3 など）	t(5;14)(q35;q32)など		A	WHO2017, PMID: 21878675, 28671688									
+	BCL2		CLL/SLL	1	機能獲得（再構成：IGH/BCL2）	t(14;18)(q32;q21)		A	WHO2017									
+	BCL2		DLBCL	1	機能獲得（増幅、再構成：IGH/BCL2）	amp(18q21), t(14;18)(q32;q21)		A	WHO2017, NCCN2019	A	NCCN2019	A	WHO2017					
+	BCL2		Duodenal-type FL (DFL)	1	機能獲得（増幅）	amp(18q21)		A	WHO2017									
+	BCL2		FL	1	機能獲得（増幅、再構成：IGH/BCL2）、機能不明（変異）	amp(18q21), t(14;18)(q32;q21)		A	WHO2017									
+	BCL2		HGBL 	1	機能獲得（増幅、再構成：IGH/BCL2）	amp(18q21), t(14;18)(q32;q21)		A	WHO2017									
+	BCL2		MCL	1	機能獲得（増幅）	amp(18q21)		A	WHO2017									
+	BCL2		PCNSL	1	機能獲得（増幅）、機能不明（変異）	amp(18q21)		A	WHO2017									
+	BCL3		CLL/SLL	1	機能獲得（再構成：IGH/BCL3）	t(14;19)(q32;q13)		A	WHO2017									
+	BCL6		DLBCL	1	機能獲得（再構成：IGH/BCL6など）	3q27 rearrangement		A	WHO2017	A	NCCN BCL v3 2017	A	WHO2017					
+	BCL6		FL	1	機能獲得（増幅、再構成：IGH/BCL6）、機能不明（変異）	3q27 rearrangement		A	WHO2017									
+	BCL6		HGBL 	1	機能獲得（再構成：IGH/BCL6など）	3q27 rearrangement		A	WHO2017									
+	BCL6		LBCL with IRF4-r	1	機能獲得（再構成：IGH/BCL6など）	3q27 rearrangement		A	WHO2017									
+	BCL6		MCL	1	機能獲得（再構成：IGH/BCL6など）	3q27 rearrangement		A	WHO2017									
+	BCL6		NLPHL	1	機能獲得（再構成：IGH/BCL6など）	3q27 rearrangement		A	WHO2017									
+	BCL6		PCNSL	1	機能獲得（再構成：IGH/BCL6など）	3q27 rearrangement		A	WHO2017									
+	BCR		AML with BCR-ABL1	1	機能獲得（融合：BCR/ABL1）	t(9;22)(q34;q11)		A	WHO2017, ELN2017	C	PMID: 12476305	A	WHO2017			Imatinib, Dasatinib, Nilotinib, Bosutinib, Ponatinib		
+	BCR		B-ALL/LBLL BCR-ABL1-like	1	機能獲得（融合：BCR/JAK2）	t(9;22)(p24;q11.2)		A	WHO2017, PMID: 31935290	C	NCT02723994, NCT03117751, NCT03571321, PMID: 22875628, 22899477	A	NCCN2020 (Pediatric ALL)					
+	BCR		B-ALL/LBLL with t(9;22)(q34.1;q11.2); BCR-ABL1	1	機能獲得（融合：BCR/ABL1）	t(9;22)(q34;q11)		A	WHO2017	A	NCCN2020, JSH-GL, ELN2017	A	NCCN2019, NCCN2020 (Pediatric ALL)					
+	BCR		CML, BCR-ABL1+	1	機能獲得（融合：BCR/ABL1）	t(9;22)(q34;q11)		A	NCCN2020, JSH-GL, ELN2017	A	NCCN2020, JSH-GL, ELN2017	A	NCCN2020, JSH-GL, ELN2017 (for MRD evaluation)	Imatinib, Dasatinib, Nilotinib, Bosutinib, Ponatinib	Imatinib, Dasatinib, Nilotinib, Bosutinib, Ponatinib			
+	BCR		MPAL with t(9;22)(q34.1;q11.2); BCR-ABL1	1	機能獲得（融合：BCR/ABL1）	t(9;22)(q34;q11)		A	WHO2017							Imatinib, Dasatinib, Nilotinib, Bosutinib, Ponatinib		
+	BIRC2		MM	1	機能喪失	del(11q)		A	PMID: 27002115, 20616218									
+	BIRC3	cIAP2	CLL/SLL	1	機能喪失	del(11q22)		A	WHO2017			A	WHO2017, NCCN2019					
+	BIRC3	cIAP2	MALT	1	機能獲得（融合：BIRC3/MALT1）	t(11;18)(q21;q21)		A	WHO2017	A	WHO2017							t(11;18)転座により、H.pyroli 除菌に対する耐性を獲得する可能性がある。
+	BIRC3	cIAP2	MM	1	機能喪失	del(11q)		A	PMID: 27002115, 20616218									
+	CBFA2T3	MTG16	AML	1	機能獲得（融合：CBFA2T3/GLIS2）	inv(16)(p13q24)		A	WHO2017			A	WHO2017					
+	CBFB		AML with t(16;16)(p13.1;q22); CBFB-MYH11	1	機能獲得（融合：CBFB/MYH11）	inv(16)(p13.1q22)		A	WHO2017			A	NCCN2020, ELN2017					
+	CCND1		MCL	1	機能獲得（再構成：IGH/CCND1、変異：Y44Dなど）	t(11;14)(q13;q32) 		A	WHO2017									
+	CCND1		MM	1	機能獲得（再構成：IGH/CCND1、増幅、変異）	t(11;14)(q13;q32)		A	WHO2017, NCCN2017, PMID: 27002115, 28584253, 21430775, 26282654, 24429703	B	PMID: 29018077, NCI-MATCH: NCT02465060	A	WHO2017, NCCN2017, PMID: 27002115, 28584253, 26282654 					t(11;14)(q13q;32) を有する症例に対してBCL2阻害剤 (Venetoclax) の有用性が示唆されている。
+	CCND2		MCL	1	機能獲得（再構成：IGK/CCND2, IGL/CCND2）	t(2;12)(p12;p13), t(12;22)(p13;q22) 		A	WHO2017									
+	CCND2		MM	1	機能獲得（再構成：IGH/CCND2）	t(12;14)(p13;q32)		A	WHO2017, PMID: 28584253	C	NCI-MATCH: NCT02465060							
+	CCND3		MM	1	機能獲得（再構成：IGH/CCND3）	t(6;14)(p21;q32) 		A	WHO2017, PMID: 27002115	C	NCI-MATCH: NCT02465060	A	PMID: 27002115					
+	CD274	PD-L1	CHL	1	機能獲得（増幅）	amp(9p24)		A	WHO2017						Nivolumab, Pembrolizumab（変異規定なし）	Nivolumab, Pembrolizumab	Nivolumab, Pembrolizumab	
+	CD274	PD-L1	DLBCL	1	機能獲得（増幅、再構成）	amp(9p24)		A	WHO2017	D	PMID: 27281199					Nivolumab, Pembrolizumab	Nivolumab, Pembrolizumab	
+	CD274	PD-L1	PMBL	1	機能獲得（増幅、再構成）	amp(9p24)		A	WHO2017							Nivolumab, Pembrolizumab	Nivolumab, Pembrolizumab	
+	CD28		AITL	1	機能獲得（融合：CTLA4/CD28、変異：F51Vなど）	2q33.2 tandem duplication		A	WHO2017									
+	CDK6		SMZL	1	機能獲得（再構成：IGK/CDK6）	t(2;7)(p12;q21)		A	WHO2017									
+	CDKN2A	INK4A, ARF	ATLL	1	機能喪失	del(9p21)		A	WHO2017			C	PMID: 9164185					
+	CDKN2A	INK4A, ARF	CLL/SLL	1	機能喪失	del(9p21)						A	WHO2017					
+	CDKN2A	INK4A, ARF	DLBCL	1	機能喪失	del(9p21)		A	WHO2017			A	WHO2017					
+	CDKN2A	INK4A, ARF	EATL	1	機能喪失	del(9p21)		A	WHO2017									
+	CDKN2A	INK4A, ARF	ENKTL	1	機能喪失	del(9p21)		A	WHO2017									
+	CDKN2A	INK4A, ARF	FL	1	機能喪失	del(9p21)						A	WHO2017					
+	CDKN2A	INK4A, ARF	MCL	1	機能喪失	del(9p21)		A	WHO2017			A	WHO2017					
+	CDKN2A	INK4A, ARF	Mycosis fungoides	1	機能喪失	del(9p21)		A	WHO2017									
+	CDKN2A	INK4A, ARF	SS	1	機能喪失	del(9p21)		A	WHO2017									
+	CDKN2B	INK4B	EATL	1	機能喪失	del(9p21)		A	WHO2017									
+	CDKN2B	INK4B	ENKTL	1	機能喪失	del(9p21)		A	WHO2017									
+	CDKN2C	INK4C	MM	1	機能喪失	del(1p32)		A	WHO2017, PMID: 27002115, 28584253			C	PMID: 20616218, 18829482					
+	CKS1B		MM	1	機能獲得（増幅）	amp(1q)		A	WHO2017, PMID: 27002115, 28584253			A	NCCN2017, PMID: 27002115, 28584253, 21836613, 22547600					
+	CLTC		LBCL (ALK+)	1	機能獲得（融合：CLTC/ALK）	t(2;17)(p23;q23)		A	WHO2017									
+	CRBN		MM	2	機能獲得（変異、増幅）、機能喪失（変異、欠失）	amp(3p)		C	PMID: 29884741, 21860026, 23480694, 25108355, 33443552	C	PMID: 21860026, 23480694, 25108355, 27458004, 33443552							CRBNの変異および欠失は、免疫調節薬（IMiDs: Lenalidomide, Pomalidomide）に対する感受性・耐性および生命予後に関与する可能性がある。
+	CREBBP		AML with MRC	1	機能獲得（融合：KMT2A/CREBBP）	t(11;16)(q23.3;p13.3)		A	WHO2017									
+	CREBBP	CBP	AML with MRC	1	機能獲得（融合：KAT6A/CREBBP）	t(8;16)(p11;p13)		A	WHO2017, ELN2017									
+	CRLF2		B-ALL/LBLL BCR-ABL1-like	1	機能獲得（再構成：IGH/CRLF2、融合：P2RY8/CRLF2）	t(14;X)(q32;p22), t(X)(p22p22)など		A	WHO2017, PMID: 19838194, 25207766, 30181314, 31935290	C	NCT02723994, NCT03117751, NCT03571321; PMID: 22904298, 22955920	A	WHO2017, PMID:20378752, 20139093, NCCN2020 (Pediatric ALL)					
+	CRYBG1	AIM1	ENKTL	1	機能喪失	del(6q21)		A	WHO2017, PMID: 19194464									コピー数異常をきたす領域に存在するが、当該遺伝子の欠失と病的意義との直接的な関連は明らかでない。
+	CSF1R		B-ALL/LBLL BCR-ABL1-like	1	機能獲得（融合：SSBP2/CSF1R）	t(5;5)(q14;q32) or dup(5)(q14q32)		A	WHO2017, PMID: 25207766, 30181314, 31935290	C	NCT01406756, NCT02883049, NCT03117751, PMID: 24186003, 31434701							
+	CTLA4		AITL	1	機能獲得（融合：CTLA4/CD28）	2q33.2 tandem duplication		A	WHO2017									
+	CYLD		MM	2	機能喪失	del(16q)		C	PMID: 24434212, 26282654, 24429703, 27458004, 22573403, 17692805									
+	DEK		AML with t(6;9)(p23;q34.1); DEK-NUP214	1	機能獲得（融合：DEK/NUP214）	t(6;9)(p22;q34)		A	WHO2017, ELN2017			A	ELN2017					
+	DIS3		MM	1	機能喪失	del(13)		A	WHO2017, PMID: 21430775, 24434212, 26282654, 20616218									
+	DUSP22		ALCL (ALK-)	1	機能獲得（再構成：DUSP22/FRA7Hなど）	t(6;7)(p25.3;q32.3)など		A	WHO2017, NCCN2019, PMID: 24894770			A	WHO2017, PMID: 24894770					
+	DUSP22		C-ALCL	1	機能獲得（再構成：DUSP22/FRA7Hなど）	t(6;7)(p25.3;q32.3)など		A	WHO2017, PMID: 21030553, NCCN2019									
+	EP300	P300	B-ALL/LBLL	2	機能獲得（融合：EP300/ZNF384）	t(12;22)(p13;q13)		C	PMID: 27634205 			D	PMID: 27634205					
+	EPOR		B-ALL/LBLL BCR-ABL1-like	1	機能獲得（再構成：IGH/EPOR）	t(14;19)(q32;p13)		A	WHO2017, PMID: 25207766, 30181314, 31935290	C	NCT02723994, NCT03117751, NCT03571321, PMID: 26859458	A	NCCN2020 (Pediatric ALL)					
+	EPS15	MLL	AML	1	機能獲得（融合：KMT2A/EPS15）	t(1;11)(p32;q23) 		A	WHO2017, ELN2017, NCCN2020	C	NCT02310243 (palbociclib), NCT03013998 (entospletinib), NCT04067336 (KO-539)	A	NCCN2020, ELN2017					
+	ERG		AML	1	機能獲得（融合：FUS/ERG）	t(16;21)(p11;q22)		A	ELN2017									
+	ETV6	TEL	AML	1	機能獲得（融合：MNX1/ETV6, ETV6/NTRK3）	t(7;12)(q36;p13) t(12;15)(p13;q25)		A	WHO2017			A	WHO2017					
+	ETV6		B-ALL/LBLL BCR-ABL1-like	1	機能獲得（融合：ETV6/PDGFRB, ETV6/ABL1, ETV6/NTRK3）	t(5;12)(q33;p13) t(9;12)(q34;p13) t(12;15)(p13;q25)		A	WHO2017, PMID: 30181314, 31935290, 31434701	C	NCT01406756, NCT02883049, NCT03117751, PMID: 31434701	A	NCCN2020 (Pediatric ALL)					
+	ETV6	TEL	B-ALL/LBLL with t(12;21)(p13.2;q22.1); ETV6-RUNX1	1	機能獲得（融合：ETV6/RUNX1）	t(12;21)(p13;q22)		A	WHO2017			A	NCCN2019, NCCN2020 (Pediatric ALL)					 
+	FAF1		MM	1	機能喪失	del(1p)		A	WHO2017, PMID: 27002115, 28584253			C	PMID: 20616218, 18829482					
+	FAM46C		MM	1	機能喪失	del(1p12)		A	WHO2017, PMID: 27002115, 28584253			C	PMID: 20616218, 18829482					
+	FGFR1		MLN-e with FGFR1 rearrangement	1	機能獲得（融合：ZMYM2/FGFR1, CNTRLFGFR1, FGFR1OP1/FGFR1など）	t(8;13)(p11;q12) t(8;9)(p12;q33) t(6;8)(q27;p12)		A	WHO2017, PMID: 20226962 	C	PMID: 22301675, 22781593						Pemigatinib	
+	FGFR3		MM	1	機能獲得（再構成：IGH/FGFR3、変異）	t(4;14)(p16;q32)		A	WHO2017, NCCN2017, PMID: 27002115, 28584253, 26282654, 27531699	C	PMID: 19331127, 21273588, 19331127, 21273588, NCI-MATCH: NCT02465060	A	WHO2017, NCCN2017, PMID: 27002115, 28584253				Erdafitinib	FGFR3はNSD2に隣接する（セントロメア側約 60 kb ～に位置）。
+	FIP1L1		MLN-e with PDGFRA rearrangement	1	機能獲得（融合：FIP1LI/PDGFRA）	del(4)(q12q12)		A	WHO2017, PMID: 12660384	A	NCCN, JSH-GL, ELN			Imatinib	Imatinib	Sunitinib（変異規定なし）	Sunitinib（変異規定なし）	
+	FOXO4	MLL	AML	1	機能獲得（融合：KMT2A/FOXO4）	t(X;11)(q13;q23)		A	WHO2017, ELN2017, NCCN2020	C	NCT02310243 (palbociclib), NCT03013998 (entospletinib), NCT04067336 (KO-539)	A	NCCN2020, ELN2017					
+	FOXP1		MALT	1	機能獲得（再構成：IGH/FOXP1）	t(3;14)(p14.1;q32)		A	WHO2017									
+	FUS		AML	1	機能獲得（融合：FUS/ERG）	t(16;21)(p11;q22)		A	ELN2017									
+	GATA2		AML with inv(3)(q21.3q26.2) or t(3;3)(q21.3;q26.2); GATA2, MECOM	1	機能喪失（変異、再構成）	inv(3)(q21.3q26.2) , t(3;3)(q21.3;q26.2)		A	WHO2017, ELN2017			A	WHO2017, ELN2017					当該疾患の発症と関連した生殖細胞系列の病的バリアントである可能性がある。
+	GATA2		MDS	1	機能喪失（変異、再構成）	inv(3)(q21.3q26.2) , t(3;3)(q21.3;q26.2)		A	NCCN2019			A	NCCN2019, PMID: 27992414					当該疾患の発症と関連した生殖細胞系列の病的バリアントである可能性がある。
+	GLIS2		AML	1	機能獲得（融合：CBFA2T3/GLIS2）	inv(16)(p13q24)		A	WHO2017			A	WHO2017					
+	HLF		B-ALL/LBLL	1	機能獲得（融合：TCF3/HLF）	t(17;19)(q22;p13)		A	WHO2017			A	WHO2017, NCCN2020 (Pediatric ALL), PMID: 8608207					
+	IL3		B-ALL/LBLL with t(5;14)(q31.1;q32.3) IL3-IGH	1	機能獲得（再構成：IGH/IL3）	t(5;14)(q31;q32)		A	WHO2017									 
+	IRF4		LBCL with IRF4-r	1	機能獲得（再構成：IGH/IRF4）	t(6;14)(p25;q32)		A	WHO2017, NCCN2019									
+	IRF4		MM	1	機能獲得（再構成：IGH/IRF4、変異：K123Rなど）	t(6;14)(p25;q32)		A	WHO2017, PMID: 21430775, 26282654			D	PMID: 26282654					
+	ITK		AITL	1	機能獲得（融合：ITK/SYK）	t(5;9)(q33;q22)		A	WHO2017									
+	ITK		FTCL	1	機能獲得（融合：ITK/SYK）	t(5;9)(q33;q22)		A	WHO2017									
+	JAK2		B-ALL/LBLL BCR-ABL1-like	1	機能獲得（融合：ETV6/JAK2, PAX5/JAK2, BCR/JAK2, SSBP2/JAK2など、変異；R683など）	t(9;12)(p24;p13) など		A	WHO2017, PMID: 25207766, 30181314, 31935290	C	NCT02723994, NCT03117751, NCT03571321, PMID: 22875628, 22899477	A	NCCN2020 (Pediatric ALL)			Ruxolitinib（変異規定なし）, Fedratinib（変異規定なし）	Ruxolitinib（変異規定なし）	
+	JAK2		CHIP	2	機能獲得（変異：V617Fなど）	V617F		D	PMID: 25426837, 25426838, 33057201, 33106634							Ruxolitinib（変異規定なし）, Fedratinib（変異規定なし）	Ruxolitinib（変異規定なし）	
+	JAK2		CHL	1	機能獲得（増幅）	amp(9p24)		A	WHO2017							Ruxolitinib（変異規定なし）, Fedratinib（変異規定なし）	Ruxolitinib（変異規定なし）	
+	JAK2		MLN-e with PCM1-JAK2	1	機能獲得（融合：PCM1/JAK2）	t(8;9)(p22;p24) 		A	WHO2017	D	PMID: 22875628					Ruxolitinib（変異規定なし）, Fedratinib（変異規定なし）	Ruxolitinib（変異規定なし）	
+	JAK2		PMBL	1	機能獲得（増幅）	amp(9p24)		A	WHO2017, NCCN2019	C	NCT01965119					Ruxolitinib（変異規定なし）, Fedratinib（変異規定なし）	Ruxolitinib（変異規定なし）	
+	KAT6A		AML with MRC	1	機能獲得（融合：KAT6A/CREBBP）	t(8;16)(p11;p13)		A	WHO2017, ELN2017									
+	KMT2A		AML with MRC	1	機能獲得（融合：KMT2A/CREBBPなど）	t(11;16)(q23.3;p13.3), t(2;11)(p21;q23.3)		A	WHO2017									
+	KMT2A	MLL	AML with t(9;11)(p21.3;q23.3); MLLT3-KMT2A	1	機能獲得（融合：KMT2A/MLLT3, KMT2A/MLLT4, KMT2A/AFF1, など）	t(9;11)(p21;q23)など		A	WHO2017, ELN2017, NCCN2020	D	NCT02310243 (palbociclib), NCT03013998 (entospletinib), NCT04067336 (KO-539)	A	NCCN2020, ELN2017					
+	KMT2A	MLL	B-ALL/LBLL with t(v;11q23.3); KMT2A rearranged	1	機能獲得（融合：KMT2A/AFF1など）	t(4;11)(q21;q23), t(9;11)(p21;q23) , t(11;19)(q23;p13)など		A	WHO2017	D	NCT01684150, PMID: 21741596	A	NCCN2019, NCCN2020 (Pediatric ALL)					 
+	KMT2A	MLL	MPAL with t(v;11q23.3); KMT2A rearranged	1	機能獲得（融合）	t(v;11q23.3)		A	WHO2017									
+	KMT2A	MLL	T-ALL	1	機能獲得（融合：KMT2A/MLLT1など）	t(11;19)(q23;p13)など		A	WHO2017									
+	LCK		T-ALL	1	機能獲得（再構成：TRB/LCKなど）	t(1;7)(p34;q34)など		A	WHO2017									
+	LMO1	RBTN1	T-ALL	1	機能獲得（再構成：TRD/LMO1など）	t(11;14)(p15;q11)など		A	WHO2017									
+	LMO2	RBTN2	T-ALL	1	機能獲得（再構成：TRD/LMO2など）	t(11;14)(p13;q11)など		A	WHO2017									
+	LSM14A		B-ALL/LBLL BCR-ABL1-like	1	機能獲得（融合： LSM14A-ABL1）	t(9;19)(q34;q13) 		A	WHO2017, PMID: 25207766, 30181314, 31935290	C	NCT01406756, NCT02883049, NCT03117751, PMID: 31434701	A	NCCN2020 (Pediatric ALL)			Dasatinib		
+	LYL1		T-ALL	1	機能獲得（再構成：TRB/LYL1など）	t(7;19)(q34;p13)など		A	WHO2017									
+	MAF	C-MAF	MM	1	機能獲得（再構成：IGH/MAF、増幅）	t(14;16)(q32;q23), amp(16q23)		A	WHO2017, NCCN2017,  PMID: 29884471, 27002115, 28584253			A	WHO2017, NCCN2017,  PMID: 27002115, 28584253					
+	MAFA		MM	1	機能獲得（再構成：IGH/MAFA）	t(8;14)(q24;q32)		A	WHO2017									
+	MAFB		MM	1	機能獲得（再構成：IGH/MAFB）	t(14;20)(q32;q12) 		A	WHO2017, PMID: 27002115			A	WHO2017, PMID: 27002115					
+	MALT1		MALT	1	機能獲得（融合：BIRC3/MALT1、再構成：IGH/MALT1）	t(11;18)(q21;q21), t(14;18)(q32;q21)		A	WHO2017									t(11;18)転座により、H.pyroli 除菌に対する耐性を獲得する可能性がある。
+	MALT1		PCNSL	1	機能獲得（増幅）	amp(18q21)		A	WHO2017									
+	MAP3K14	NIK	MM	1	機能獲得（再構成：IGH/MAP3K14、増幅） 	t(14;17)(q32;q21)		A	WHO2017, PMID: 17692805, 17692804									
+	MECOM	EVI1	AML with inv(3)(q21.3q26.2) or t(3;3)(q21.3;q26.2); GATA2, MECOM	1	機能獲得（再構成）	inv(3)(q21.3q26.2) , t(3;3)(q21.3;q26.2)		A	WHO2017, ELN2017			A	WHO2017, ELN2017					
+	MECOM	EVI1	AML with MRC	1	機能獲得（融合：RUNX1/MECOM）	t(3;21)(q26;q22)		A	WHO2017			A	NCCN2020					
+	MECOM	EVI1	CML, BCR-ABL1+	2	機能獲得（融合：RUNX1/MECOM）	t(3;21)(q26;q22)						C	PMID: 20682391					
+	miR-15a		CLL/SLL	1	機能喪失	del(13q14)		A	WHO2017			A	WHO2017					
+	miR16-1		CLL/SLL	1	機能喪失	del(13q14)		A	WHO2017			A	WHO2017					
+	MKL1		AML (megakaryoblastic) with t(1;22)(p13.3;q13.3); RBM15-MKL1	1	機能獲得（融合：RBM15/MKL1）	t(1;22)(p13;q13)		A	WHO2017, ELN2017									
+	MLF1		AML with MRC	1	機能獲得（融合：NPM1/MLF1）	t(3;5)(q25.3;q35.1)		A	WHO2017, ELN2017									
+	MLLT1	ENL	B-ALL/LBLL with t(v;11q23.3); KMT2A rearranged	1	機能獲得（融合：KMT2A/MLLT1）	t(11;19)(q23;p13)		A	WHO2017			A	NCCN2019					 
+	MLLT1	ENL	T-ALL	1	機能獲得（融合：KMT2A/MLLT1）	t(11;19)(q23;p13)		A	WHO2017									
+	MLLT10	AF10	AML	1	機能獲得（融合：PICALM/MLLT10, KMT2A/MLLT10）	t(10;11)(p13;q21), t(10;11)(p12;q23)		A	ELN2017, PMID: 23634996			A	WHO2017					
+	MLLT10	AF10	T-ALL	1	機能獲得（融合：PICALM/MLLT10）	t(10;11)(p13;q14)		A	WHO2017									
+	MLLT11	AF11	AML	1	機能獲得（融合：KMT2A/MLLT11）	t(1;11)(q21;q23)		A	WHO2017			A	WHO2017					
+	MLLT3	AF9	AML with t(9;11)(p21.3;q23.3); MLLT3-KMT2A	1	機能獲得（融合：MLLT3/KMT2A）	t(9;11)(p21;q23) 		A	WHO2017									
+	MLLT3	AF9	B-ALL/LBLL with t(v;11q23.3); KMT2A rearranged	1	機能獲得（融合：MLLT3/KMT2A）	t(9;11)(p21;q23) 		A	WHO2017			A	NCCN2019					
+	MLLT4	AF6, AFDN	AML	1	機能獲得（融合：KMT2A/MLLT4）	t(6;11)(q27;q23)		A	WHO2017			A	WHO2017					
+	MNX1		AML	1	機能獲得（融合：MNX1/ETV6）	t(7;12)(q36;p13)		A	WHO2017			A	WHO2017					
+	MTCP1		T-PLL	1	機能獲得（融合：TRA/MTCP1）	t(X;14)(q28;q11.2)		A	WHO2017, NCCN TCL v2 2017									
+	MYC		ALCL (ALK+)	1	機能獲得（再構成：IGH/MYCなど）	t(8;14)(q24;q32)など						A	WHO2017					
+	MYC		BL	1	機能獲得（再構成：IGH/MYCなど）	t(8;14)(q24;q32)など		A	WHO2017, NCCN2019									
+	MYC		CLL/SLL	1	機能獲得（増幅、再構成：IGH/MYCなど）	amp(8q24), t(8;14)(q24;q32)など		A	WHO2017			A	WHO2017					
+	MYC		DLBCL	1	機能獲得（増幅、再構成：IGH/MYCなど）	amp(8q24), t(8;14)(q24;q32)など		A	WHO2017, NCCN2019			A	WHO2017					
+	MYC		FL	1	機能獲得（増幅、再構成：IGH/MYCなど）	amp(8q24), t(8;14)(q24;q32)など		A	WHO2017			A	WHO2017					
+	MYC		HGBL 	1	機能獲得（増幅、再構成：IGH/MYCなど）	amp(8q24), t(8;14)(q24;q32)など		A	WHO2017									
+	MYC		M-PTLD	1	機能獲得（再構成：IGH/MYC）	t(8;14)(q24;q32)など		A	WHO2017, NCCN2019									
+	MYC		MCL	1	機能獲得（増幅、再構成：IGH/MYCなど）	amp(8q24), t(8;14)(q24;q32)など		A	WHO2017			A	WHO2017					
+	MYC		MEITL	1	機能獲得（増幅）	amp(8q24)		A	WHO2017									
+	MYC		MM	1	機能獲得（再構成：IGH/MYC, 増幅）	t(8;14)(q24;q32)など, amp(8q24)		A	WHO2017, PMID: 29884741, 28584253			C	PMID: 26282654, 24632883					
+	MYC		PBL	1	機能獲得（再構成：IGH/MYCなど）	t(8;14)(q24;q32)など		A	WHO2017									
+	MYC		PCNSL	1	機能獲得（再構成：IGH/MYCなど）、機能不明（変異）	t(8;14)(q24;q32)など		A	WHO2017									
+	MYC		T-ALL	1	機能獲得（再構成：TRA/MYCなど）	t(8;14)(q24;q11)など		A	WHO2017									
+	MYC		T-PLL	1	機能獲得（増幅）	amp(8q24)		A	WHO2017									
+	MYH11		AML with t(16;16)(p13.1;q22); CBFB-MYH11	1	機能獲得（融合：CBFB/MYH11）	inv(16)(p13.1q22)		A	WHO2017			A	NCCN2020, ELN2017					
+	NDE1		AML with MRC	1	機能獲得（融合：NDE1/PDGFRB）	t(5;16)(q32;p13)		A	WHO2017									
+	NPM1		ALCL (ALK+)	1	機能獲得（融合：NPM1/ALK）	t(2;5)(p23;q35)		A	WHO2017									
+	NPM1		AML with MRC	1	機能獲得（融合：NPM1/MLF1）	t(3;5)(q25.3;q35.1)		A	WHO2017, ELN2017									
+	NPM1		APL	1	機能獲得（融合：NPM1/RARA）	t(5;17)(q35;q21)		A	WHO2017									
+	NPM1		C-ALCL	1	機能獲得（融合：NPM1/TYK2）	t(5;19)(q35;p13)  		A	WHO2017									
+	NPM1		LBCL (ALK+)	1	機能獲得（融合：NPM1/ALK）	t(2;5)(p23;q35)		A	WHO2017									
+	NSD1		AML	1	機能獲得（融合：NUP98/NSD1）	t(5;11)(q35;p15.5)		A	WHO2017			C	PMID: 21813447, 29227476					
+	NSD2	WHSC1, MMSET	MM	1	機能獲得（再構成：IGH/NSD2）　	t(4;14)(p16.3;q32.3)		A	WHO2017, NCCN2017, PMID: 27002115, 28584253, 21430775			A	WHO2017, NCCN2017, PMID: 27002115, 28584253					FGFR3 はNSD2に隣接する（セントロメア側約 60 kb ～に位置）。
+	NTRK3	TrkC	AML	2	機能獲得（融合：ETV6/NTRK3）	t(12;15)(p13;q25)		D	PMID: 9949179, 10775267, 21401966, 31551508	C							Entrectinib, Larotrectinib (融合遺伝子)	
+	NTRK3	TrkC	B-ALL/LBLL BCR-ABL1-like	1	機能獲得（融合：ETV6/NTRK3）	t(12;15)(p13;q25)		A	NCCN2020 (Pediatric ALL), PMID: 29997224, 25207766, 30181314, 31935290	C	PMID: 29880614	A	NCCN2020 (Pediatric ALL)				Entrectinib, Larotrectinib (融合遺伝子)	
+	NUMA1		B-ALL/LBLL BCR-ABL1-like	1	機能獲得（融合：NUMA1/PDGFRB）	t(5;11)(q33;q13)		A	WHO2017, PMID: 25207766, 30181314, 31935290	C	NCT01406756, NCT02883049, NCT03117751, PMID: 23835704, 31434701	A	WHO2017, NCCN2020 (Pediatric ALL)			Imatinib, Sunitinib（変異規定なし）	Regorafenib, Sunitinib（変異規定なし）	
+	NUP214		AML with t(6;9)(p23;q34.1); DEK-NUP214	1	機能獲得（融合：DEK/NUP214）	t(6;9)(p22;q34)		A	WHO2017, ELN2017			A	WHO2017, ELN2017					
+	NUP214		B-ALL/LBLL BCR-ABL1-like	1	機能獲得（融合：NUP214/ABL1）	ABL1: 9q34.12,  NUP214: 9q34.13		A	WHO2017, PMID: 30181314, 31935290, 31434701	C	NCT01406756, NCT02883049, NCT03117751, PMID: 31434701	A	NCCN2020 (Pediatric ALL)					
+	NUP98		AML	1	機能獲得（融合：NUP98/NSD1, NUP98/KDM5Aなど）	t(5;11)(q35;p15.5), t(11;12)(p15;p13) など		A	WHO2017			C	PMID: 21813447, 29227476					
+	P2RY8		B-ALL/LBLL BCR-ABL1-like	1	機能獲得（融合：P2RY8/CRLF2）	t(X)(p22p22)		A	WHO2017, PMID: 25207766, 30181314, 31935290	C	NCT02723994, NCT03117751, NCT03571321; PMID: 22904298, 22955920	A	WHO2017, PMID: 20378752, 20139093					PAR1の欠失を伴う。
+	PAX5		B-ALL/LBLL BCR-ABL1-like	1	機能獲得（融合：PAX5/JAK2）	t(9;9)(p13;p24)		A	WHO2017, PMID: 25207766, 30181314, 31935290	C	NCT02723994, NCT03117751, NCT03571321, PMID: 22875628, 22899477	A	NCCN2020 (Pediatric ALL)					
+	PAX5		WM/LPL	1	機能獲得（再構成：IGH/PAX5）	t(9;14)(p13;q32)		A	WHO2017									
+	PBX1		B-ALL/LBLL with t(1;19)(q23;p13.3); TCF3-PBX1	1	機能獲得（融合：TCF3/PBX1）	t(1;19)(q23;p13.3)		A	WHO2017									
+	PCM1		MLN-e with PCM1-JAK2	1	機能獲得（融合：PCM1/JAK2）	t(8;9)(p22;p24) 		A	WHO2017	D	PMID: 22875628							
+	PDCD1LG2	PD-L2	CHL	1	機能獲得（増幅）	amp(9p24)		A	WHO2017, PMID: 27069084, 29222272			D	PMID: 27069084					
+	PDCD1LG2	PD-L2	DLBCL	1	機能獲得（増幅、再構成）	amp(9p24)		A	WHO2017, PMID: 27268263									
+	PDCD1LG2	PD-L2	PMBL	1	機能獲得（増幅、再構成）	amp(9p24)		A	WHO2017, PMID: 24497532, 31292115 									
+	PDGFRA		MLN-e with PDGFRA rearrangement	1	機能獲得（融合：FIP1LI/PDGFRA）	del(4)(q12q12)		A	WHO2017, PMID: 12660384	A	NCCN, JSH-GL, ELN			Imatinib	Imatinib	Sunitinib（変異規定なし）	Sunitinib（変異規定なし）	
+	PDGFRB		AML with MRC	1	機能獲得（融合：NDE1/PDGFRB）	t(5;17)(q32;p13.2)		A	WHO2017						Imatinib	Sunitinib（変異規定なし）	Regorafenib, Sunitinib（変異規定なし）	
+	PDGFRB		B-ALL/LBLL BCR-ABL1-like	1	機能獲得（融合：EBF1/PDGFRB, ETV6/PDGFRB, ATF7IP/PDGFRB, NUMA1/PDGFRB, など）	del(5)(q32q33) t(5;12)(q33;p13) t(5;12)(q33;p13),   t(5;11) (q33;q13)		A	WHO2017, PMID: 25207766, 30181314, 31935290	C	NCT01406756, NCT02883049, NCT03117751, PMID: 23835704, 31434701	A	WHO2017, NCCN2020 (Pediatric ALL)			Imatinib, Sunitinib（変異規定なし）	Regorafenib, Sunitinib（変異規定なし）	
+	PDGFRB		MLN-e with PDGFRB rearrangement	1	機能獲得（融合：ETV6/PDGFRB）	t(5;12)(q32;p13.2)		A	WHO2017	D	PMID: 12181402, 24687085				Imatinib	Sunitinib（変異規定なし）	Regorafenib, Sunitinib（変異規定なし）	
+	PICALM	CALM	AML	1	機能獲得（融合：PICALM/MLLT10）	t(10;11)(p13;q21)		A	ELN2017, PMID: 23634996									
+	PICALM	CALM	T-ALL	1	機能獲得（融合：PICALM/MLLT10）	t(10;11)(p13;q14)		A	WHO2017									
+	PML		APL with PML-RARA	1	機能獲得（融合：PML/RARA）	t(15;17)(q24;q21)		A	WHO2017, ELN2017, NCCN2020	A	日本血液学会診療ガイドライン、NCCN2020	A	NCCN2020, PMID: 27276561	ATRA, Trisenoox (ATO)				
+	PRDM1	BLIMP1	ALCL (ALK-)	1	機能喪失	del(6q21)		A	WHO2017			A	WHO2017					
+	PRDM1	BLIMP1	DLBCL	1	機能喪失	del(6q21)		A	WHO2017									
+	PRDM1	BLIMP1	ENKTL	1	機能喪失	del(6q21)		A	WHO2017									
+	PRDM1	BLIMP1	PCNSL	1	機能喪失	del(6q21)		A	WHO2017									
+	PRDM16		AML with MRC	1	機能獲得（再構成：RPN1/PRDM16）	t(1;3)(p36.3;q21.2)		A	WHO2017									
+	PTEN		Duodenal-type FL (DFL)	1	機能喪失	del(10q23)		A	WHO2017									コピー数異常をきたす領域に存在するが、当該遺伝子の欠失と病的意義との直接的な関連は明らかでない。
+	PTEN		FL	1	機能喪失	del(10q23)		A	WHO2017									当該疾患以外の疾患の発症と関連した生殖細胞系列の病的バリアントである可能性がある。
+	PTEN		Mycosis fungoides	1	機能喪失	del(10q23)		A	WHO2017									当該疾患以外の疾患の発症と関連した生殖細胞系列の病的バリアントである可能性がある。
+	PVT1		MM	2	機能獲得（再構成：IGH/PVT1, WWOX/PVT1, NBEA/ PVT1など）	t(8;14)(q24;q32) など		D	PMID: 22869583									PVT-1はnon coding RNAでMYC遺伝子に隣接し、互いの発現を安定化させることも報告されている。
+	RANBP2		B-ALL/LBLL BCR-ABL1-like	1	機能獲得（融合： RANBP2/ABL1）	 t(2;9)(q12;q34)		A	WHO2017, PMID: 25207766, 30181314, 31935290	C	NCT01406756, NCT02883049, NCT03117751, PMID: 31434701	A	NCCN2020 (Pediatric ALL)			Dasatinib		
+	RARA		APL with PML-RARA	1	機能獲得（融合：PML/RARA）	t(15;17)(q24;q21)		A	WHO2017, ELN2017, NCCN2020	A	日本血液学会診療ガイドライン、NCCN2020	A	NCCN2020, PMID: 27276561	ATRA, Trisenoox (ATO)				RARAのligand binding domain の変異により、ATRAに対する耐性を獲得する可能性がある。ZBTB16-RARAやSTAT5B-RARAなどvariant RARA translocationも報告されている。
+	RB1		MM	1	機能喪失	del(13q)		A	WHO2017, PMID: 21430775, 24434212, 26282654, 20616218									当該疾患以外の疾患の発症と関連した生殖細胞系列の病的バリアントである可能性がある。
+	RBM15		AML (megakaryoblastic) with t(1;22)(p13.3;q13.3); RBM15-MKL1	1	機能獲得（融合：RBM15/MKL1）	t(1;22)(p13;q13)		A	WHO2017									
+	RCSD1		B-ALL/LBLL BCR-ABL1-like	1	機能獲得（融合：RCSD1/ABL1, RCSD1/ABL2）	t(1;9)(q24;q34) t(1;1)(q24;q25)		A	WHO2017, PMID: 30181314, 31935290, 31434701	C	NCT01406756, NCT02883049, NCT03117751, PMID: 31434701	A	NCCN2020 (Pediatric ALL)					
+	REL		CHL	1	機能獲得（増幅）	amp(2p16)		A	WHO2017									
+	REL		DLBCL	1	機能獲得（増幅）	amp(2p16)		A	WHO2017									
+	REL		PMBL	1	機能獲得（増幅）	amp(2p16)		A	WHO2017, NCCN2019									
+	RPN1		AML with MRC	1	機能獲得（再構成：RPN1/PRDM16）	t(1;3)(p36.3;q21.2)		A	WHO2017									
+	RUNX1	AML1	AML with MRC	1	機能獲得（融合：RUNX1/MECOMなど）	t(3;21)(q26;q22)など		A	WHO2017, ELN2017, NCCN2020			A	NCCN2020, ELN2017					
+	RUNX1	AML1	AML with t(8;21)(q22;q22.1); RUNX1-RUNX1T1	1	機能獲得（融合：RUNX1/RUNX1T1）	t(8;21)(q22;q22)		A	WHO2017, ELN2017, NCCN2020			A	NCCN2020, ELN2017					
+	RUNX1	AML1	B-ALL/LBLL with iAMP21	1	機能獲得（増幅）	iAMP21		A	WHO2017			A	NCCN2019					
+	RUNX1	AML1	B-ALL/LBLL with t(12;21)(p13.2;q22.1); ETV6-RUNX1	1	機能獲得（融合：ETV6/RUNX1）	t(12;21)(p13;q22)		A	WHO2017			A	NCCN2019					
+	RUNX1T1	ETO, MTG8	AML with t(8;21)(q22;q22.1); RUNX1-RUNX1T1	1	機能獲得（融合：RUNX1/RUNX1T1）	t(8;21)(q22;q22)		A	WHO2017, ELN2017, NCCN2020			A	NCCN2020, ELN2017					
+	SPI1	PU.1	T-ALL	2	機能獲得（融合：TCF7/SPI1, STMN1/SPI1など）	t(5;11)(q31;p11), t(1;11)(p36;p11)など						C	PMID: 28671687, 28671688					
+	SSBP2		B-ALL/LBLL BCR-ABL1-like	1	機能獲得（融合：SSBP2/CSF1R）	t(5;5)(q14;q32) or dup(5)(q14q32)		A	WHO2017, PMID: 25207766, 30181314, 31935290	C	NCT01406756, NCT02883049, NCT03117751, PMID: 31434701							
+	STIL		T-ALL	1	機能獲得（再構成：TAL1/STILなど）	t(1;14)(p32;q11)など		A	WHO2017									
+	STMN1		T-ALL	2	機能獲得（融合：STMN1/SPI1）	t(1;11)(p36;p11)						C	PMID: 28671687, 28671688					
+	SYK		AITL	1	機能獲得（融合：ITK/SYK）	t(5;9)(q33;q22)		A	WHO2017									
+	SYK		FTCL	1	機能獲得（融合：ITK/SYK）	t(5;9)(q33;q22)		A	WHO2017									
+	TAL1		T-ALL	1	機能獲得（再構成：TAL1/STILなど）	t(1;14)(p32;q11)など		A	WHO2017									
+	TCF3	E2A	B-ALL/LBLL	1	機能獲得（融合：TCF3/HLF）	t(17;19)(q22;p13)		A	WHO2017			A	NCCN2019, NCCN2020 (Pediatric ALL), WHO2017, PMID: 8608207					
+	TCF3	E2A	B-ALL/LBLL with t(1;19)(q23;p13.3); TCF3-PBX1	1	機能獲得（融合：TCF3/PBX1）	t(1;19)(q23;p13.3)		A	WHO2017									 
+	TCF7		T-ALL	2	機能獲得（融合：TCF7/SPI1）	t(5;11)(q31;p11)						C	PMID: 28671687					
+	TCL1A		T-PLL	1	機能獲得（融合：TRA/TCL1A）	inv(14)(q11;q32), t(14;14)(q11;q32)		A	WHO2017, NCCN2019									
+	TCL1B		T-PLL	1	機能獲得（融合：TRA/TCL1B）	inv(14)(q11;q32), t(14;14)(q11;q32)		A	WHO2017, NCCN2019									
+	TLX1	HOX11	T-ALL	1	機能獲得（再構成：TLX1/TRDなど）	t(10;14)(q24;q11)など		A	WHO2017			A	WHO2017					
+	TLX3	HOX11L2	T-ALL	1	機能獲得（再構成：BCL11B/TLX3 など）	t(5;14)(q35;q32)など		A	WHO2017									
+	TNFAIP3	A20	CHL	2	機能喪失	del(6q23)		D	PMID: 28297626									
+	TNFAIP3	A20	DLBCL	1	機能喪失	del(6q23)		A	WHO2017, PMID: 19412163	D	PMID: 26193343							TNFAIP3の変異により、BTK阻害剤 (Ibrutinib) に対する耐性を獲得する可能性がある。
+	TNFAIP3	A20	FL	1	機能喪失	del(6q23)		A	WHO2017, PMID: 19412163									
+	TNFAIP3	A20	MALT	1	機能喪失	del(6q23)		A	WHO2017, PMID: 19412163									
+	TNFAIP3	A20	MCL	1	機能喪失	del(6q23)		A	WHO2017									
+	TNFAIP3	A20	PMBL	1	機能喪失	del(6q23)		A	WHO2017									
+	TNFRSF14	HVEM	DLBCL	1	機能喪失	del(1p36)		A	WHO2017									
+	TNFRSF14	HVEM	FL	1	機能喪失	del(1p36)		A	WHO2017									
+	TNFRSF14	HVEM	PTFL	1	機能喪失	del(1p36)		A	WHO2017, NCCN2019									
+	TP53		ALCL (ALK-)	1	機能喪失、機能獲得（変異）	del(17p13)		A	WHO2017			A	WHO2017					
+	TP53		BL	1	機能喪失、機能獲得（変異）	del(17p13)		A	WHO2017									
+	TP53		CLL/SLL	1	機能喪失、機能獲得（変異）	del(17p13)		A	WHO2017	A	NCCN2022, NCT03836261	A	WHO2017, NCCN2019					
+	TP53		DLBCL	1	機能喪失、機能獲得（変異）	del(17p13)		A	WHO2017			A	WHO2017					
+	TP53		EATL	1	機能喪失、機能獲得（変異）	del(17p13)		A	WHO2017									
+	TP53		ENKTL	1	機能喪失、機能獲得（変異）	del(17p13)		A	WHO2017									
+	TP53		FL	1	機能喪失、機能獲得（変異）	del(17p13)		A	WHO2017			A	WHO2017					
+	TP53		HCL-v	1	機能喪失、機能獲得（変異）	del(17p13)		A	WHO2017			A	WHO2017					
+	TP53		HGBL 	1	機能喪失、機能獲得（変異）	del(17p13)		A	WHO2017									
+	TP53		LBCL with IRF4-r	1	機能喪失、機能獲得（変異）	del(17p13)		A	WHO2017									
+	TP53		MCL	1	機能喪失、機能獲得（変異）	del(17p13)		A	WHO2017			A 	PMID: 25210087 (ESMO), WHO 2017, NCCN2019					
+	TP53		MM	1	機能喪失、機能獲得（変異）	del(17p13)		A	WHO2017, PMID: 27002115, 24434212, 21430775, 20616218, 26282654, 24429703			C	PMID: 20616218, 26282654					
+	TP53		SMZL	1	機能喪失、機能獲得（変異）	del(17p13)						A	WHO2017					
+	TP53		SS	1	機能喪失、機能獲得（変異）	del(17p13)		A	WHO2017									
+	TP53		T-PLL	1	機能喪失、機能獲得（変異）	del(17p13)		A	WHO2017									
+	TP53		WM/LPL	1	機能喪失、機能獲得（変異）	del(17p13)		A	WHO2017									
+	TP63		ALCL (ALK-)	1	機能獲得（再構成：TBL1XR1/TP63など）	inv(3)(q26;q28)など		A	WHO2017, PMID: 24894770, NCCN2019			A	WHO2017, PMID: 24894770					
+	TRA		T-ALL	1	機能獲得（再構成：TRA/MYCなど）	t(8;14)(q24;q11)など		A	WHO2017									
+	TRA		T-PLL	1	機能獲得（融合：TRA/TCL1A, TRA/TCL1B, TRA/MTCP1など）	inv(14)(q11;q32), t(14;14)(q11;q32), t(X;14)(q28;q11.2)など		A	WHO2017									
+	TRAF3		MM	2	機能喪失	del(14q)		C	PMID: 24434212, 17692805, 17692804, 26282654									
+	TRB		T-ALL	1	機能獲得（再構成：TRB/LCK, TRB/LYL1など）	t(1;7)(p34;q34), t(7;19)(q34;p13)など		A	WHO2017									
+	TRD		T-ALL	1	機能獲得（再構成：TRD/LMO1, TRD/LMO2, TLX1/TRDなど）	t(11;14)(p15;q11), t(11;14)(p13;q11), t(10;14)(q24;q11)など		A	WHO2017									
+	TYK2		C-ALCL	1	機能獲得（融合：NPM1/TYK2、再構成）	t(5;19)(q35;p13)  		A	WHO2017									
+	WWOX		MM	1	機能喪失	del(16q)		A	PMID: 27002115, 20616218, 17609426			D	PMID: 17609426					WWOXはMAFの上流（1Mb セントロメア側）に位置し、IgH/MAF転座時のブレークポイントになりうる。その際は、MAF の発現上昇とともに WWOX の失活がもたらされる。
+	ZBTB16	PLZF	APL	1	機能獲得（融合：ZBTB16/RARA）	t(11;17)(q23;q21)		A	WHO2017									
+	ZMIZ1		B-ALL/LBLL BCR-ABL1-like	1	機能獲得（融合：ABL1/ZMIZ1）	t(9;10)(q34;q22) 		A	WHO2017, PMID: 25207766, 30181314, 31935290			A	NCCN2020 (Pediatric ALL)					
+	ZNF384		B-ALL/LBLL	2	機能獲得（融合：EP300/ZNF384など）	t(12;22)(p13;q13)など		C	PMID: 27634205									
+	ZNF384		MPAL, B/myeloid, NOS	2	機能獲得（融合：TCF3/ZNF384, EP300/ZNF384など）	t(12;19)(p13;p13), t(12;22)(p13;q13)など		D	PMID: 30209392									
+	FLT3	AML	D835､N676K	機能獲得（変異：ITD,TKD）	NCCN2020,ELN2017	Gilteritinib,Quizartinib(ITDのみ）	Midostaurin,Gilteritinib		Midostaurin,Sorafenib,Gilteritinib	

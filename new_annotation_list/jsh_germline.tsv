@@ -1,0 +1,21 @@
+jsh_germline	Gene.refGene	別名	disposition	強度	機能	備考	参考文献
+1	TP53		Germline predisposition for myeloid neoplasms: Li-Fraumeni syndrome	1	機能喪失、機能獲得（変異：R175H, G245S, R248Q, R248W, R273Hなど）		
+1	SRP72		Germline predisposition for myeloid neoplasms	1	機能喪失		
+1	SAMD9L		Germline predisposition for myeloid neoplasms	1	機能喪失		
+1	SAMD9		Germline predisposition for myeloid neoplasms	1	機能喪失		
+1	RUNX1	AML1	Myeloid neoplasms with germ line RUNX1 mutation	1	機能喪失		
+1	PMS2		Germline predisposition for myeloid neoplasms: mismatch repair deficiency	1	機能喪失		
+1	PDS5B		Germline predisposition for myeloid neoplasms	2	機能喪失		
+1	MSH6		Germline predisposition for myeloid neoplasms: mismatch repair deficiency	1	機能喪失		
+1	MSH2		Germline predisposition for myeloid neoplasms: mismatch repair deficiency	1	機能喪失		
+1	MLH1		Germline predisposition for myeloid neoplasms: mismatch repair deficiency	1	機能喪失		
+1	JAK2		Germline predisposition for myeloid neoplasms	2	機能獲得（変異：R564Q）		
+1	GATA2		Myeloid neoplasms with germline GATA2 mutation	1	機能喪失		
+1	ETV6	TEL	Myeloid neoplasms with germline ETV6 mutation	1	機能喪失		
+1	EPCAM		Germline predisposition for myeloid neoplasms: mismatch repair deficiency	1	機能喪失		
+1	DDX41		Myeloid neoplasms  with germline DDX41 mutation	1	機能喪失（変異：D140Gfs, M1I, A500Cfs, 対側アリルにおけるR525Hなど）		
+1	CEBPA		AML with germline CEBPA mutation	1	機能喪失		
+1	BRCA2	FANCD1	Germline predisposition for myeloid neoplasms	1	機能喪失		
+1	BRCA1	FANCS	Germline predisposition for myeloid neoplasms	1	機能喪失		
+1	BLM		Germline predisposition for myeloid neoplasms: Bloom syndrome	1	機能喪失		
+1	ANKRD26		Myeloid neoplasms with germline ANKRD26 mutation	1	機能獲得		
