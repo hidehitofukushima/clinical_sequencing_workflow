@@ -19,3 +19,6 @@ todo
 ・変異の数や、大事なものを集計したエクセルファイルをpptxに載せられる様に機能を追加
 ・QCのPDFファイルが、pptxに乗る様に機能を追加
 ・病歴や情報がpptxに脳用に機能を追加
+
+シェルスクリプトでconfigを読み込む参考
+https://qiita.com/aki_number16/items/155d0dff85917b9a829b
