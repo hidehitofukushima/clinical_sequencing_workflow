@@ -1,6 +1,21 @@
+master command
+
 export R_LIBS="/Library/Frameworks/R.framework/Versions/4.4-arm64/Resources/library/clinical_sequencing_workflow" && export LD_LIBRARY_PATH=/opt/X11/lib && python3 master.py
 
 
 # igvをスポットで使用するとき。
 export JAVA_HOME="/Library/Java/JavaVirtualMachines/jdk-11.jdk/Contents/Home"
 /Users/fukushimahideto/tools/IGV_2.17.2/igv.sh
+
+
+todo 
+・すべてのパスをプロジェクト相対パスに変更する
+・より良い設計とは？？
+・configファイルからの読み込みとmaster.pyをすべてシェルスクリプトに変更する
+例: source conf.txt && master.sh
+・変異の数を
+
+・pptxのマスターをちゃんと整備して、自動で解説スライドが出てくる様に変更する
+・変異の数や、大事なものを集計したエクセルファイルをpptxに載せられる様に機能を追加
+・QCのPDFファイルが、pptxに乗る様に機能を追加
+・病歴や情報がpptxに脳用に機能を追加
