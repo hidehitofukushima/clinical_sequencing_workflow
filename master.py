@@ -51,9 +51,11 @@ input_sv_other = f"{data_path_trunk}/{trial_num}/sv/{primary_id}_vs_{panel_id}/{
 # input_cnv = f"/Users/fukushimahideto/Desktop/{primary_id}_vs_{control_id}/{primary_id}_vs_{control_id}.out.fit.csv"
 input_cnv = f"{data_path_trunk}/{trial_num}/facets/{primary_id}_vs_{control_id}/{primary_id}_vs_{control_id}.out.fit.tsv"
 input_bam_tumor = f"{data_path_trunk}/{trial_num}/bam/{primary_id}_vs_{control_id}/{primary_id}_vs_{control_id}.markdup.bam"
-input_bam_normal = (
-    f"{data_path_trunk}/{trial_num}/bam/{control_id}/{control_id}.markdup.bam"
-)
+input_bam_normal = f"{data_path_trunk}/{trial_num}/bam/{control_id}/{control_id}.markdup.bam"
+
+
+qc_pdf_file = f"{data_path_trunk}/{trial_num}/summary/{primary_id}_vs_{control_id}.pdf"
+facet_image_file = f"{data_path_trunk}/{trial_num}/facets/{primary_id}_vs_{control_id}/{primary_id}_vs_{control_id}.out.png"
 
 output_dir_snv = f"{output_trunk}/snv"
 output_dir_snv_multifilter = f"{output_trunk}/snv_multifilter"
@@ -67,6 +69,8 @@ output_snv_file3 = f"{output_dir_snv}/snv_output2.csv"
 output_snv_filemyc = f"{output_dir_snv}/snv_output_myc.csv"
 output_sv_file = f"{output_dir_sv}/sv_output.tsv"
 output_cnv_file = f"{output_dir_cnv}/cnv_output.tsv"
+
+ 
 
 refflat_file = database_refflat
 jsh_file = database_cnv
@@ -188,18 +192,23 @@ if flag_igv_snv == 1:
     print("snapshot IGV_snv")
 
     # Set the JAVA_HOME environment variable
-    os.environ[
-        "JAVA_HOME"
-    ] = "/Library/Java/JavaVirtualMachines/jdk-11.jdk/Contents/Home"
+    # os.environ[
+    #     "JAVA_HOME"
+    # ] = "/Library/Java/JavaVirtualMachines/jdk-11.jdk/Contents/Home"
     target_file_cosmic = f"{output_dir_snv_multifilter}/snv_mf_cosmic.tsv"
     target_file_germline = f"{output_dir_snv_multifilter}/snv_mf_germline.tsv"
     target_file_trunc = f"{output_dir_snv_multifilter}/snv_mf_trunc.tsv"
     output_dir_igv_snv_cosmic = f"{output_dir_igv_snv}/cosmic"
     output_dir_igv_snv_germline = f"{output_dir_igv_snv}/germline"
     output_dir_igv_snv_trunc = f"{output_dir_igv_snv}/trunc"
-    os.mkdir(output_dir_igv_snv_cosmic)
-    os.mkdir(output_dir_igv_snv_germline)
-    os.mkdir(output_dir_igv_snv_trunc)
+    if not os.path.exists(output_dir_igv_snv):
+        os.mkdir(output_dir_igv_snv)
+    if not os.path.exists(output_dir_igv_snv_cosmic):
+        os.mkdir(output_dir_igv_snv_cosmic)
+    if not os.path.exists(output_dir_igv_snv_germline):
+        os.mkdir(output_dir_igv_snv_germline)
+    if not os.path.exists(output_dir_igv_snv_trunc):
+        os.mkdir(output_dir_igv_snv_trunc)
 
     snapshot_snv.snap(target_file_cosmic, input_bam_tumor,
                       input_bam_normal, output_dir_igv_snv_cosmic)
@@ -218,9 +227,9 @@ if flag_igv_sv == 1:
     print("------------------------------------------------")
 
     # Set the JAVA_HOME environment variable
-    os.environ[
-        "JAVA_HOME"
-    ] = "/Library/Java/JavaVirtualMachines/jdk-11.jdk/Contents/Home"
+    # os.environ[
+    #     "JAVA_HOME"
+    # ] = "/Library/Java/JavaVirtualMachines/jdk-11.jdk/Contents/Home"
 
     target_file = f"{output_dir_sv}/sv_output.tsv"
 
@@ -290,3 +299,14 @@ if flag_pptx == 1:
             "/Users/fukushimahideto/Desktop/clinical_sequencing_workflow/script/create_pptx.py",
         ]
     )
+
+
+
+# あとはフラグがなくてもかならず以下を実行するように
+
+
+# cp qc_pdf_file to output_trunk
+shutil.copy(qc_pdf_file, output_trunk)
+
+# cp facet_image_file to output_trunk
+shutil.copy(facet_image_file, output_trunk)

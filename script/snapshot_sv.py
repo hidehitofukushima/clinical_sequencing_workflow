@@ -68,7 +68,7 @@ with open(script_file, "w") as script_handle:
     script_handle.write(tmp)
 
 
-cmd = "/Users/fukushimahideto/tools/IGV_2.17.2/igv.sh -b " + script_file
+cmd = "/Users/fukushimahideto/Desktop/clinical_sequencing_workflow/IGV_2.18.2/igv.sh -b " + script_file
 print(cmd)
 sp = subprocess.Popen(
     cmd, shell=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)

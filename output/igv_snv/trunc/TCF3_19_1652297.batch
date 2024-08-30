@@ -1,0 +1,108 @@
+
+    new
+    genome hg19
+    snapshotDirectory /Users/fukushimahideto/Desktop/clinical_sequencing_workflow/output/igv_snv/trunc
+    load "/Volumes/HD-ADU3/PGDA_20240410_NovaSeq_240221_A01885_0025_BHJCCCDSX7_WGS/bam/B042-668-2022-AML-BM1_vs_B042-668-2023-AML-SW1/B042-668-2022-AML-BM1_vs_B042-668-2023-AML-SW1.markdup.bam"
+    load "/Volumes/HD-ADU3/PGDA_20240410_NovaSeq_240221_A01885_0025_BHJCCCDSX7_WGS/bam/B042-668-2023-AML-SW1/B042-668-2023-AML-SW1.markdup.bam"
+    maxPanelHeight 1000
+    viewaspairs
+    preference SAM.SHOW_SOFT_CLIPPED true
+    
+    goto chr5:170837544
+    group base_at_pos chr5:170837544
+    sort base 
+    collapse
+    snapshot collapse_NPM1_5_170837544.png
+    squish 
+    snapshot squish_NPM1_5_170837544.png
+    
+    goto chr6:31324143
+    group base_at_pos chr6:31324143
+    sort base 
+    collapse
+    snapshot collapse_HLA-B_6_31324143.png
+    squish 
+    snapshot squish_HLA-B_6_31324143.png
+    
+    goto chr6:32497905
+    group base_at_pos chr6:32497905
+    sort base 
+    collapse
+    snapshot collapse_HLA-DRB5_6_32497905.png
+    squish 
+    snapshot squish_HLA-DRB5_6_32497905.png
+    
+    goto chr6:32548522
+    group base_at_pos chr6:32548522
+    sort base 
+    collapse
+    snapshot collapse_HLA-DRB1_6_32548522.png
+    squish 
+    snapshot squish_HLA-DRB1_6_32548522.png
+    
+    goto chr6:32549346
+    group base_at_pos chr6:32549346
+    sort base 
+    collapse
+    snapshot collapse_HLA-DRB1_6_32549346.png
+    squish 
+    snapshot squish_HLA-DRB1_6_32549346.png
+    
+    goto chr6:32549613
+    group base_at_pos chr6:32549613
+    sort base 
+    collapse
+    snapshot collapse_HLA-DRB1_6_32549613.png
+    squish 
+    snapshot squish_HLA-DRB1_6_32549613.png
+    
+    goto chr6:32551885
+    group base_at_pos chr6:32551885
+    sort base 
+    collapse
+    snapshot collapse_HLA-DRB1_6_32551885.png
+    squish 
+    snapshot squish_HLA-DRB1_6_32551885.png
+    
+    goto chr6:32551935
+    group base_at_pos chr6:32551935
+    sort base 
+    collapse
+    snapshot collapse_HLA-DRB1_6_32551935.png
+    squish 
+    snapshot squish_HLA-DRB1_6_32551935.png
+    
+    goto chr6:32557418
+    group base_at_pos chr6:32557418
+    sort base 
+    collapse
+    snapshot collapse_HLA-DRB1_6_32557418.png
+    squish 
+    snapshot squish_HLA-DRB1_6_32557418.png
+    
+    goto chr6:32557497
+    group base_at_pos chr6:32557497
+    sort base 
+    collapse
+    snapshot collapse_HLA-DRB1_6_32557497.png
+    squish 
+    snapshot squish_HLA-DRB1_6_32557497.png
+    
+    goto chr6:32632638
+    group base_at_pos chr6:32632638
+    sort base 
+    collapse
+    snapshot collapse_HLA-DQB1_6_32632638.png
+    squish 
+    snapshot squish_HLA-DQB1_6_32632638.png
+    
+    goto chr19:1652297
+    group base_at_pos chr19:1652297
+    sort base 
+    collapse
+    snapshot collapse_TCF3_19_1652297.png
+    squish 
+    snapshot squish_TCF3_19_1652297.png
+    
+    exit
+    

@@ -1,0 +1,18 @@
+
+    new
+    snapshotDirectory /Users/fukushimahideto/Desktop/clinical_sequencing_workflow/output/igv_sv/igv_sv
+    genome hg19
+    load "/Volumes/HD-ADU3/PGDA_20240410_NovaSeq_240221_A01885_0025_BHJCCCDSX7_WGS/bam/B042-668-2022-AML-BM1_vs_B042-668-2023-AML-SW1/B042-668-2022-AML-BM1_vs_B042-668-2023-AML-SW1.markdup.bam"
+    load "/Volumes/HD-ADU3/PGDA_20240410_NovaSeq_240221_A01885_0025_BHJCCCDSX7_WGS/bam/B042-668-2023-AML-SW1/B042-668-2023-AML-SW1.markdup.bam"
+    maxPanelHeight 300
+    viewaspairs
+    preference SAM.SHOW_SOFT_CLIPPED true
+    goto chr16:78608831-78609031
+    group reference_concordance
+    sort base 
+    collapse
+    snapshot collapse_16_78608931.png
+    squish 
+    snapshot squish_16_78608931.png
+    exit
+    

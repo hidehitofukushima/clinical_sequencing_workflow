@@ -1,0 +1,268 @@
+
+    new
+    genome hg19
+    snapshotDirectory /Users/fukushimahideto/Desktop/clinical_sequencing_workflow/output/igv_snv/germline
+    load "/Volumes/HD-ADU3/PGDA_20240410_NovaSeq_240221_A01885_0025_BHJCCCDSX7_WGS/bam/B042-668-2022-AML-BM1_vs_B042-668-2023-AML-SW1/B042-668-2022-AML-BM1_vs_B042-668-2023-AML-SW1.markdup.bam"
+    load "/Volumes/HD-ADU3/PGDA_20240410_NovaSeq_240221_A01885_0025_BHJCCCDSX7_WGS/bam/B042-668-2023-AML-SW1/B042-668-2023-AML-SW1.markdup.bam"
+    maxPanelHeight 1000
+    viewaspairs
+    preference SAM.SHOW_SOFT_CLIPPED true
+    
+    goto chr1:55523798
+    group base_at_pos chr1:55523798
+    sort base 
+    collapse
+    snapshot collapse_PCSK9_1_55523798.png
+    squish 
+    snapshot squish_PCSK9_1_55523798.png
+    
+    goto chr2:21231387
+    group base_at_pos chr2:21231387
+    sort base 
+    collapse
+    snapshot collapse_APOB_2_21231387.png
+    squish 
+    snapshot squish_APOB_2_21231387.png
+    
+    goto chr2:21266775
+    group base_at_pos chr2:21266775
+    sort base 
+    collapse
+    snapshot collapse_APOB_2_21266775.png
+    squish 
+    snapshot squish_APOB_2_21266775.png
+    
+    goto chr2:21266783
+    group base_at_pos chr2:21266783
+    sort base 
+    collapse
+    snapshot collapse_APOB_2_21266783.png
+    squish 
+    snapshot squish_APOB_2_21266783.png
+    
+    goto chr2:47601106
+    group base_at_pos chr2:47601106
+    sort base 
+    collapse
+    snapshot collapse_EPCAM_2_47601106.png
+    squish 
+    snapshot squish_EPCAM_2_47601106.png
+    
+    goto chr2:179438575
+    group base_at_pos chr2:179438575
+    sort base 
+    collapse
+    snapshot collapse_TTN_2_179438575.png
+    squish 
+    snapshot squish_TTN_2_179438575.png
+    
+    goto chr2:179458351
+    group base_at_pos chr2:179458351
+    sort base 
+    collapse
+    snapshot collapse_TTN_2_179458351.png
+    squish 
+    snapshot squish_TTN_2_179458351.png
+    
+    goto chr2:179605005
+    group base_at_pos chr2:179605005
+    sort base 
+    collapse
+    snapshot collapse_TTN_2_179605005.png
+    squish 
+    snapshot squish_TTN_2_179605005.png
+    
+    goto chr3:14174427
+    group base_at_pos chr3:14174427
+    sort base 
+    collapse
+    snapshot collapse_TMEM43_3_14174427.png
+    squish 
+    snapshot squish_TMEM43_3_14174427.png
+    
+    goto chr6:7569480
+    group base_at_pos chr6:7569480
+    sort base 
+    collapse
+    snapshot collapse_DSP_6_7569480.png
+    squish 
+    snapshot squish_DSP_6_7569480.png
+    
+    goto chr6:26091179
+    group base_at_pos chr6:26091179
+    sort base 
+    collapse
+    snapshot collapse_HFE_6_26091179.png
+    squish 
+    snapshot squish_HFE_6_26091179.png
+    
+    goto chr6:123699019
+    group base_at_pos chr6:123699019
+    sort base 
+    collapse
+    snapshot collapse_TRDN_6_123699019.png
+    squish 
+    snapshot squish_TRDN_6_123699019.png
+    
+    goto chr7:6026942
+    group base_at_pos chr7:6026942
+    sort base 
+    collapse
+    snapshot collapse_PMS2_7_6026942.png
+    squish 
+    snapshot squish_PMS2_7_6026942.png
+    
+    goto chr7:151573612
+    group base_at_pos chr7:151573612
+    sort base 
+    collapse
+    snapshot collapse_PRKAG2_7_151573612.png
+    squish 
+    snapshot squish_PRKAG2_7_151573612.png
+    
+    goto chr10:27322303
+    group base_at_pos chr10:27322303
+    sort base 
+    collapse
+    snapshot collapse_ANKRD26_10_27322303.png
+    squish 
+    snapshot squish_ANKRD26_10_27322303.png
+    
+    goto chr10:27342286
+    group base_at_pos chr10:27342286
+    sort base 
+    collapse
+    snapshot collapse_ANKRD26_10_27342286.png
+    squish 
+    snapshot squish_ANKRD26_10_27342286.png
+    
+    goto chr10:27353007
+    group base_at_pos chr10:27353007
+    sort base 
+    collapse
+    snapshot collapse_ANKRD26_10_27353007.png
+    squish 
+    snapshot squish_ANKRD26_10_27353007.png
+    
+    goto chr13:48878061
+    group base_at_pos chr13:48878061
+    sort base 
+    collapse
+    snapshot collapse_RB1_13_48878061.png
+    squish 
+    snapshot squish_RB1_13_48878061.png
+    
+    goto chr15:48779530
+    group base_at_pos chr15:48779530
+    sort base 
+    collapse
+    snapshot collapse_FBN1_15_48779530.png
+    squish 
+    snapshot squish_FBN1_15_48779530.png
+    
+    goto chr15:63335966
+    group base_at_pos chr15:63335966
+    sort base 
+    collapse
+    snapshot collapse_TPM1_15_63335966.png
+    squish 
+    snapshot squish_TPM1_15_63335966.png
+    
+    goto chr16:2129384
+    group base_at_pos chr16:2129384
+    sort base 
+    collapse
+    snapshot collapse_TSC2_16_2129384.png
+    squish 
+    snapshot squish_TSC2_16_2129384.png
+    
+    goto chr16:2133728
+    group base_at_pos chr16:2133728
+    sort base 
+    collapse
+    snapshot collapse_TSC2_16_2133728.png
+    squish 
+    snapshot squish_TSC2_16_2133728.png
+    
+    goto chr17:7579472
+    group base_at_pos chr17:7579472
+    sort base 
+    collapse
+    snapshot collapse_TP53_17_7579472.png
+    squish 
+    snapshot squish_TP53_17_7579472.png
+    
+    goto chr17:41223094
+    group base_at_pos chr17:41223094
+    sort base 
+    collapse
+    snapshot collapse_BRCA1_17_41223094.png
+    squish 
+    snapshot squish_BRCA1_17_41223094.png
+    
+    goto chr17:41244000
+    group base_at_pos chr17:41244000
+    sort base 
+    collapse
+    snapshot collapse_BRCA1_17_41244000.png
+    squish 
+    snapshot squish_BRCA1_17_41244000.png
+    
+    goto chr17:41244435
+    group base_at_pos chr17:41244435
+    sort base 
+    collapse
+    snapshot collapse_BRCA1_17_41244435.png
+    squish 
+    snapshot squish_BRCA1_17_41244435.png
+    
+    goto chr17:41244936
+    group base_at_pos chr17:41244936
+    sort base 
+    collapse
+    snapshot collapse_BRCA1_17_41244936.png
+    squish 
+    snapshot squish_BRCA1_17_41244936.png
+    
+    goto chr18:28649042
+    group base_at_pos chr18:28649042
+    sort base 
+    collapse
+    snapshot collapse_DSC2_18_28649042.png
+    squish 
+    snapshot squish_DSC2_18_28649042.png
+    
+    goto chr19:33792645
+    group base_at_pos chr19:33792645
+    sort base 
+    collapse
+    snapshot collapse_CEBPA_19_33792645.png
+    squish 
+    snapshot squish_CEBPA_19_33792645.png
+    
+    goto chr19:39016006
+    group base_at_pos chr19:39016006
+    sort base 
+    collapse
+    snapshot collapse_RYR1_19_39016006.png
+    squish 
+    snapshot squish_RYR1_19_39016006.png
+    
+    goto chr19:55666174
+    group base_at_pos chr19:55666174
+    sort base 
+    collapse
+    snapshot collapse_TNNI3_19_55666174.png
+    squish 
+    snapshot squish_TNNI3_19_55666174.png
+    
+    goto chr21:36164479
+    group base_at_pos chr21:36164479
+    sort base 
+    collapse
+    snapshot collapse_RUNX1_21_36164479.png
+    squish 
+    snapshot squish_RUNX1_21_36164479.png
+    
+    exit
+    

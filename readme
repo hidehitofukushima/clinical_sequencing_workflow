@@ -9,23 +9,18 @@ export JAVA_HOME="/Library/Java/JavaVirtualMachines/jdk-11.jdk/Contents/Home"
 
 
 todo 
-・すべてのパスをプロジェクト相対パスに変更する
-・より良い設計とは？？
-・configファイルからの読み込みとmaster.pyをすべてシェルスクリプトに変更する
+svのigvが、まだ都度ゲノムを読み込む私用になってしまっている。これを真っ先に変更すること
+master.pyのシェルスクリプト化は割といそぎかも。
 例: source conf.txt && master.sh
-・変異の数を
 
-・pptxのマスターをちゃんと整備して、自動で解説スライドが出てくる様に変更する
-・変異の数や、大事なものを集計したエクセルファイルをpptxに載せられる様に機能を追加
-・QCのPDFファイルが、pptxに乗る様に機能を追加
-・病歴や情報がpptxに脳用に機能を追加
+変異数の集計と、各変異のエクセル化（ハードル高）
+適切なフィルタリングロジックの再設計（大事、KIT遺伝子のinframe insertion deleetionなどもちゃんと抽出できる様に、改良を行う。）
+pptxの自動化
+病歴の自動取得
+ACMGガイドラインのリストを確認、拡張できないか？
+
 
 シェルスクリプトでconfigを読み込む参考
 https://qiita.com/aki_number16/items/155d0dff85917b9a829b
 
 
-ACMGガイドラインのリストを確認、拡張できないか？
-
-KIT遺伝子のinframe insertion deleetionなどをちゃんと抽出できる様に、改良を行う。
-
-あ

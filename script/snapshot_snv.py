@@ -9,9 +9,9 @@ def snap(target_file, input_bam_tumor, input_bam_normal, output_dir_igv_snv):
 
     # Set the JAVA_HOME environment variable
     # export JAVA_HOME="/Library/Java/JavaVirtualMachines/jdk-11.jdk/Contents/Home"
-    os.environ[
-        "JAVA_HOME"
-    ] = "/Library/Java/JavaVirtualMachines/jdk-11.jdk/Contents/Home"
+    # os.environ[
+    #     "JAVA_HOME"
+    # ] = "/Library/Java/JavaVirtualMachines/jdk-11.jdk/Contents/Home"
 
     # parse target_file and create simple list
     with open(target_file, "rt") as f:
@@ -43,10 +43,10 @@ def snap(target_file, input_bam_tumor, input_bam_normal, output_dir_igv_snv):
     # header
     batch_header = """
     new
+    genome hg19
     snapshotDirectory {output_dir_igv}
     load "{input_bam_tumor}"
     load "{input_bam_normal}"
-    genome hg19
     maxPanelHeight 1000
     viewaspairs
     preference SAM.SHOW_SOFT_CLIPPED true
@@ -90,7 +90,7 @@ def snap(target_file, input_bam_tumor, input_bam_normal, output_dir_igv_snv):
 
     with open(script_file, "w") as script_handle:
         script_handle.write(script_buffer)
-    cmd = "/Users/fukushimahideto/tools/IGV_2.17.2/igv.sh -b " + script_file
+    cmd = "/Users/fukushimahideto/Desktop/clinical_sequencing_workflow/IGV_2.18.2/igv.sh -b " + script_file
     print(cmd)
     sp = subprocess.Popen(
         cmd, shell=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
