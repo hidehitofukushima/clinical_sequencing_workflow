@@ -9,6 +9,7 @@ export JAVA_HOME="/Library/Java/JavaVirtualMachines/jdk-11.jdk/Contents/Home"
 
 
 todo 
+trancating変異のリストから、HLAと名のつくものをすべて除去する。
 svのigvが、まだ都度ゲノムを読み込む私用になってしまっている。これを真っ先に変更すること
 master.pyのシェルスクリプト化は割といそぎかも。
 例: source conf.txt && master.sh
