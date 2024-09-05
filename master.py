@@ -310,3 +310,6 @@ shutil.copy(qc_pdf_file, output_trunk)
 
 # cp facet_image_file to output_trunk
 shutil.copy(facet_image_file, output_trunk)
+
+
+subprocess.run(["mv", "output", primary_id])

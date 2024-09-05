@@ -15,7 +15,7 @@ master.pyのシェルスクリプト化は割といそぎかも。
 
 変異数の集計と、各変異のエクセル化（ハードル高）
 適切なフィルタリングロジックの再設計（大事、KIT遺伝子のinframe insertion deleetionなどもちゃんと抽出できる様に、改良を行う。）
-pptxの自動化
+pptxの自動化 (https://qiita.com/kousakulog/items/34855cd8286bd4f33c08)
 病歴の自動取得
 ACMGガイドラインのリストを確認、拡張できないか？
 docker化（最終目標）
