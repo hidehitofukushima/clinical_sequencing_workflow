@@ -10,6 +10,8 @@ export JAVA_HOME="/Library/Java/JavaVirtualMachines/jdk-11.jdk/Contents/Home"
 
 todo 
 trancating変異のリストから、HLAと名のつくものをすべて除去する。
+svのツールとしてgenomonsv以外に、gridssやmantaの統合を
+そして、その中からとくにSV特異的遺伝子を含むSVを抽出する方法を考える。
 svのigvが、まだ都度ゲノムを読み込む私用になってしまっている。これを真っ先に変更すること
 master.pyのシェルスクリプト化は割といそぎかも。
 例: source conf.txt && master.sh
