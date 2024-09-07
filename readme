@@ -2,6 +2,7 @@ master command
 
 export R_LIBS="/Library/Frameworks/R.framework/Versions/4.4-arm64/Resources/library/clinical_sequencing_workflow" && export LD_LIBRARY_PATH=/opt/X11/lib && python3 master.py
 
+pip3 install python-pptx
 
 # igvをスポットで使用するとき。
 export JAVA_HOME="/Library/Java/JavaVirtualMachines/jdk-11.jdk/Contents/Home"
@@ -9,6 +10,8 @@ export JAVA_HOME="/Library/Java/JavaVirtualMachines/jdk-11.jdk/Contents/Home"
 
 
 todo 
+yokomon fileをコピーするように
+yokomon curationのNo.、genomonのnumberを表示したファイルを作成する
 trancating変異のリストから、HLAと名のつくものをすべて除去する。
 svのツールとしてgenomonsv以外に、gridssやmantaの統合を
 そして、その中からとくにSV特異的遺伝子を含むSVを抽出する方法を考える。
@@ -28,3 +31,16 @@ docker化（最終目標）
 https://qiita.com/aki_number16/items/155d0dff85917b9a829b
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+	完了	587	WGS	SW　	SW2	口腔スワブ		49	Female	IMSUT-NGS-587	東京大学医科学研究所附属病院	SW 22-0205	AML	遊佐代筆	2022/2/14	268	268-3	B042-587-2022-AML-SW3		Truseq nano=B042														
