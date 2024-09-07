@@ -4,12 +4,21 @@ from pptx import Presentation
 from pptx.util import Pt, Inches
 from pptx.dml.color import RGBColor
 import datetime
-
+import sys
 # センチメートルをPowerPoint上の距離に変換する関数
 def Centis(length):
     centi = Inches(length/2.54)
     return centi
 
+# python3 template.py $clinicalinformation
+
+clinicalinformation = sys.argv[1]
+# print(clinicalinformation)
+sex = clinicalinformation.rstrip().split("\t")[9]
+sex = "男性" if sex == "Male" else "女性"
+age = clinicalinformation.rstrip().split("\t")[8]
+history = clinicalinformation.rstrip().split("\t")[22]
+print(history)
 
 # ---------------------------------------------------
 "テンプレート、出力ファイル名の設定"
@@ -65,7 +74,36 @@ text_box.text_frame.add_paragraph().font.name = "Meiryo"
 text_box.text_frame.add_paragraph().font.size = Pt(20)
 
 
+###########################################################################################
+# ２枚目のスライド
+###########################################################################################
 
+slide2 = presentation.slides.add_slide(presentation.slide_layouts[4])
+
+hospital = "IMSUT"
+submission_date = "2024-09-07"
+diagnosis = "AML"
+sample1 = "sample1"
+sample2 = "sample2"
+
+text_box = slide2.shapes.add_textbox(Centis(5), Centis(5), Centis(20), Centis(10)) # left, top, width, height
+text_frame = text_box.text_frame
+p = text_frame.add_paragraph()
+p.text = f"Hospital: {hospital}\nSubmission Date: {submission_date}\nDiagnosis: {diagnosis}\nSample1: {sample1}\nSample2: {sample2}"
+p.font.name = "Meiryo"
+p.font.size = Pt(30)
+
+###########################################################################################
+# ３枚目のスライド
+###########################################################################################
+
+slide3 = presentation.slides.add_slide(presentation.slide_layouts[1])
+
+
+slide3.shapes.placeholders[0].text = f"臨床経過　症例：{age}歳{sex}"
+slide3.shapes.placeholders[0].text_frame.paragraphs[0].font.size = Pt(40)
+
+slide3.shapes.placeholders[1].text = f"{history}"
 
 
 # # ---------------------------------------------------
